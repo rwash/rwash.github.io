@@ -5,5 +5,11 @@ layout: master
  {{ content }}
 
 <div class="download">
-Download: <a href="{{ site.url }}/papers/{{ page.file }}">PDF</a>
+Download: 
+{% if page.pdf %}
+  <a href="{{ site.url }}/papers/{{ page.pdf }}">PDF</a>
+{% endif %}
+{% if page.ps %}
+  <a href="{{ site.url }}/papers/{{ page.ps }}">PS</a>
+{% endif %}
 </div>

@@ -2,7 +2,8 @@
 title: Lecture Notes on Stream Ciphers and RC4
 layout: paper
 reference: Rick Wash. "*Lecture Notes on Stream Ciphers and RC4*." Working Paper. September 26, 2001
-file: stream.pdf
+pdf: stream.pdf
+ps: stream.ps
 category: paper, working
 ---
 
