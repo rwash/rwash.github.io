@@ -3,6 +3,7 @@ layout: paper
 title: Content Provision and Digital Rights Management
 reference: Rick Wash. "*Content Provision and Digital Rights Management*." Working Paper, December 2005
 file: drm.pdf
+category: paper, working
 ---
 
 By Rick Wash
