@@ -48,3 +48,7 @@ h1 {
   float: left;
   display: inline;
 }
+
+#nav li {
+  list-style: none;
+}
