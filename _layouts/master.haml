@@ -1,0 +1,37 @@
+---
+---
+%html
+  %head
+    %title {{ page.title }}
+    %link{"rel" => "stylesheet", "href" => "css/rwash.css", "type" => "text/css"} 
+    %script{"src" => "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"}
+    %script{"src" => "/js/autoselect.js"}
+    
+  %body
+    .topbar{"data-scrollspy" => "scrollspy"}
+      .fill
+        .container
+          %ul#nav.nav
+            %li
+              %a(href="/index.html") Home
+            %li
+              %a(href="/about.html") About Me
+            %li
+              %a(href="/pubs.html") Papers
+            %li
+              %a(href="/research.html") Research
+            %li
+              %a(href="/teaching.html") Teaching
+            %li
+              %a(href="/cv.html") C.V.
+    .container
+      .row
+        #left.span4
+          #header
+            {% include header.html %}
+          #contact
+            {% include contact.html %}
+        #main.span12
+          #content
+            {{ content }}
+    
