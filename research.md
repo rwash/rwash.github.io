@@ -32,7 +32,7 @@ they dealwith those threats?  In addition, I am looking at how we can change
 people's understanding — their mental models of security threats – in a way that
 will lead to better security decisions. 
 
-Bootstrapping, Expectations, and Critical Mass in Social Media
+Achieving Critical Mass in Social Media
 --------------------------------------------------------------
 
 Social media systems require user participation and user contribution in order
