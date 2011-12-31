@@ -1,8 +1,11 @@
 ---
 layout: paper
 title: Content Provision and Digital Rights Management
+author: Rick Wash
+year: 2005
+month: December
 reference: Rick Wash. "*Content Provision and Digital Rights Management*." Working Paper, December 2005
-pdf: drm.pdf
+file: drm.pdf
 category: paper, working
 ---
 

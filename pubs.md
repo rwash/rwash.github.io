@@ -1,6 +1,7 @@
 ---
 title: Publications
 published: true
+layout: master
 ---
 
 ### Journal Papers
@@ -34,4 +35,18 @@ published: true
 * {{ pub | strip_newlines }}
 {% endfor %}
 
-[Security]: /projects/security
+### Working Papers
+
+{% for post in site.categories.working %}
+{% capture pub %}
+  {{ post.author }}. "**{{ post.title }}**" _Working paper_.
+  {% if post.month %} {{ post.month }} {% endif %}
+  {{ post.year }}.
+  (
+  {% if post.project %} [Project page][{{post.project}}] {% endif %}
+  {% if post.file %} [PDF](/papers/{{ post.file }}) {% endif %}
+  )
+{% endcapture %}
+* {{ pub | strip_newlines }}
+{% endfor %}
+
