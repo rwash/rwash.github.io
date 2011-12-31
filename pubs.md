@@ -28,9 +28,12 @@ layout: master
 {% for post in site.categories.conference %}
 {% capture pub %}
   {{ post.author }}. "**{{ post.title }}**" _{{ post.conference }}_.
+  {% if post.city %} {{ post.city }}. {% endif %}
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
   (
+  [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
+  {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
   {% if post.file %} [PDF](/papers/{{ post.file }}) {% endif %}
   )
 {% endcapture %}
