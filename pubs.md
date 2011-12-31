@@ -9,11 +9,14 @@ layout: master
 {% for post in site.categories.journal %}
 {% capture pub %}
   {{ post.author }}. "**{{ post.title }}**" _{{ post.journal }}_.
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
+  {% if post.volume %} Vol. {{ post.volume }} {% endif %} 
+  {% if post.number %} No. {{ post.number }} {% endif %} 
+  {% if post.pages %} pp. {{ post.pages }}. {% endif %} 
+  {% if post.month %} {{ post.month }} {% endif %} 
+  {{ post.year }}. 
   (
-  {% if post.project %} [Project page][{{post.project}}] {% endif %}
-  {% if post.link %} [Journal Page][{{post.link}}] {% endif %}
+  [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
+  {% if post.link %} [Journal Page]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
   {% if post.file %} [Cached Copy](/papers/{{ post.file }}) {% endif %}
   )
 {% endcapture %}
@@ -28,7 +31,6 @@ layout: master
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
   (
-  {% if post.project %} [Project page][{{post.project}}] {% endif %}
   {% if post.file %} [PDF](/papers/{{ post.file }}) {% endif %}
   )
 {% endcapture %}
