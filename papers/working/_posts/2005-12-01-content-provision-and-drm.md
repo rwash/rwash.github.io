@@ -6,7 +6,7 @@ year: 2005
 month: December
 reference: Rick Wash. "*Content Provision and Digital Rights Management*." Working Paper, December 2005
 file: drm.pdf
-category: paper, working
+category: [paper, working]
 ---
 
 By Rick Wash
