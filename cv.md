@@ -215,6 +215,7 @@ I was Student Volunteer Coordinator for ACM E-Commerce 2006.
 I was an external reviewer (panelist) for the NSF in 2011 and 2012.
 
 Reviewer for:
+
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
