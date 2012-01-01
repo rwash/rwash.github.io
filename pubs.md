@@ -41,6 +41,42 @@ layout: master
 * {{ pub | strip_newlines }}
 {% endfor %}
 
+### Book Chapters
+
+{% for post in site.categories.bookshap %}
+{% capture pub %}
+  {{ post.author }}. "**{{ post.title }}**" _{{ post.workshop }}_.
+  {% if post.city %} {{ post.city }}. {% endif %}
+  {% if post.month %} {{ post.month }} {% endif %}
+  {{ post.year }}.
+  {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
+  {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
+  {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
+  {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.appendix %},{% endif %}
+  {% if post.appendix %} [Appendix](/papers/{{ post.appendix }}) {% endif %}
+  {% if post.abstract or post.link or post.file or post.appendix %}){% endif %}
+{% endcapture %}
+* {{ pub | strip_newlines }}
+{% endfor %}
+
+### Workshop Papers
+
+{% for post in site.categories.workshop %}
+{% capture pub %}
+  {{ post.author }}. "**{{ post.title }}**" _{{ post.workshop }}_.
+  {% if post.city %} {{ post.city }}. {% endif %}
+  {% if post.month %} {{ post.month }} {% endif %}
+  {{ post.year }}.
+  {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
+  {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
+  {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
+  {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.appendix %},{% endif %}
+  {% if post.appendix %} [Appendix](/papers/{{ post.appendix }}) {% endif %}
+  {% if post.abstract or post.link or post.file or post.appendix %}){% endif %}
+{% endcapture %}
+* {{ pub | strip_newlines }}
+{% endfor %}
+
 ### Working Papers
 
 {% for post in site.categories.working %}
