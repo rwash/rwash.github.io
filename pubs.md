@@ -34,7 +34,8 @@ layout: master
   (
   [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
   {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
-  {% if post.file %} [PDF](/papers/{{ post.file }}) {% endif %}
+  {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.appendix %},{% endif %}
+  {% if post.appendix %} [Appendix](/papers/{{ post.appendix }}) {% endif %}
   )
 {% endcapture %}
 * {{ pub | strip_newlines }}
