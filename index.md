@@ -20,11 +20,3 @@ Recent News
 {% endif %}
 {% endfor %}
 
-
-More Information
-----------------
-
-I recently concluded a two-year job search for a tenure-track faculty position.  For those
-interested, my [job application materials][2] are available.
-
-[2]: {{ site.url }}/jobs
