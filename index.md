@@ -12,7 +12,7 @@ and looking at how those incentives lead to group-level patterns of behavior.
 Recent News
 -----------
 
-{% for post in site.categories.news %}
+{% for post in site.categories.news limit:site.news %}
 {% if post.link %}
 * [{{ post.short }}]({{post.url}})
 {% else %}
