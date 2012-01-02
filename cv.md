@@ -61,51 +61,65 @@ Publications
     : Chair: Jeffrey K. MacKie-Mason
     : Committee: Judith Olson, Mark Ackerman, Brian Noble
 
-### Journal Articles
+### Journal Papers
 
-* Cliff Lampe, Nicole Ellison, Jessica Vitak, Yvette Wohn, and Rick Wash. "Sensemaking in the Classroom:  Social and psychological predictors of students' use of Facebook to reduce equivocality." September 2010. *International Journal of Computer-Supported Cooperative Learning*. (2011) <http://www.springerlink.com/content/h9m4233168200637/>
-* Theodore Loder, Marshall van Alstyne, and Rick Wash. "An Economic Response to Unsolicited Communications." *Advances in Economic Analysis and Policy*, vol. 6, no. 1 (2006). <http://www.bepress.com/bejeap/advances/vol6/iss1/art2>
+{% for post in site.categories.journal %} {% capture pub %}
+  {{ post.author }}. "**{{ post.title }}**" _{{ post.journal }}_.
+  {% if post.volume %} Vol. {{ post.volume }} {% endif %} 
+  {% if post.number %} No. {{ post.number }} {% endif %} 
+  {% if post.pages %} pp. {{ post.pages }}. {% endif %} 
+  {% if post.month %} {{ post.month }} {% endif %} 
+  {{ post.year }}. 
+  {% if post.link %} <{{post.link}}>{% endif %}
+{% endcapture %} * {{ pub | strip_newlines }}
+{% endfor %}
 
-### Refereed, Archival Conference Proceedings
+### Conference Proceedings
 
-* Rick Wash and Cliff Lampe. "The Power of the Ask in Social Media." *Proceedings of the ACM Conference on Computer Supported Cooperative Work (CSCW)*. Seattle, WA. (2012)
-* Jacob Solomon and Rick Wash. "Bootstrapping Wikis: Developing Critical Mass in an Fledgling Community by Seeding Content." *Proceedings of the ACM Conference on Computer Supported Cooperative Work (CSCW)*.  Seattle, WA. (2012)
-* Rick Wash and Emilee Rader. "Influencing Mental Models of Security." *Proceedings of the New Paradigms in Security Workshop (NPSW)*. Marshall, CA. (2011)
-* Donghee Yvette Wohn, Cliff Lampe, Nicole Ellison, Rick Wash, and Jessica Vitak. "The "S" in Social Network Games: Initiating, Maintaining, and Enhancing Relationships." *Proceedings of the 44th Annual Hawaii International Conference on System Sciences (HICSS)*, Kauai, HI. Computer Society Press. (2011)
-* Rick Wash. "Folk Models of Home Computer Security." *Symposium on Usable Privacy and Security (SOUPS)*. Redmond, WA. (2010)
-* Cliff Lampe, Rick Wash, Alcides Velasquez, and Elif Ozkaya. "Motivations to Participate in Online Communities." *Proceedings of the ACM Conference on Human Factors in Computing (CHI)*. Atlanta, GA. (2010)
-* Emilee Rader and Rick Wash. "Influences on Tag Choices in del.icio.us." *Proceedings of the ACM Conference on Computer Supported Cooperative Work (CSCW)*. San Diego, CA (2008) 
-* Rick Wash and Jeffrey MacKie-Mason. "Security When People Matter: Structuring Incentives For User Behavior." *Proceedings of the International Conference on Electronic Commerce (ICEC)*. Minneapolis, MN. (2007) 
-* Rick Wash and Emilee Rader. "Public Bookmarks and Private Benefits: An Analysis of Incentives in Social Computing." *Proceedings of the American Society for Information Science and Technology (ASIS&T) Annual Meeting*. Milwaukee, WI. (2007) 
-* Rick Wash, Libby Hemphill, and Paul Resnick. "Design Decisions in the RideNow Project." *Proceedings of the ACM Conference on Supporting Group Work (GROUP)*. Sanibel Island, FL. (2005) 
-* Thede Loder, Marshall Van Alstyne, and Rick Wash. "An Economic Solution to the Spam Problem." *Proceedings of the ACM Conference on Electronic Commerce (EC)*. New York, NY. (2004)
+{% for post in site.categories.conference %} {% capture pub %} 
+{{ post.author }}. "**{{ post.title }}**" _{{ post.conference }}_.
+  {% if post.city %} {{ post.city }}. {% endif %}
+  {% if post.month %} {{ post.month }} {% endif %}
+  {{ post.year }}.
+  {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} 
+{% endcapture %} * {{ pub | strip_newlines | strip_html }}
+{% endfor %}
 
 ### Book Chapters
 
-* Rick Wash and Emilee Rader. "Folk Models of Home Computer Security." In "The Death of the Internet", edited by Markus Jacobsson. Wiley, 2012. ISBN 9781118062418
+{% for post in site.categories.bookchap %} {% capture pub %} 
+{{ post.author }}. "**{{ post.title }}**." 
+  In _{{ post.book }}_, Edited by {{ post.editor }}.
+  {{ post.publisher }}.
+  {% if post.city %} {{ post.city }}. {% endif %}
+  {% if post.month %} {{ post.month }} {% endif %}
+  {{ post.year }}.
+  {% if post.isbn %} ISBN {{ post.isbn }} {% endif %}
+{% endcapture %} * {{ pub | strip_newlines }}
+{% endfor %}
 
-### Peer-reviewed, Non-archival Workshop Presentations
+### Workshop Papers
 
-* Lampe, C., Ellison, N., Vitak, J., Wohn, Y., & Wash, R. (2010). "Social Sensemaking: Propensity to use Facebook to reduce classroom equivocality." Paper to be presented at the *60th Annual Conference of the International Communication Association*, Singapore.
-* Rick Wash and Emilee Rader. "Using Economic Modeling to Predict User Behavior." (2010) In *Understanding Online Behavior, a workshop at CHI 2010*. 
-* Rick Wash. "Incentive Design for Home Computer Security." In *iConference, Doctoral Colloquium* (2008). 
-* Rick Wash. "Mental Models of Home Computer Security." (July 2008). Extended Abstract in *SOUPS, The Symposium on Usable Privacy and Security, Poster Session*. 
-* Rick Wash and Jeff MacKie-Mason. "A Social Mechanism for Home Computer Security." (December 2008). *Workshop on Information Systems and Economics (WISE)*. 
-* Rick Wash and Jeffrey K. MacKie-Mason. "Incentive Design for Home Computer Security." (2008b). *Presented at iConference 2008 Poster Session*. 
-* Rick Wash and Emilee Rader. "Understanding del.icio.us Tag Choice using Simulations." In *iConference, Papers Track* (2008). 
-* Rick Wash. "Incentive Design for Home Computer Security." Extended Abstract In *ACM SIGCHI Conference on Computer-Human Interaction, Doctoral Consortium* (2007). 
-* Emilee Rader and Rick Wash. "Tagging with del.icio.us: Social or Selfish?" (Nov. 2006). Extended Abstract in *Computer Support Cooperative Work (CSCW) 06 Poster Session*. 
-* Rick Wash and Jeffrey MacKie-Mason. "Incentive Centered Design and Information Security." (Jul. 2006). Presented at the *First Workshop on Hot Topics in Security (HotSec 06)*. 
-* Thede Loder, Marshall van Alstyne, and Rick Wash. "An Economic Solution to the Spam Problem." (Jan. 2004). Presented at the *MIT Spam Conference*. 
-* Thede Loder, Marshall van Alstyne, and Rick Wash. "An Economic Response to Unsolicited Communications." (Dec. 2004). Presented at the *Workshop on Information Systems and Economics (WISE)*. 
-* Jose Nazario, Jeremy Anderson, Rick Wash, and Chris Connelly. "The Future of Internet Worms." In *Blackhat Briefings* (2001). 
+{% for post in site.categories.workshop %} {% capture pub %}
+  {{ post.author }}. "**{{ post.title }}**" 
+  {% if post.type %} {{ post.type }} in {% endif %}
+  _{{ post.workshop }}_{% if post.conference %}, at {{ post.conference }}{% endif %}.
+  {% if post.city %} {{ post.city }}. {% endif %}
+  {% if post.month %} {{ post.month }} {% endif %}
+  {{ post.year }}.
+{% endcapture %} * {{ pub | strip_newlines }}
+{% endfor %}
 
 ### Working Papers
 
-* Alcides Velasquez, Rick Wash, Cliff Lampe, and Tor Bjornrud. "Active or Fled? Changes in How Users Satisfy Their Motivations Over Time." September 2010. 
-* Rick Wash and Jeff MacKie-Mason. "Using a Minimum Threshold to Motivate Contribution to Social Computing." (Jun. 2009). Part of my dissertation. 
-* Rick Wash. "Content Provision under Digital Rights Management." (Dec. 2005). 
-* Rick Wash. "Lecture Notes on Stream Ciphers and RC4." (Sep. 2001). Case Western Reserve University. 
+{% for post in site.categories.working %} {% capture pub %}
+  {{ post.author }}. "**{{ post.title }}**" 
+  {% if post.working %} _{{ post.working }}_. {% else %} _Working paper_. {% endif %}
+  {% if post.month %} {{ post.month }} {% endif %}
+  {{ post.year }}.
+{% endcapture %} * {{ pub | strip_newlines }}
+{% endfor %}
+
 
 ### Invited Talks
 
