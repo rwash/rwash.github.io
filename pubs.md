@@ -73,12 +73,13 @@ layout: master
   {% if post.city %} {{ post.city }}. {% endif %}
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
-  {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
+  {% if post.abstract or post.link or post.file or post.poster or post.appendix %}({% endif %}
   {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
   {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
-  {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.appendix %},{% endif %}
+  {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.appendix or post.poster %},{% endif %}
   {% if post.appendix %} [Appendix](/papers/{{ post.appendix }}) {% endif %}
-  {% if post.abstract or post.link or post.file or post.appendix %}){% endif %}
+  {% if post.poster %} [Poster](/papers/{{ post.poster }}) {% endif %}
+  {% if post.abstract or post.link or post.file or post.poster or post.appendix %}){% endif %}
 {% endcapture %}
 * {{ pub | strip_newlines }}
 {% endfor %}
