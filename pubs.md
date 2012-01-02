@@ -43,12 +43,15 @@ layout: master
 
 ### Book Chapters
 
-{% for post in site.categories.bookshap %}
+{% for post in site.categories.bookchap %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" _{{ post.workshop }}_.
+  {{ post.author }}. "**{{ post.title }}**." 
+  In _{{ post.book }}_, Edited by {{ post.editor }}.
+  {{ post.publisher }}.
   {% if post.city %} {{ post.city }}. {% endif %}
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
+  {% if post.isbn %} ISBN {{ post.isbn }} {% endif %}
   {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
   {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
   {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
