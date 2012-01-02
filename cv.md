@@ -64,12 +64,7 @@ Publications
 ### Journal Papers
 
 {% for post in site.categories.journal %} {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" _{{ post.journal }}_.
-  {% if post.volume %} Vol. {{ post.volume }} {% endif %} 
-  {% if post.number %} No. {{ post.number }} {% endif %} 
-  {% if post.pages %} pp. {{ post.pages }}. {% endif %} 
-  {% if post.month %} {{ post.month }} {% endif %} 
-  {{ post.year }}. 
+  {% include journal.md %}
   {% if post.link %} <{{post.link}}>{% endif %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
@@ -77,10 +72,7 @@ Publications
 ### Conference Proceedings
 
 {% for post in site.categories.conference %} {% capture pub %} 
-{{ post.author }}. "**{{ post.title }}**" _{{ post.conference }}_.
-  {% if post.city %} {{ post.city }}. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
+  {% include conference.md %}
   {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} 
 {% endcapture %} * {{ pub | strip_newlines | strip_html }}
 {% endfor %}
@@ -88,35 +80,21 @@ Publications
 ### Book Chapters
 
 {% for post in site.categories.bookchap %} {% capture pub %} 
-{{ post.author }}. "**{{ post.title }}**." 
-  In _{{ post.book }}_, Edited by {{ post.editor }}.
-  {{ post.publisher }}.
-  {% if post.city %} {{ post.city }}. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
-  {% if post.isbn %} ISBN {{ post.isbn }} {% endif %}
+  {% include bookchap.md %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
 ### Workshop Papers
 
 {% for post in site.categories.workshop %} {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" 
-  {% if post.type %} {{ post.type }} in {% endif %}
-  _{{ post.workshop }}_{% if post.conference %}, at {{ post.conference }}{% endif %}.
-  {% if post.city %} {{ post.city }}. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
+  {% include workshop.md %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
 ### Working Papers
 
 {% for post in site.categories.working %} {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" 
-  {% if post.working %} _{{ post.working }}_. {% else %} _Working paper_. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
+  {% include working.md %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 

@@ -8,12 +8,7 @@ layout: master
 
 {% for post in site.categories.journal %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" _{{ post.journal }}_.
-  {% if post.volume %} Vol. {{ post.volume }} {% endif %} 
-  {% if post.number %} No. {{ post.number }} {% endif %} 
-  {% if post.pages %} pp. {{ post.pages }}. {% endif %} 
-  {% if post.month %} {{ post.month }} {% endif %} 
-  {{ post.year }}. 
+  {% include journal.md %}
   (
   [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
   {% if post.link %} [Journal Page]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
@@ -27,10 +22,7 @@ layout: master
 
 {% for post in site.categories.conference %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" _{{ post.conference }}_.
-  {% if post.city %} {{ post.city }}. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
+{% include conference.md %}
   (
   [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
   {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
@@ -46,13 +38,7 @@ layout: master
 
 {% for post in site.categories.bookchap %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**." 
-  In _{{ post.book }}_, Edited by {{ post.editor }}.
-  {{ post.publisher }}.
-  {% if post.city %} {{ post.city }}. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
-  {% if post.isbn %} ISBN {{ post.isbn }} {% endif %}
+  {% include bookchap.md %}
   {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
   {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
   {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
@@ -67,12 +53,7 @@ layout: master
 
 {% for post in site.categories.workshop %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" 
-  {% if post.type %} {{ post.type }} in {% endif %}
-  _{{ post.workshop }}_{% if post.conference %}, at {{ post.conference }}{% endif %}.
-  {% if post.city %} {{ post.city }}. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
+  {% include workshop.md %}
   {% if post.abstract or post.link or post.file or post.poster or post.appendix %}({% endif %}
   {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
   {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
@@ -88,10 +69,7 @@ layout: master
 
 {% for post in site.categories.working %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" 
-  {% if post.working %} _{{ post.working }}_. {% else %} _Working paper_. {% endif %}
-  {% if post.month %} {{ post.month }} {% endif %}
-  {{ post.year }}.
+  {% include working.md %}
   {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
   {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
   {% if post.file %} [PDF](/papers/{{ post.file }}) {% endif %}
