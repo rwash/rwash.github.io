@@ -89,6 +89,7 @@ layout: master
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
   {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
+  {% if post.abstract %} [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
   {% if post.file %} [PDF](/papers/{{ post.file }}) {% endif %}
   {% if post.abstract or post.link or post.file or post.appendix %}){% endif %}
 {% endcapture %}
