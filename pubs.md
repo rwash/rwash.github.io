@@ -36,6 +36,7 @@ layout: master
   {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
   {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.appendix %},{% endif %}
   {% if post.appendix %} [Appendix](/papers/{{ post.appendix }}) {% endif %}
+{% comment %}  {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} {% endcomment %}
   )
 {% endcapture %}
 * {{ pub | strip_newlines }}
