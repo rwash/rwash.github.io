@@ -9,7 +9,7 @@ pages: 329--347
 doi: 10.1007/s11412-011-9115-y
 link: http://www.springerlink.com/content/h9m4233168200637/
 file: facebook-classroom-ijcscl.pdf
-layout: paper
+layout: journal
 ---
 
 Social network sites such as Facebook are often conceived of as purely social spaces; however, as these sites have

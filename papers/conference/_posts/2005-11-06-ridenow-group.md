@@ -6,7 +6,7 @@ city: Sanibel Island, FL
 month: November
 year: 2005
 file: ridenow-group.pdf
-layout: paper
+layout: conference
 ---
 
 The RideNow Project is designed to help individuals within a group or organization coordinate ad hoc shared rides. This

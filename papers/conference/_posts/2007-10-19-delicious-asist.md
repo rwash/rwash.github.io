@@ -6,7 +6,7 @@ city: Milwaukee, WI
 month: October
 year: 2007
 file: delicious-incentives-asist-final.pdf
-layout: paper
+layout: conference
 ---
 
 Users of social computing websites are both producers and consumers of the information found on the site. This creates a

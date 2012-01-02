@@ -5,7 +5,7 @@ workshop: Blackhat Briefings
 month: July
 year: 2001
 abstract: true
-layout: paper
+layout: workshop
 file: worm.pdf
 ---
 

@@ -6,7 +6,7 @@ month: September
 year: 2011
 city: Marshall, CA
 file: nspw06r-wash.pdf
-layout: paper
+layout: conference
 categories: conference
 ---
 

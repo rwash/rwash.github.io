@@ -4,7 +4,7 @@ author: Rick Wash and Jeff MacKie-Mason
 month: June
 year: 2009
 file: excludable-threshold-wp09.pdf
-layout: paper
+layout: working
 abstract: true
 ---
 

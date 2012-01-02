@@ -9,7 +9,7 @@ year: 2006
 file: cscw2006_delicious_poster_v2.pdf
 poster: rader_delicious_cscw.pdf
 abstract: true
-layout: paper
+layout: workshop
 ---
 
 **del.icio.us** is a website for "social bookmarking" where users can store and access their bookmarks online, along with

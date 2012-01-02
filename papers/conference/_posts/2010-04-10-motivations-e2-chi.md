@@ -6,7 +6,7 @@ city: Atlanta, GA
 month: April
 year: 2010
 file: pap1604_lampe.pdf
-layout: paper
+layout: conference
 ---
 
 A consistent theoretical and practical challenge in the design of socio-technical systems is that of motivating users to

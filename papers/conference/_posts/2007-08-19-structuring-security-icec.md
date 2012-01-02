@@ -6,7 +6,7 @@ city: Minneapolis, MN
 month: August
 year: 2007
 file: icec702w-wash.pdf
-layout: paper
+layout: conference
 ---
 
 

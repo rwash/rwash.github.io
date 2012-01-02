@@ -1,5 +1,5 @@
 ---
-layout: paper
+layout: working
 title: Content Provision and Digital Rights Management
 author: Rick Wash
 year: 2005

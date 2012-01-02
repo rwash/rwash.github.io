@@ -1,0 +1,15 @@
+---
+layout: paper
+---
+ {{ content }}
+
+{% capture pub %}
+{% assign post = page %}
+{% include journal.md %}
+{% endcapture %}
+
+<div>
+<h4>Reference</h4>
+{{ pub | markdownify | strip_newlines | remove: '</p><p>' }}
+</div>
+

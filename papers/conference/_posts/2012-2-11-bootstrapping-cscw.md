@@ -6,7 +6,7 @@ city: Seattle, WA
 month: February
 year: 2012
 file: bootstrapping-cscw.pdf
-layout: paper
+layout: conference
 ---
 
 Online communities depend on content contributed by their members.  However, new communities have not yet achieved

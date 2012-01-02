@@ -6,7 +6,7 @@ city: Kauai, HI
 month: January
 year: 2011
 doi: 10.1109/HICSS.2011.400 
-layout: paper
+layout: conference
 file: social-network-games-hicss.pdf
 ---
 

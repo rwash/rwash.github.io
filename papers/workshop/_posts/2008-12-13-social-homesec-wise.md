@@ -6,7 +6,7 @@ month: December
 year: 2008
 abstract: true
 file: social-firewall-hotsec08.pdf
-layout: paper
+layout: workshop
 ---
 
 Hackers have learned to leverage the enormous number of poorly protected home computers by turning them into a large

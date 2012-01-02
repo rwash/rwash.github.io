@@ -8,7 +8,7 @@ year: 2007
 type: Extended Abstract
 abstract: true
 file: dc165-wash.pdf
-layout: paper
+layout: workshop
 ---
 
 Home computer users frequently lack the skills necessary to ensure proper security.   Hackers exploit this to control
