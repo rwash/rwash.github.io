@@ -44,4 +44,4 @@ project.
 For more information, see the [NSF Award Page] or the [Project website].
 
 [NSF Award Page]: http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1101266
-[Project website]: http://www.rickwash.com/crowdfunding
+[Project website]: http://bitlab.cas.msu.edu/crowdfunding/index.html

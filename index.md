@@ -14,7 +14,7 @@ Recent News
 
 {% for post in site.categories.news limit:site.news %}
 {% if post.link %}
-* [{{ post.short }}]({{post.url}})
+* {{ post.short }} ([more info]({{post.url}}))
 {% else %}
 * {{ post.short }}
 {% endif %}
