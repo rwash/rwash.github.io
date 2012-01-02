@@ -84,13 +84,13 @@ layout: master
 
 {% for post in site.categories.working %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" _Working paper_.
+  {{ post.author }}. "**{{ post.title }}**" 
+  {% if post.working %} _{{ post.working }}_. {% else %} _Working paper_. {% endif %}
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.
-  (
-  {% if post.project %} [Project page][{{post.project}}] {% endif %}
+  {% if post.abstract or post.link or post.file or post.appendix %}({% endif %}
   {% if post.file %} [PDF](/papers/{{ post.file }}) {% endif %}
-  )
+  {% if post.abstract or post.link or post.file or post.appendix %}){% endif %}
 {% endcapture %}
 * {{ pub | strip_newlines }}
 {% endfor %}
