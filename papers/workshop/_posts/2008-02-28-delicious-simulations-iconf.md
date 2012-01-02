@@ -5,4 +5,6 @@ workshop: iConference, Papers Track
 month: March
 year: 2008
 abstract: false
+type: Full Paper
+file: delicious-iconf.pdf
 ---

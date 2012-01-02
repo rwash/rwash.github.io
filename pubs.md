@@ -67,7 +67,9 @@ layout: master
 
 {% for post in site.categories.workshop %}
 {% capture pub %}
-  {{ post.author }}. "**{{ post.title }}**" _{{ post.workshop }}_{% if post.conference %}, A workshop at {{ post.conference }}{% endif %}.
+  {{ post.author }}. "**{{ post.title }}**" 
+  {% if post.type %} {{ post.type }} in {% endif %}
+  _{{ post.workshop }}_{% if post.conference %}, A workshop at {{ post.conference }}{% endif %}.
   {% if post.city %} {{ post.city }}. {% endif %}
   {% if post.month %} {{ post.month }} {% endif %}
   {{ post.year }}.

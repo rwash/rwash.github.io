@@ -6,4 +6,5 @@ type: Extended Abstract
 month: July
 year: 2008
 abstract: false
+file: homesec-soups08-poster.pdf
 ---
