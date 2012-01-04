@@ -1,6 +1,7 @@
 ---
 ---
-%html
+!!!
+%html(lang="en")
   %head
     %title {{ page.title }}
     %link{"rel" => "stylesheet", "href" => "/css/rwash.css", "type" => "text/css", "media" => "all"}
@@ -10,9 +11,9 @@
     
   %body
     .topbar{"data-scrollspy" => "scrollspy"}
-      .fill
+      .topbar-inner
         .container
-          %ul#nav.nav
+          %ul.nav
             %li
               %a(href="/index.html") Home
             %li
