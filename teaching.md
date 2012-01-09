@@ -14,7 +14,7 @@ Social Media, Technology and Journalism, Human-Computer Interaction (HCI), and C
 ### Currently Teaching (Spring 2012)
 
 * **TC 359**: *Server Side Web Development*   ([website](http://webdev.cas.msu.edu))
-* **TC 985**: *Analysis for Media*    
+* **TC 985**: *Analysis for Media*      ([website](http://edhar.cas.msu.edu/tc985))
 
 ### Past Classes
 
