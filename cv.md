@@ -242,7 +242,7 @@ In The News
     * Green Bay Press-Gazette (and many other Gannett papers): Jan 2, 2012. <http://www.greenbaypressgazette.com/usatoday/article/38251127>
     * WDIV Detroit: Jan 2, 2012. <http://www.clickondetroit.com/news/US-helps-MSU-profs-study-home-computer-security/-/1719418/7545626/-/90s71y/-/index.html>
     * Based on the MSU Press Release on Dec 16, 2011: http://news.msu.edu/story/10148
-* I did a live radio interview at WILS 1320 Talk Radio Lansing. <http://www.webwiseforradio.com/site_files/368/File/12-16-11_Rick%20Wash2%20.mp3>
+* I did a live radio interview at WILS 1320 Talk Radio Lansing on Dec 16, 2011. <http://www.webwiseforradio.com/site_files/368/File/12-16-11_Rick%20Wash2%20.mp3>
 * My Folk Models of Security paper was highlighted by a number of computer industry venues:
 
    * Bruce Schneier: March 22, 2011. <http://www.schneier.com/blog/archives/2011/03/folk_models_in.html>
