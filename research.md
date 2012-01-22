@@ -29,14 +29,14 @@ This has led to many of these computers being the victims of numerous computer
 crimes. I am investigating how homecomputer users think about the process of
 securing their home computers: what are the threats that they face, and how do
 they dealwith those threats?  In addition, I am looking at how we can change
-people's understanding — their mental models of security threats – in a way that
+people's understanding -- their mental models of security threats -- in a way that
 will lead to better security decisions. 
 
 Achieving Critical Mass in Social Media
 --------------------------------------------------------------
 
 Social media systems require user participation and user contribution in order
-to succeed.  However, users’ participation decisions are not made in isolation;
+to succeed.  However, users' participation decisions are not made in isolation;
 there is a strong feedback influence.  People only choose to participate in
 social media systems based on what contributions they see others making, and
 their expectations about the future of the social media system.  I am
