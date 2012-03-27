@@ -158,6 +158,7 @@ Teaching Experience
 * Jacob Solomon.  MSU MIS.   2010-Present
 * Tor Bjornrud. MSU MIS. 2011-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2011-Present
+* Laeeq Khan. MSU MIS. 2012-Present
 
 #### PhD Committee Member
 
@@ -188,6 +189,8 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Kim Setili, MSU. Spring 2012
+* Mitchell Thelen, MSU. Spring 2012
 * Andrew Rockwell, MSU. Spring 2012
 * Aaron Robinson, MSU. Fall 2011
 * Rachel Lipson. UMich NSF REU, Summer 2008
@@ -203,6 +206,7 @@ Conference Program Committees:
 * WEIS (Workshop on Economics and Information Security): 2012
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/)
+* CSCW (ACM Conference on Computer-Supported Cooperative Work): 2013
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 I was an external reviewer (panelist) for the NSF in 2011 and 2012.
@@ -244,6 +248,7 @@ In The News
     * WDIV Detroit: Jan 2, 2012. <http://www.clickondetroit.com/news/US-helps-MSU-profs-study-home-computer-security/-/1719418/7545626/-/90s71y/-/index.html>
     * Based on the MSU Press Release on Dec 16, 2011: http://news.msu.edu/story/10148
 * I did a live radio interview at WILS 1320 Talk Radio Lansing on Dec 16, 2011. <http://www.webwiseforradio.com/site_files/368/File/12-16-11_Rick%20Wash2%20.mp3>
+* I did a recorded ratio interview on WQHH Power 96.5 fm in Lansing that aired on Sunday, March 11 2012 between 9:30am-10:00am about Google's new privacy policy changes
 * My Folk Models of Security paper was highlighted by a number of computer industry venues:
 
    * Bruce Schneier: March 22, 2011. <http://www.schneier.com/blog/archives/2011/03/folk_models_in.html>
