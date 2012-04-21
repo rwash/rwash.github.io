@@ -40,7 +40,9 @@ Lansing, MI 48910
 ### Research Grants
 
 * *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern.  Total Budget: $499,781; MSU Budget: $258,194
+    * REU Supplement 2012: $16,000
 * *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**.  Budget $399,511.
+    * REU Supplement 2012: $16,000
 * *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
 #### Declined Research Grant Proposals
@@ -101,7 +103,7 @@ Publications
 
 ### Invited Talks
 
-* Rick Wash. TBA. At *Cornell University, Information Science Colloquium*. (2012)
+* Rick Wash. "Thinking and Talking About Security." At *Cornell University, Information Science Colloquium*. (2012)
 * Rick Wash. "Socio-technical Influence on Behavior in Social Media." At *Michigan State University, School of Journalism and Department of Telecommunications, Information Studies, and Media*. (2010)
 * Rick Wash. "Socio-technical Influence on Behavior in Social Media." At *University of North Carolina at Chapel Hill, School of Information and Library Science*. (2010)
 * Rick Wash. "Socio-technical Influence on Behavior in Social Media." At *Northwestern University, SONIC lab*. (2010)
@@ -125,6 +127,9 @@ Teaching Experience
 ### Classes Taught
 
 #### Instructor of Record
+* **Spring 2013**. MSU TC 985: *Analysis for Media*
+* **Spring 2013**. MSU JRN 821: *Social Media News and Information*
+* **Fall 2012**. MSU TC 359: *Server-Side Web Development*
 * **Spring 2012**. MSU TC 359: *Server-Side Web Development*
 * **Spring 2012**. MSU TC 985: *Analysis for Media*
 * **Fall 2011**. MSU CAS 992: *Special Topics: Large-Scale Data and Exploratory Data Analysis*
@@ -162,6 +167,7 @@ Teaching Experience
 
 #### PhD Committee Member
 
+* Sonya Yan Son. MSU MIS. 2012-Present
 * Ryan Feywin-Bliss. MSU MIS. 2011-Present
 * Michael Friedman. MSU MIS. 2011-Present
 * Brandon Brooks. MSU MIS. 2011-Present
@@ -170,11 +176,11 @@ Teaching Experience
 
 #### MA Advisor
 
-* Craig Tucker. MSU TC Masters Project. 2012 ?
+* Craig Tucker. MSU TC Masters Project. 2012 
 
 #### MA Committee Member
 
-* Benoit Bennot-Madin. MSU TC Masters Project. 2011 ?
+<!-- * Benoit Bennot-Madin. MSU TC Masters Project. 2011 ? -->
 * Maggie Vandura. MSU TC Masters Project. 2011
 * Jeff Gillies. MSU Journalism Masters Thesis. 2011
 * Ian Hewlett.  MSU TC Masters Thesis. 2011
@@ -189,7 +195,10 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
-* Kim Setili, MSU. Spring 2012
+* Alison Thierbach, MSU. Summer 2012
+* Kyle Safran, MSU. Summer 2012
+* Nate Zemanek, MSU. Summer 2012
+* Kim Setili, MSU. Spring 2012, Summer 2012
 * Mitchell Thelen, MSU. Spring 2012
 * Andrew Rockwell, MSU. Spring 2012
 * Aaron Robinson, MSU. Fall 2011
@@ -224,7 +233,7 @@ Reviewer for:
 
 ### University Service
 
-* MSU Social Media Seminar Series.  Organizer, 2010-2011
+* MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011
 * MSU Journalism Research Committee 2010-2012
 * MSU TISM PhD Advisory Committee 2010-2011
 * MSU MIS PhD Program Steering Committee. 2011-2013
