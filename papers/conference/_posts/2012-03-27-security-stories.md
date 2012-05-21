@@ -1,12 +1,13 @@
 ---
 title: Stories as Informal Lessons About Security
 author: Emilee Rader, Rick Wash, and Brandon Brooks
-month: March
+conference: Symposium on Usable Privacy and Security (SOUPS)
+month: July
 year: 2012
+city: Washington, DC
 abstract: true
-layout: working
+layout: conference
 file: rader_securitystories.pdf
-working: Under review
 ---
 
 Non-expert computer users regularly need to make security-relevant decisions; however, these decisions tend not to be
