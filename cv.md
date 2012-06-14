@@ -112,7 +112,7 @@ Publications
 * Rick Wash.  "Is 'Social Tagging' an Oxymoron? Understanding Incentives on del.icio.us." At *Massachusetts Institute of Technology, Media Lab*. (2009) 
 * Rick Wash.  "Is 'Social Tagging' an Oxymoron? Understanding Incentives on del.icio.us." At *Rutgers University, Department of Library and Information Science*. (2009)
 * Rick Wash and Jeffrey MacKie-Mason. "Incentive-Centered Design for Information Security." At *DIMACS Workshop on Information Security Economics* (2007).
-* Rick Wash and Jeffrey MacKie-Mason. "Incentive-Centered Design for Information Security." At *Ford Information Technology Seminar* (2007).  
+* Rick Wash and Jeffrey MacKie-Mason. "Incentive-Centered Design for Information Security." At *Ford Information Technology Seminar* (2007).
 * Rick Wash. "The Economics of Malevolence in Cyberspace." (Mar. 2005). Invited Talk at *Case Western Reserve University*. 
 * Rick Wash. "The Security of Trusted Computing." (February 2004). Invited Talk at *Case Western Reserve University*. 
 * Rick Wash. "The Digital Millenium Copyright Act." (February 2002). Given at the *CWRU Chapter of the ACM*. 
@@ -167,7 +167,7 @@ Teaching Experience
 
 #### PhD Committee Member
 
-* Sonya Yan Son. MSU MIS. 2012-Present
+* Sonya Yan Song. MSU MIS. 2012-Present
 * Ryan Feywin-Bliss. MSU MIS. 2011-Present
 * Michael Friedman. MSU MIS. 2011-Present
 * Brandon Brooks. MSU MIS. 2011-Present
@@ -181,9 +181,9 @@ Teaching Experience
 #### MA Committee Member
 
 <!-- * Benoit Bennot-Madin. MSU TC Masters Project. 2011 ? -->
+* Ian Hewlett.  MSU TC Masters Thesis. 2012
 * Maggie Vandura. MSU TC Masters Project. 2011
 * Jeff Gillies. MSU Journalism Masters Thesis. 2011
-* Ian Hewlett.  MSU TC Masters Thesis. 2011
 * Xi (Mickey) Yue. MSU TC Masters Thesis. 2011 
 * Chris Hamrick. MSU TC Masters Thesis. 2011
 * Korey Scott. MSU TC Masters Project. 2010
