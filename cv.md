@@ -195,10 +195,12 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
-* Alison Thierbach, MSU. Summer 2012
-* Kyle Safran, MSU. Summer 2012
-* Nate Zemanek, MSU. Summer 2012
-* Kim Setili, MSU. Spring 2012, Summer 2012
+* Jake Wesorick, MSU. Summer 2012
+* Sam Mills, MSU. Summer, 2012
+* Alison Thierbach, MSU. Summer 2012 REU
+* Kyle Safran, MSU. Summer 2012 REU
+* Nate Zemanek, MSU. Summer 2012 REU
+* Kim Setili, MSU. Spring 2012, Summer 2012 REU
 * Mitchell Thelen, MSU. Spring 2012
 * Andrew Rockwell, MSU. Spring 2012
 * Aaron Robinson, MSU. Fall 2011
