@@ -3,10 +3,10 @@ title: "A Virtual Room with a Cue"
 author: Donghee Yvette Wohn and Rick Wash
 journal: Computers in Human Behavior
 year: 2012
-volume: ?
-number: ?
-pages: ???--???
-doi: 
+volume: x
+number: x
+pages: xxx--xxx
+doi: xxx
 link: http://www.sciencedirect.com/science/article/pii/S0747563212002324
 file: wohnandwash2012.pdf
 layout: journal
