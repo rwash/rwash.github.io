@@ -1,5 +1,5 @@
 ---
-title: "A Virtual Room with a Cue"
+title: "A Virtual Room with a Cue: Detecting personality through spatial customization in a city simulation game"
 author: Donghee Yvette Wohn and Rick Wash
 journal: Computers in Human Behavior
 year: 2012
