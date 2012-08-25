@@ -48,7 +48,7 @@ the analysis of more traditional data like that from experiments.
 
 #### The Future of News
 
-*JRN 492, JRN 8092*
+*JRN 492, JRN 892*
 
 This special topics class is at least as much about the future of journalism as it is about computing technology. With a
 large majority of Americans using at least one, and often more than one, computer on a daily basis, computers have
