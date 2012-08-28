@@ -39,9 +39,9 @@ Lansing, MI 48910
 
 ### Research Grants
 
-* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern.  Total Budget: $499,781; MSU Budget: $258,194
+* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2012-2015 Total Budget: $499,781; MSU Budget: $258,194
     * REU Supplement 2012: $16,000
-* *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**.  Budget $399,511.
+* *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**. 2012-2015 Budget $399,511.
     * REU Supplement 2012: $16,000
 * *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
@@ -181,6 +181,7 @@ Teaching Experience
 #### MA Committee Member
 
 <!-- * Benoit Bennot-Madin. MSU TC Masters Project. 2011 ? -->
+* Adam Steinfield. MSU JRN Masters Thesis. 2012
 * Ian Hewlett.  MSU TC Masters Thesis. 2012
 * Maggie Vandura. MSU TC Masters Project. 2011
 * Jeff Gillies. MSU Journalism Masters Thesis. 2011
@@ -201,6 +202,7 @@ Teaching Experience
 * Kyle Safran, MSU. Summer 2012 REU
 * Nate Zemanek, MSU. Summer 2012 REU
 * Kim Setili, MSU. Spring 2012, Summer 2012 REU
+* Lauren McKown, MSU. Spring 2012-Summer 2012
 * Mitchell Thelen, MSU. Spring 2012
 * Andrew Rockwell, MSU. Spring 2012
 * Aaron Robinson, MSU. Fall 2011
