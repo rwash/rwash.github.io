@@ -1,39 +1,47 @@
 ---
 ---
-!!!
+!!! 5
 %html(lang="en")
   %head
+    %meta{"charset" => "utf-8"}
     %title {{ page.title }}
     %link{"rel" => "stylesheet", "href" => "/css/rwash.css", "type" => "text/css", "media" => "all"}
+    %link{"rel" => "stylesheet", "href" => "/css/bootstrap.min.css", "type" => "text/css", "media" => "all"}
+    %link{"rel" => "stylesheet", "href" => "/css/bootstrap-responsive.min.css", "type" => "text/css", "media" => "all"}
     %link{"rel" => "stylesheet", "href" => "/css/print.css", "type" => "text/css", "media" => "print"}
-    %script{"src" => "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"}
-    %script{"src" => "/js/autoselect.js"}
+    %meta{"name" => "viewport", "content" => "width=device-width", "initial-scale" => "1.0"}
+    %meta{"name" => "author", "content" => "Rick Wash"}
     {% include google.html %}    
   %body
-    .topbar{"data-scrollspy" => "scrollspy"}
-      .topbar-inner
+    .navbar.navbar-inverse.navbar-fixed-top
+      .navbar-inner
         .container
-          %ul.nav
+          -# %a.brand(href="/index.html") Rick Wash
+          %ul#nav.nav
             %li
               %a(href="/index.html") Home
-            %li
+            %li.hidden-phone
               %a(href="/about.html") About Me
             %li
               %a(href="/pubs.html") Papers
-            %li
+            %li.hidden-phone
               %a(href="/research.html") Research
-            %li
+            %li.hidden-phone
               %a(href="/teaching.html") Teaching
             %li
               %a(href="/cv.html") C.V.
-    .container
-      .row
-        #left.span4
+    .container-fluid
+      .row-fluid
+        #left.span3
           #header
             {% include header.html %}
           #contact
             {% include contact.html %}
-        #main.span12
+        #main.span8
           #content
             {{ content }}
+    %script{"src" => "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"}
+    %script{"src" => "/js/bootstrap-min.js"}
+    %script{"src" => "/js/autoselect.js"}
+
     
