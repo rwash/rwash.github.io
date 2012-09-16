@@ -12,6 +12,8 @@ behavior.
 I am one of the lead PIs in the [Behavior, Information, and Technology Lab](http://bitlab.cas.msu.edu) (BITLab) at MSU.
 Most of my research projects are coordinated through that website.
 
+For more information, see my [Google Citations profile](http://scholar.google.com/citations?user=ef0ApTwAAAAJ).
+
 Recent News
 -----------
 
