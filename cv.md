@@ -25,10 +25,10 @@ Lansing, MI 48910
 
 ### Appointments
 
-* Assistant Professor, *Michigan State University*.
+* 2010-current: Assistant Professor, *Michigan State University*.
     * School of Journalism (51%)
     * Department of Telecommunications, Information Studies, and Media (49%)
-* Visiting Assistant Professor, *Michigan State University*.
+* 2009-2010: Visiting Assistant Professor, *Michigan State University*.
     * Department of Telecommunications, Information Studies, and Media
 
 ### Education
