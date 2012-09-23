@@ -237,7 +237,7 @@ Reviewer for:
 
 ### University Service
 
-* MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011
+* MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
 * MSU Journalism Research Committee 2010-2012
 * MSU TISM PhD Advisory Committee 2010-2011
 * MSU MIS PhD Program Steering Committee. 2011-2013
