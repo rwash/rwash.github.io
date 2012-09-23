@@ -243,6 +243,7 @@ Reviewer for:
 * MSU MIS PhD Program Steering Committee. 2011-2013
 * MSU TISM Search Committee -- ICT4D. 2011-2012
 * MSU JRN Search Committee -- Innovative Journalism. 2011-2012
+* MSU TISM Search Committee -- Socio-Technical Researcher. 2012-2013
 
 Previous Work Experience
 ------------------------
