@@ -8,6 +8,8 @@ year: 2008
 file: 167-rader.pdf
 appendix: cscw08-appendix/
 layout: conference
+acmdl: http://dl.acm.org/citation.cfm?id=1460601
+doi: 10.1145/1460563.1460601 
 ---
 
 Collaborative tagging systems have the potential to produce socially constructed information organization schemes. The

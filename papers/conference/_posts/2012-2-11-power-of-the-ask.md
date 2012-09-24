@@ -7,6 +7,8 @@ month: February
 year: 2012
 file: echo-ask-cscw2012.pdf
 layout: conference
+acmdl: http://dl.acm.org/citation.cfm?id=2145204.2145381
+doi: 10.1145/2145204.2145381
 ---
 
 Social computing and social media systems depend on contributions from users.  We posit the existence of a latent demand
