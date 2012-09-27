@@ -181,7 +181,6 @@ Teaching Experience
 #### MA Committee Member
 
 <!-- * Benoit Bennot-Madin. MSU TC Masters Project. 2011 ? -->
-* Adam Steinfield. MSU JRN Masters Thesis. 2012
 * Ian Hewlett.  MSU TC Masters Thesis. 2012
 * Maggie Vandura. MSU TC Masters Project. 2011
 * Jeff Gillies. MSU Journalism Masters Thesis. 2011
@@ -196,10 +195,12 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Michelle Rizor, MSU. Fall 2012
+* Zack Girouard, MSU. Fall 2012
 * Jake Wesorick, MSU. Summer 2012
-* Sam Mills, MSU. Summer, 2012
+* Sam Mills, MSU. Summer--Fall, 2012
 * Alison Thierbach, MSU. Summer 2012 REU
-* Kyle Safran, MSU. Summer 2012 REU
+* Kyle Safran, MSU. Summer 2012 REU, Fall 2012
 * Nate Zemanek, MSU. Summer 2012 REU
 * Kim Setili, MSU. Spring 2012, Summer 2012 REU
 * Lauren McKown, MSU. Spring 2012-Summer 2012
