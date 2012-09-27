@@ -158,6 +158,10 @@ Teaching Experience
 
 ### Students Advised
 
+#### Postdoctoral Researchers
+
+* Kami Vaniea. 2012-2013
+
 #### PhD Advisor
 
 * Jacob Solomon.  MSU MIS.   2010-Present
