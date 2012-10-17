@@ -181,11 +181,11 @@ Teaching Experience
 #### MA Advisor
 
 * Craig Tucker. MSU TC Masters Project. 2012 
+* Ian Hewlett.  MSU TC Masters Thesis. 2012
 
 #### MA Committee Member
 
 <!-- * Benoit Bennot-Madin. MSU TC Masters Project. 2011 ? -->
-* Ian Hewlett.  MSU TC Masters Thesis. 2012
 * Maggie Vandura. MSU TC Masters Project. 2011
 * Jeff Gillies. MSU Journalism Masters Thesis. 2011
 * Xi (Mickey) Yue. MSU TC Masters Thesis. 2011 
