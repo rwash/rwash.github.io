@@ -4,6 +4,7 @@ author: Donghee Yvette Wohn and Rick Wash
 journal: Computers in Human Behavior
 year: 2013
 volume: 29
+number: 1
 pages: 155-159
 doi: 10.1016/j.chb.2012.07.029
 link: http://dx.doi.org/10.1016/j.chb.2012.07.029
