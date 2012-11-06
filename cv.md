@@ -103,6 +103,7 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash. "Thinking and Talking About Security." At *Indiana University, School of Informatics*. (2012)
 * Rick Wash. "Thinking and Talking About Security." At *Cornell University, Information Science Colloquium*. (2012)
 * Rick Wash. "Socio-technical Influence on Behavior in Social Media." At *Michigan State University, School of Journalism and Department of Telecommunications, Information Studies, and Media*. (2010)
 * Rick Wash. "Socio-technical Influence on Behavior in Social Media." At *University of North Carolina at Chapel Hill, School of Information and Library Science*. (2010)
