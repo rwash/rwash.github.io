@@ -200,6 +200,10 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Nick Saxton, MSU. Fall 2012
+* Tyler Olsen, MSU. Fall 2012
+* Leanarda Gregordi, MSU. Fall 2012
+* Howard Akumiah, MSU. Fall 2012
 * Michelle Rizor, MSU. Fall 2012
 * Zack Girouard, MSU. Fall 2012
 * Jake Wesorick, MSU. Summer 2012
@@ -221,7 +225,7 @@ Scholarly Service
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013
 * WEIS (Workshop on Economics and Information Security): 2012
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/)
@@ -235,7 +239,7 @@ Reviewer for:
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
-* CHI 2008, 2009 & 2011
+* CHI 2008, 2009, 2011, 2013
 * iConference 2008
 * CSCW 2008, 2010,  2011 & 2012
 * WWW 2008
