@@ -49,6 +49,10 @@ Lansing, MI 48910
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
 
+#### In Progress Research Grant Proposals
+
+* *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499.735
+
 ### Awards and Fellowships
 
 * National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
