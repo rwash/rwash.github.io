@@ -90,6 +90,13 @@ Publications
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
+### Magazine Articles
+
+{% for post in site.categories.magazine %} {% capture pub %} 
+  {% include magazine.md %}
+{% endcapture %} * {{ pub | strip_newlines }}
+{% endfor %}
+
 ### Workshop Papers
 
 {% for post in site.categories.workshop %} {% capture pub %}

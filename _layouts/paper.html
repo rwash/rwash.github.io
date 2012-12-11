@@ -14,5 +14,7 @@ layout: master
 Download: 
 {% if page.file %}
   <a href="{{ site.url }}/papers/{{ page.file }}">PDF</a>
+{% elsif page.link %}
+  <a href="{{ page.link }}">Link</a>
 {% endif %}
 </div>
