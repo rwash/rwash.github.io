@@ -48,10 +48,8 @@ Lansing, MI 48910
 #### Declined Research Grant Proposals
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
-
-#### In Progress Research Grant Proposals
-
 * *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499.735
+
 
 ### Awards and Fellowships
 
