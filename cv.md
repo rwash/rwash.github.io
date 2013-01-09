@@ -239,6 +239,7 @@ Conference Program Committees:
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/)
 * CSCW (ACM Conference on Computer-Supported Cooperative Work): 2013
+* WikiSym: 2013 (track on open collaboration)
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 I was an external reviewer (panelist) for the NSF in 2011 and 2012.
