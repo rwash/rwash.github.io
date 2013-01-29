@@ -282,6 +282,7 @@ In The News
     * Green Bay Press-Gazette (and many other Gannett papers): Jan 2, 2012. <http://www.greenbaypressgazette.com/usatoday/article/38251127>
     * WDIV Detroit: Jan 2, 2012. <http://www.clickondetroit.com/news/US-helps-MSU-profs-study-home-computer-security/-/1719418/7545626/-/90s71y/-/index.html>
     * Based on the MSU Press Release on Dec 16, 2011: http://news.msu.edu/story/10148
+* I did a TV interview at 6 WILX TV in Lansing on Jan 24, 2012 about the Manti Te'o hoax and how people might protect themselves from similar deception.  <http://www.wlns.com/category/232735/video-landing-page?clipId=8236560&flvUri=&partnerclipid=&topVideoCatNo=106526&c=&autoStart=true&activePane=info&LaunchPageAdTag=homepage&clipFormat=flv>
 * I did a live radio interview at WILS 1320 Talk Radio Lansing on Dec 16, 2011. <http://www.webwiseforradio.com/site_files/368/File/12-16-11_Rick%20Wash2%20.mp3>
 * I did a recorded ratio interview on WQHH Power 96.5 fm in Lansing that aired on Sunday, March 11 2012 between 9:30am-10:00am about Google's new privacy policy changes
 * My Folk Models of Security paper was highlighted by a number of computer industry venues:
