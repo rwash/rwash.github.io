@@ -8,12 +8,12 @@ Rick's Classes
 
 I teach a number of classes at the undergraduate, masters, and PhD levels.  In general, I am interested in the social
 and technical aspects of information and communication technologies.  I teach classes in the areas of Social Computing,
-Social Media, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported Cooperative Work
-(CSCW).
+Social Media, Information Security, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported
+Cooperative Work (CSCW).
 
-### Currently Teaching (Spring 2012)
+### Currently Teaching (Spring 2013)
 
-* **TC 359**: *Server Side Web Development*   ([website](http://webdev.cas.msu.edu))
+* **JRN 821**: *Social Media News and Information*   ([website](http://compjourn.cas.msu.edu))
 * **TC 985**: *Analysis for Media*      ([website](http://edhar.cas.msu.edu/tc985))
 
 ### Past Classes
@@ -28,7 +28,7 @@ server-side programming and client-side displays, including persistent data stor
 This is a programming class, but does not presume that the student has much programming background; an understanding of
 basic world wide web technologies such as HTML is required.
 
-*Schedule: Spring 2010, Spring 2011, Spring 2012, Fall 2012*
+*Schedule: Spring 2010, Spring 2011, Spring 2012, Fall 2012, Spring 2014*
 
 **Website:** <http://webdev.cas.msu.edu>
 
@@ -42,20 +42,21 @@ do this type of research. We will cover how to find and collect large samples of
 store that data in a database. And then we will learn how to analyze this data and why the analysis is different than
 the analysis of more traditional data like that from experiments.
 
-*Schedule: Fall 2011*
+*Schedule: Fall 2011, Fall 2013*
 
 **Website**: <http://webdev.cas.msu.edu/cas992/>
 
-#### The Future of News
+#### The Future of News / Social Media News and Information
 
-*JRN 492, JRN 892*
+*JRN 492, JRN 892, JRN 821*
 
-This special topics class is at least as much about the future of journalism as it is about computing technology. With a
-large majority of Americans using at least one, and often more than one, computer on a daily basis, computers have
-fundamentally changed the way we produce and consume journalism. From speeding up the news cycle to changing the way
-news is delivered to publicly and globally commenting on news stories, consumers have used computing technology to
-change their relationship with the news. And at the same time reporters and journalists have found equally valuable used
-for computers, from improved workflow to better sources to analyzing big data.
+This special topics class (which is now a required masters class) is at least as much about the future of journalism as
+it is about computing technology. With a large majority of Americans using at least one, and often more than one,
+computer on a daily basis, computers have fundamentally changed the way we produce and consume journalism. From speeding
+up the news cycle to changing the way news is delivered to publicly and globally commenting on news stories, consumers
+have used computing technology to change their relationship with the news. And at the same time reporters and
+journalists have found equally valuable used for computers, from improved workflow to better sources to analyzing big
+data.
 
 This class is about all of these changes. In this class, we will explore and discuss how technology has evolved, and how
 the field of journalism has (in the past) and can (in the future) use that technology to improve. There will be a lot of
@@ -65,6 +66,23 @@ and graduate students are welcome.
 *Schedule: Spring 2011, Spring 2013*
 
 **Website:** <http://compjourn.cas.msu.edu>
+
+#### Analysis for Media
+
+*TC 985*
+
+This class is a doctoral level methods class where we learn a number of statistical techniques for analyzing
+quantitative data that arises in doing research on media and information. The majority of this class will focus on
+interpretation of statistical results: given data with certain properties, how do you interpret the results of
+statistical calculations to understand what you can learn from various types of analysis. We will also focus on using
+statistics to answer how much questions rather than just simply yes/no questions. We will cover a variety of analyses
+that come up in research in our field, including linear regression, logistic regression, poisson regression, multi-level
+models and random effects, causal interpretation, factor analysis, and structural equation modeling. Depending on time,
+we may also cover model comparison, sample size and power calculations, and ANOVA.
+
+*Schedule: Spring 2012, Spring 2013, Spring 2014*
+
+**Website:** <http://edhar.cas.msu.edu/tc985>
 
 #### Information Networks and Technology
 
