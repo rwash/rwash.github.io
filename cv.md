@@ -45,11 +45,12 @@ Lansing, MI 48910
     * REU Supplement 2012: $16,000
 * *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
+<!--
 #### Declined Research Grant Proposals
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
 * *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499.735
-
+-->
 
 ### Awards and Fellowships
 
@@ -112,6 +113,7 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash. "Folk Security." At *Indiana University, School of Informatics*. (2013)
 * Rick Wash. "Thinking and Talking About Security." At *Indiana University, School of Informatics*. (2012)
 * Rick Wash. "Thinking and Talking About Security." At *Cornell University, Information Science Colloquium*. (2012)
 * Rick Wash. "Socio-technical Influence on Behavior in Social Media." At *Michigan State University, School of Journalism and Department of Telecommunications, Information Studies, and Media*. (2010)
@@ -181,6 +183,8 @@ Teaching Experience
 
 #### PhD Committee Member
 
+* Sang Yup Lee. MSU MIS. 2012-Present
+* Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
 * Ryan Feywin-Bliss. MSU MIS. 2011-Present
 * Michael Friedman. MSU MIS. 2011-Present
