@@ -213,12 +213,13 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
-* Nick Saxton, MSU. Fall 2012
-* Tyler Olsen, MSU. Fall 2012
+* Grayson Wright, MSU. Spring 2013
+* Nick Saxton, MSU. Fall 2012, Spring 2013
+* Tyler Olsen, MSU. Fall 2012, Spring 2013
 * Leanarda Gregordi, MSU. Fall 2012
-* Howard Akumiah, MSU. Fall 2012
-* Michelle Rizor, MSU. Fall 2012
-* Zack Girouard, MSU. Fall 2012
+* Howard Akumiah, MSU. Fall 2012, Spring 2013
+* Michelle Rizor, MSU. Fall 2012, Spring 2013
+* Zack Girouard, MSU. Fall 2012, Spring 2013
 * Jake Wesorick, MSU. Summer 2012
 * Sam Mills, MSU. Summer--Fall, 2012
 * Alison Thierbach, MSU. Summer 2012 REU
