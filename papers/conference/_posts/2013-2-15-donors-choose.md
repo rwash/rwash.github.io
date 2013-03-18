@@ -1,12 +1,13 @@
 ---
 title: The Value of Completing Crowdfunding Projects
 author: Rick Wash
-month: February
-year: 2013
-abstract: true
-layout: working
 file: donors-choose-icwsm.pdf
-working: Under review
+conference: Proceedings of the International Conference on Weblogs and Social Media
+month: July
+year: 2013
+city: Boston, MA
+abstract: true
+layout: conference
 ---
 
 Crowdfunding systems are social media websites that allow people to donate small amounts of money that add up to fund
