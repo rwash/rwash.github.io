@@ -5,7 +5,8 @@ journal: Advanced in Economic Analysis and Policy
 volume: 6
 number: 1
 year: 2006
-link: http://www.bepress.com/bejeap/advances/vol6/iss1/art2
+link: http://www.degruyter.com/view/j/bejeap.2006.6.1/bejeap.2006.6.1.1322/bejeap.2006.6.1.1322.xml
+doi: 10.2202/1538-0637.1322
 file: spam-bejeap.pdf
 layout: journal
 ---
