@@ -2,9 +2,12 @@
 title: Latent Users in an Online User-generated Content Community
 author: Alcides Velasquez, Rick Wash, Cliff Lampe, and Tor Bjornrud
 journal: Journal of Computer Supported Cooperative Work
-year: Forthcoming
+year: 2013
+month: March
 abstract: yes
 layout: journal
+doi: 10.1007/s10606-013-9188-4
+link: http://link.springer.com/article/10.1007/s10606-013-9188-4
 ---
 
 Online communities depend on the persistent contributions of heterogeneous users with diverse motivations and ways of
