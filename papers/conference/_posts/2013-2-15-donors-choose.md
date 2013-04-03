@@ -2,7 +2,7 @@
 title: The Value of Completing Crowdfunding Projects
 author: Rick Wash
 file: donors-choose-icwsm.pdf
-conference: Proceedings of the International Conference on Weblogs and Social Media
+conference: Proceedings of the International Conference on Weblogs and Social Media (ICWSM)
 month: July
 year: 2013
 city: Boston, MA
