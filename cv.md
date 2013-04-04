@@ -176,10 +176,11 @@ Teaching Experience
 
 #### PhD Advisor
 
+* Chankyung Pak. MSU MIS.  2013-Present
 * Jacob Solomon.  MSU MIS.   2010-Present
-* Tor Bjornrud. MSU MIS. 2011-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2011-Present
 * Laeeq Khan. MSU MIS. 2012-Present
+* Tor Bjornrud. MSU MIS. 2011-2012
 
 #### PhD Committee Member
 
