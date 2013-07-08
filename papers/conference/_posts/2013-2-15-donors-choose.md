@@ -8,6 +8,7 @@ year: 2013
 city: Boston, MA
 abstract: true
 layout: conference
+file: donors-choose-icwsm.pdf
 ---
 
 Crowdfunding systems are social media websites that allow people to donate small amounts of money that add up to fund
