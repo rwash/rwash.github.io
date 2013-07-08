@@ -139,6 +139,9 @@ Teaching Experience
 ### Classes Taught
 
 #### Instructor of Record
+* **Spring 2014**. MSU TC 985: *Analysis for Media*
+* **Spring 2014**. MSU TC 359: *Server-Side Web Development*
+* **Fall 2013**. MSU CAS 992: *Special Topics: Large-Scale Data and Exploratory Data Analysis*
 * **Spring 2013**. MSU TC 985: *Analysis for Media*
 * **Spring 2013**. MSU JRN 821: *Social Media News and Information*
 * **Fall 2012**. MSU TC 359: *Server-Side Web Development*
@@ -249,7 +252,6 @@ Conference Program Committees:
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/)
 * CSCW (ACM Conference on Computer-Supported Cooperative Work): 2013
 * WikiSym: 2013 (track on open collaboration)
-* ICWSM (AAAI International Conference on Weblogs and Social Media): 2013
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 I was an external reviewer (panelist) for the NSF in 2011 and 2012.
@@ -261,9 +263,10 @@ Reviewer for:
 * ACM E-Commerce 2007 & 2008
 * CHI 2008, 2009, 2011, 2013
 * iConference 2008
-* CSCW 2008, 2010,  2011 & 2012
+* CSCW 2008, 2010,  2011, 2012, 2014
 * WWW 2008
 * ACM GROUP 2009.
+* ICWSM 2013
 
 ### University Service
 
