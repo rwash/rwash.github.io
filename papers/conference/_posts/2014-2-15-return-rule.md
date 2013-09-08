@@ -5,7 +5,7 @@ month: February
 year: 2014
 abstract: true
 layout: conference
-file: return_rule.pdf
+file: return-rule.pdf
 city: Baltimore, Maryland
 conference: Computer Supported Cooperative Work (CSCW)
 ---
