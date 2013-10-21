@@ -48,6 +48,10 @@ Lansing, MI 48910
 * *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
 <!--
+#### Proposal Under Review
+
+* *National Science Founcation*, "CAREER: Expectations and Critical Mass in Online Communities." **Rick Wash, PI**. Budget $489,678
+
 #### Declined Research Grant Proposals
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
@@ -143,7 +147,7 @@ Teaching Experience
 #### Instructor of Record
 * **Spring 2014**. MSU TC 985: *Analysis for Media*
 * **Spring 2014**. MSU TC 359: *Server-Side Web Development*
-* **Fall 2013**. MSU CAS 992: *Special Topics: Large-Scale Data and Exploratory Data Analysis*
+* **Fall 2013**. MSU CAS 992: *Special Topics: Big Data*
 * **Spring 2013**. MSU TC 985: *Analysis for Media*
 * **Spring 2013**. MSU JRN 821: *Social Media News and Information*
 * **Fall 2012**. MSU TC 359: *Server-Side Web Development*
@@ -183,8 +187,8 @@ Teaching Experience
 
 * Chankyung Pak. MSU MIS.  2013-Present
 * Jacob Solomon.  MSU MIS.   2010-Present
-* Jan-Hendrik Boehmer. MSU MIS. 2011-Present
-* Laeeq Khan. MSU MIS. 2012-Present
+* Jan-Hendrik Boehmer. MSU MIS. 2011-2013
+* Laeeq Khan. MSU MIS. 2012-2013
 * Tor Bjornrud. MSU MIS. 2011-2012
 
 #### PhD Committee Member
@@ -192,9 +196,9 @@ Teaching Experience
 * Sang Yup Lee. MSU MIS. 2012-Present
 * Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
-* Ryan Feywin-Bliss. MSU MIS. 2011-Present
-* Michael Friedman. MSU MIS. 2011-Present
-* Brandon Brooks. MSU MIS. 2011-Present
+* Ryan Feywin-Bliss. MSU MIS. 2011-2012
+* Michael Friedman. MSU MIS. 2011-2013
+* Brandon Brooks. MSU MIS. 2011-2013
 * Jason Watson. UNC-Charlotte. 2011-Present
 * Tor Bjornrud. MSU MIS. 2010-2011; became chair in 2011
 
@@ -219,15 +223,16 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Ruchira Ramani, MSU. Fall 2013
 * Raymond Heldt, MSU. Summer 2013
-* Katie Hoban, MSU. Summer 2013
+* Katie Hoban, MSU. Summer 2013, Fall 2013
 * Alexandra Hinck, MSU. Summer 2013
-* Grayson Wright, MSU. Spring 2013
-* Nick Saxton, MSU. Fall 2012, Spring 2013, Summer 2013
+* Grayson Wright, MSU. Spring 2013, Fall 2013
+* Nick Saxton, MSU. Fall 2012, Spring 2013, Summer 2013, Fall 2013
 * Tyler Olsen, MSU. Fall 2012, Spring 2013
 * Leanarda Gregordi, MSU. Fall 2012
 * Howard Akumiah, MSU. Fall 2012, Spring 2013
-* Michelle Rizor, MSU. Fall 2012, Spring 2013
+* Michelle Rizor, MSU. Fall 2012, Spring 2013, Fall 2013
 * Zack Girouard, MSU. Fall 2012, Spring 2013, Summer 2013
 * Jake Wesorick, MSU. Summer 2012
 * Sam Mills, MSU. Summer--Fall, 2012
@@ -263,7 +268,7 @@ Reviewer for:
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
-* CHI 2008, 2009, 2011, 2013
+* CHI 2008, 2009, 2011, 2013, 2014
 * iConference 2008
 * CSCW 2008, 2010,  2011, 2012, 2014
 * WWW 2008
@@ -273,9 +278,10 @@ Reviewer for:
 ### University Service
 
 * MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
-* MSU Journalism Research Committee 2010-2012
-* MSU TISM PhD Advisory Committee 2010-2011
-* MSU MIS PhD Program Steering Committee. 2011-2013
+* MSU Journalism Research Committee 2010-2014
+* MSU TISM PhD Committee 2010-2011
+* MSU TISM PhD Committee Chair 2011-2014
+* MSU MIS PhD Program Steering Committee. 2011-2014
 * MSU TISM Search Committee -- ICT4D. 2011-2012
 * MSU JRN Search Committee -- Innovative Journalism. 2011-2012
 * MSU TISM Search Committee -- Socio-Technical Researcher. 2012-2013
