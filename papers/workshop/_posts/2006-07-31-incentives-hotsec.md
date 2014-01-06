@@ -7,6 +7,7 @@ year: 2006
 abstract: true
 file: icd-security-position.pdf
 layout: workshop
+type: workshop
 ---
 
 Humans are "smart components" in a system, but cannot be directly programmed to perform; rather, their autonomy must be

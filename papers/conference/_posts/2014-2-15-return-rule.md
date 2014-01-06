@@ -9,6 +9,7 @@ file: return-rule.pdf
 city: Baltimore, Maryland
 conference: Computer Supported Cooperative Work (CSCW)
 award: Honorable Mention
+type: conference
 ---
 
 Crowdfunding websites like Kickstarter, Spot.Us and Donor's Choose seek to fund multiple projects simultaneously by

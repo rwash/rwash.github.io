@@ -9,6 +9,7 @@ file: pap1604_lampe.pdf
 layout: conference
 acmdl: http://dl.acm.org/citation.cfm?id=1753326.1753616
 doi: 10.1145/1753326.1753616
+type: conference
 ---
 
 A consistent theoretical and practical challenge in the design of socio-technical systems is that of motivating users to

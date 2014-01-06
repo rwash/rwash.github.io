@@ -9,6 +9,7 @@ file: ridenow-group.pdf
 layout: conference
 acmdl: http://dl.acm.org/citation.cfm?id=1099228
 doi: 10.1145/1099203.1099228
+type: conference
 ---
 
 The RideNow Project is designed to help individuals within a group or organization coordinate ad hoc shared rides. This

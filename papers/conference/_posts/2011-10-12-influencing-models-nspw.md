@@ -10,6 +10,7 @@ layout: conference
 categories: conference
 acmdl: http://dl.acm.org/citation.cfm?id=2073283
 doi: 10.1145/2073276.2073283
+type: conference
 ---
 
 Over 80 million households in the United States have a home computer and an Internet connection. The vast majority of

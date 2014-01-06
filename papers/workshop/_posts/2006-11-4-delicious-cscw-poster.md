@@ -3,13 +3,14 @@ title: "Tagging with del.icio.us: Social or Selfish?"
 author: Emilee Rader and Rick Wash
 workshop: Poster Session
 conference: ACM Conference on Computer Supported Cooperative Work (CSCW)
-type: Extended Abstract
+papertype: Extended Abstract
 month: November
 year: 2006
 file: cscw2006_delicious_poster_v2.pdf
 poster: rader_delicious_cscw.pdf
 abstract: true
 layout: workshop
+type: workshop
 ---
 
 **del.icio.us** is a website for "social bookmarking" where users can store and access their bookmarks online, along with

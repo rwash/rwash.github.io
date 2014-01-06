@@ -9,6 +9,7 @@ layout: journal
 doi: 10.1007/s10606-013-9188-4
 link: http://link.springer.com/article/10.1007/s10606-013-9188-4
 file: e2-fled.pdf
+type: journal
 ---
 
 Online communities depend on the persistent contributions of heterogeneous users with diverse motivations and ways of

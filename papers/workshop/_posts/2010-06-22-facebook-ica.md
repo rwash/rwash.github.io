@@ -6,4 +6,5 @@ city: Singapore, Singapore
 month: June
 year: 2010
 abstract: no
+type: workshop
 ---

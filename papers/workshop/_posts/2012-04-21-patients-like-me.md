@@ -6,4 +6,5 @@ city: Lexington, Kentucky
 month: April
 year: 2012
 abstract: no
+type: workshop
 ---

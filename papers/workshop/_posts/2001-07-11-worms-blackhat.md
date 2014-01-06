@@ -7,6 +7,7 @@ year: 2001
 abstract: true
 layout: workshop
 file: worm.pdf
+type: workshop
 ---
 
 Network worms, simple slang terminology for automated intrusion agents, represent a persistent threat to a growing

@@ -7,6 +7,7 @@ abstract: true
 layout: working
 file: source_orientation.pdf
 working: Working Paper
+type: working
 ---
 
 When we interact with a computer, we are actually interacting with many different entities: the computer, the software

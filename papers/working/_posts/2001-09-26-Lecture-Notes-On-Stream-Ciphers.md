@@ -8,6 +8,7 @@ reference: Rick Wash. "*Lecture Notes on Stream Ciphers and RC4*." Working Paper
 file: stream.pdf
 ps: stream.ps
 category: paper, working
+type: working
 ---
 
 By: Rick Wash

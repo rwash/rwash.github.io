@@ -6,6 +6,7 @@ year: 2009
 file: excludable-threshold-wp09.pdf
 layout: working
 abstract: true
+type: working
 ---
 
 Social computing systems collect, aggregate, and share user-contributed content, and therefore depend on contributions

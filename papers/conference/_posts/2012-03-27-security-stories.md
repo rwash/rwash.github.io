@@ -10,6 +10,7 @@ layout: conference
 file: rader_securitystories.pdf
 acmdl: http://dl.acm.org/citation.cfm?id=2335364
 doi: 10.1145/2335356.2335364
+type: conference
 ---
 
 Non-expert computer users regularly need to make security-relevant decisions; however, these decisions tend not to be

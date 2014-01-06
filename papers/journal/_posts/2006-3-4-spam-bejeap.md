@@ -9,6 +9,7 @@ link: http://www.degruyter.com/view/j/bejeap.2006.6.1/bejeap.2006.6.1.1322/bejea
 doi: 10.2202/1538-0637.1322
 file: spam-bejeap.pdf
 layout: journal
+type: journal
 ---
 
 If communication involves some transactions cost to both sender and recipient, what policy ensures that correct messages

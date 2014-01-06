@@ -5,10 +5,11 @@ workshop: Doctoral Colloquium
 conference: ACM SIGCHI Conference on Human Factors in Computing (CHI)
 month: May
 year: 2007
-type: Extended Abstract
+papertype: Extended Abstract
 abstract: true
 file: dc165-wash.pdf
 layout: workshop
+type: workshop
 ---
 
 Home computer users frequently lack the skills necessary to ensure proper security.   Hackers exploit this to control

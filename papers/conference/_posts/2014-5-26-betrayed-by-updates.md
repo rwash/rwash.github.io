@@ -8,6 +8,7 @@ layout: conference
 file: itunes.pdf
 city: Toronto, Canada
 conference: Proceedings of the ACM Conference on Human Factors in Computing (CHI)
+type: conference
 ---
 
 Installing security-relevant software updates is one of the best computer protection mechanisms.  However, users do not

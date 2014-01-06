@@ -9,6 +9,7 @@ file: icec702w-wash.pdf
 layout: conference
 acmdl: http://dl.acm.org/citation.cfm?id=1282100.1282105
 doi: 10.1145/1282100.1282105
+type: conference
 ---
 
 

@@ -10,6 +10,7 @@ doi: 10.1016/j.chb.2012.07.029
 link: http://dx.doi.org/10.1016/j.chb.2012.07.029
 file: wohnandwash2012.pdf
 layout: journal
+type: journal
 ---
 
 Online simulation games provide an opportunity for people to express their personality through the design of their

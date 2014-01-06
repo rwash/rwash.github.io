@@ -8,6 +8,7 @@ year: 2011
 doi: 10.1109/HICSS.2011.400 
 layout: conference
 file: social-network-games-hicss.pdf
+type: conference
 ---
 
 Social network games embedded within social network sites (SNSs) such as Facebook facilitate play with "Friends" within

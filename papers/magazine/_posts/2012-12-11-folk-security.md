@@ -10,6 +10,7 @@ pages: 88-90
 doi: 10.1109/MSP.2012.144
 link: http://dx.doi.org/10.1109/MSP.2012.144
 layout: magazine
+type: magazine
 ---
 
 One of the most important, and most overlooked, ways that we learn is by "social learning"—by hearing stories from our
