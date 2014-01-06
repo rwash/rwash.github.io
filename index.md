@@ -11,7 +11,7 @@ behavior. I completed my PhD at the School of Information at the University of M
 I am one of the lead PIs in the [Behavior, Information, and Technology Lab](http://bitlab.cas.msu.edu) (BITLab) at MSU.
 Most of my research projects are coordinated through that website.
 
-For more information, see my [Google Citations profile](http://scholar.google.com/citations?user=ef0ApTwAAAAJ).
+For more information about my research publications, see my [Google Citations profile](http://scholar.google.com/citations?user=ef0ApTwAAAAJ).
 
 Recent News
 -----------
