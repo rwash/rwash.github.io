@@ -11,8 +11,8 @@ School of Journalism, and Department of Telecommunications, Information Studies,
 *Michigan State University*
 
 #### Office
+404 Wilson Rd #342  
 342 Communication Arts and Sciences  
-404 Wilson Rd #342
 Michigan State University  
 East Lansing, MI 48824  
 (517) 355-2381  
