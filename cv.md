@@ -12,14 +12,15 @@ School of Journalism, and Department of Telecommunications, Information Studies,
 
 #### Office
 342 Communication Arts and Sciences  
+404 Wilson Rd #342
 Michigan State University  
 East Lansing, MI 48824  
 (517) 355-2381  
 <wash@msu.edu>
 
 #### Home
-1819 Clifton Ave  
-Lansing, MI 48910 
+2712 Kittanset Dr
+Okemos, MI 48864 
 (734) 730-1188  
 <rick.wash@gmail.com>
 
@@ -50,8 +51,6 @@ Lansing, MI 48910
 
 <!--
 #### Proposal Under Review
-
-* *National Science Founcation*, "CAREER: Expectations and Critical Mass in Online Communities." **Rick Wash, PI**. Budget $489,678
 
 #### Declined Research Grant Proposals
 
@@ -194,6 +193,8 @@ Teaching Experience
 
 #### PhD Committee Member
 
+* Tian Cai. MSU MIS. 2014-Present
+* Jan-Hendrik Boehmer. MSU MIS. 2013-Present
 * Sang Yup Lee. MSU MIS. 2012-Present
 * Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
@@ -224,16 +225,20 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Kyle Kulesza, MSU. Spring 2014
+* Tim Hasselbeck, MSU. Spring 2014
+* Jallal Elhazzat, MSU. Spring 2014
+* Scott Ruscinski, MSU. Fall 2013, Spring 2014
 * Ruchira Ramani, MSU. Fall 2013
 * Raymond Heldt, MSU. Summer 2013
-* Katie Hoban, MSU. Summer 2013, Fall 2013
+* Katie Hoban, MSU. Summer 2013, Fall 2013, Spring 2014
 * Alexandra Hinck, MSU. Summer 2013
-* Grayson Wright, MSU. Spring 2013, Fall 2013
+* Grayson Wright, MSU. Spring 2013, Fall 2013, Spring 2014
 * Nick Saxton, MSU. Fall 2012, Spring 2013, Summer 2013, Fall 2013
 * Tyler Olsen, MSU. Fall 2012, Spring 2013
 * Leanarda Gregordi, MSU. Fall 2012
 * Howard Akumiah, MSU. Fall 2012, Spring 2013
-* Michelle Rizor, MSU. Fall 2012, Spring 2013, Fall 2013
+* Michelle Rizor, MSU. Fall 2012, Spring 2013, Fall 2013, Spring 2014
 * Zack Girouard, MSU. Fall 2012, Spring 2013, Summer 2013
 * Jake Wesorick, MSU. Summer 2012
 * Sam Mills, MSU. Summer--Fall, 2012
