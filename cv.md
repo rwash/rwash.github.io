@@ -19,8 +19,8 @@ East Lansing, MI 48824
 <wash@msu.edu>
 
 #### Home
-2712 Kittanset Dr
-Okemos, MI 48864 
+2712 Kittanset Dr  
+Okemos, MI 48864   
 (734) 730-1188  
 <rick.wash@gmail.com>
 
