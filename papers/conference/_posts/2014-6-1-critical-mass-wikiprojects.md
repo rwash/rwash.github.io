@@ -7,7 +7,7 @@ abstract: true
 layout: conference
 file: wikiprojects.pdf
 city: Ann Arbor, MI
-conference: International AAAI Conference on Weblogs and Social Media (ICWSM)
+conference: Proceedings of the International AAAI Conference on Weblogs and Social Media (ICWSM)
 type: conference
 ---
 
