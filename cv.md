@@ -193,15 +193,16 @@ Teaching Experience
 
 #### PhD Committee Member
 
+* Ruth Shillair. MSU MIS. 2014-Present
 * Tian Cai. MSU MIS. 2014-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2013-Present
-* Sang Yup Lee. MSU MIS. 2012-Present
+* Sang Yup Lee. MSU MIS. 2012-2014
 * Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
 * Ryan Feywin-Bliss. MSU MIS. 2011-2012
 * Michael Friedman. MSU MIS. 2011-2013
 * Brandon Brooks. MSU MIS. 2011-2013
-* Jason Watson. UNC-Charlotte. 2011-Present
+* Jason Watson. UNC-Charlotte. 2011-2014
 * Tor Bjornrud. MSU MIS. 2010-2011; became chair in 2011
 
 #### MA Advisor
@@ -263,12 +264,12 @@ Conference Program Committees:
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/)
-* CSCW (ACM Conference on Computer-Supported Cooperative Work): 2013
+* CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015
 * WikiSym: 2013 (track on open collaboration)
 * USec (Workshop on Usable Security): 2014
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
-I was an external reviewer (panelist) for the NSF in 2011 and 2012.
+I was an external reviewer (panelist) for the NSF in 2011, 2012, and 2014.
 
 Reviewer for:
 
@@ -281,6 +282,8 @@ Reviewer for:
 * WWW 2008
 * ACM GROUP 2009.
 * ICWSM 2013
+* SOUPS 2014
+* IEEE Computer Security Foundations (CSF) 2014
 
 ### University Service
 
