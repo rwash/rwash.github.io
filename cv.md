@@ -305,6 +305,7 @@ Previous Work Experience
 In The News
 -----------
 
+* I was interviewed about software updates and the Windows XP end-of-life on WILX TV: <http://www.wilx.com/topstories/headlines/Time-is-Running-Out-to-Upgrade-from-Windows-XP-254261871.html>
 * My security stories paper with Emilee Rader and Brandon Brooks was written up by the TechRepublic: <http://www.techrepublic.com/blog/security/inside-your-users-brains-where-they-get-security-advice/8361>
 * My collaborative NSF grant with Emilee Rader was picked up by the Associated Press, which caused it to get mentioned in a number of online sources:
     * Detroit Free Press: Jan 2, 2012. <http://www.freep.com/article/20120102/NEWS06/120102009/U-S-MSU-computer-security>
