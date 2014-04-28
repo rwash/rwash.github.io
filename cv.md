@@ -41,9 +41,11 @@ Okemos, MI 48864
 ### Research Grants
 
 * *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." IIS-1350253, **Rick Wash, PI**. 2014-2019 Budget $489,678.
+    * REU Supplement 2014: $16,000
 * *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
+    * REU Supplement 2014: $16,000
 * *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**. 2011-2014 Budget $399,511.
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
@@ -119,6 +121,7 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash and Emilee Rader. "Influencing Mental Models of Security." At Lansing Torch Club, East Lansing, MI. (2014)
 * Rick Wash. "Folk Security." At *Indiana University, School of Informatics*. (2013)
 * Rick Wash. "Thinking and Talking About Security." At *Indiana University, School of Informatics*. (2012)
 * Rick Wash. "Thinking and Talking About Security." At *Cornell University, Information Science Colloquium*. (2012)
@@ -145,6 +148,9 @@ Teaching Experience
 ### Classes Taught
 
 #### Instructor of Record
+* **Spring 2015**. MSU TC 985: *Analysis for Media*
+* **Spring 2015**. MSU JRN 821: *Social Media News and Information*
+* **Fall 2014**. MSU TC 491 / JRN 492: *Building Online Communities*
 * **Spring 2014**. MSU TC 985: *Analysis for Media*
 * **Spring 2014**. MSU TC 359: *Server-Side Web Development*
 * **Fall 2013**. MSU CAS 992: *Special Topics: Big Data*
@@ -170,6 +176,7 @@ Teaching Experience
 
 #### Independent Study Projects Supervised
 
+* Ruth Shillair (PhD): Fall 2014
 * Michael Friedman (PhD): Spring 2012
 * Andrew Rockwell (UG): Spring 2012
 * Jacob Solomon (PhD): Fall 2011
@@ -181,7 +188,7 @@ Teaching Experience
 
 #### Postdoctoral Researchers
 
-* Kami Vaniea. 2012-2013
+* Kami Vaniea. 2012-2014
 
 #### PhD Advisor
 
@@ -201,7 +208,7 @@ Teaching Experience
 * Sonya Yan Song. MSU MIS. 2012-Present
 * Ryan Feywin-Bliss. MSU MIS. 2011-2012
 * Michael Friedman. MSU MIS. 2011-2013
-* Brandon Brooks. MSU MIS. 2011-2013
+* Brandon Brooks. MSU MIS. 2011-Present
 * Jason Watson. UNC-Charlotte. 2011-2014
 * Tor Bjornrud. MSU MIS. 2010-2011; became chair in 2011
 
@@ -226,14 +233,19 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Brandon Beasley, MSU. Summer 2014
+* Stephanie Pena, MSU. Summer 2014 <!-- Michigan -->
+* Lezlie Espana, MSU. Summer 2014 <!-- Wisconsin Lutheran -->
+* Shiwani Bisth, MSU. Summer 2014 <!-- Cornell -->
+* Nathan Klein, MSU. Summer 2014 <!-- Oberlin -->
 * Kyle Kulesza, MSU. Spring 2014
 * Tim Hasselbeck, MSU. Spring 2014
 * Jallal Elhazzat, MSU. Spring 2014
 * Scott Ruscinski, MSU. Fall 2013, Spring 2014
 * Ruchira Ramani, MSU. Fall 2013
 * Raymond Heldt, MSU. Summer 2013
-* Katie Hoban, MSU. Summer 2013, Fall 2013, Spring 2014
-* Alexandra Hinck, MSU. Summer 2013
+* Katie Hoban, MSU. Summer 2013, Fall 2013, Spring 2014, Summer 2014
+* Alexandra Hinck, MSU. Summer 2013  <!-- Beloit College -->
 * Grayson Wright, MSU. Spring 2013, Fall 2013, Spring 2014
 * Nick Saxton, MSU. Fall 2012, Spring 2013, Summer 2013, Fall 2013
 * Tyler Olsen, MSU. Fall 2012, Spring 2013
@@ -281,13 +293,16 @@ Reviewer for:
 * CSCW 2008, 2010,  2011, 2012, 2014
 * WWW 2008
 * ACM GROUP 2009.
-* ICWSM 2013
+* ICWSM 2013, 2014
+* HCI Journal 2013
 * SOUPS 2014
 * IEEE Computer Security Foundations (CSF) 2014
+* Computers and Security 2014
 
 ### University Service
 
 * MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
+* MSU MIS PhD Spring Research Symposium.  Organizer and MC, Spring 2012, Spring 2013, Spring 2014
 * MSU Journalism Research Committee 2010-2014
 * MSU TISM PhD Committee 2010-2011
 * MSU TISM PhD Committee Chair 2011-2014
