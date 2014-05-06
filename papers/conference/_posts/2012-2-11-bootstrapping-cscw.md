@@ -10,6 +10,7 @@ layout: conference
 acmdl: http://dl.acm.org/citation.cfm?id=2145247
 doi: 10.1145/2145204.2145247
 type: conference
+tags: onlinecommunities
 ---
 
 Online communities depend on content contributed by their members.  However, new communities have not yet achieved

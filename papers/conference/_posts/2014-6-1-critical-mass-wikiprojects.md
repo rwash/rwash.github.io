@@ -9,6 +9,7 @@ file: wikiprojects.pdf
 city: Ann Arbor, MI
 conference: Proceedings of the International AAAI Conference on Weblogs and Social Media (ICWSM)
 type: conference
+tags: onlinecommunities
 ---
 
 Fledgling online communities often hope to achieve *critical mass* so that

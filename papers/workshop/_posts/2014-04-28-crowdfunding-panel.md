@@ -9,5 +9,6 @@ type: workshop
 DOI: 10.1145/2559206.2579406
 acmdl: http://dl.acm.org/citation.cfm?id=2559206.2579406
 papertype: Panel Session
+tags: crowdfunding
 ---
 

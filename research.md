@@ -4,12 +4,10 @@ title: Research
 ---
 
 I have three active projects going right now.  Each project, though, often has
-multiple studies and papers.   All three projects concern questions about how
-the technological design of social computing / social media systems influences
-the user behavior on those systems.  In short, I am trying to understand
-incentive mechanisms in social computing: causal relationships between
-technology designs and user behavior that can be re-used across many different
-types of social media systems.
+multiple studies and papers. In general, I am interested in how people reason
+about and make decisions about using technology, and then how we can better
+design those technologies to work with those reasoning processes to create
+valuable socio-technical systems.
 
 Socio-Technical Design of Crowdfunding Websites
 -----------------------------------------------
@@ -20,6 +18,16 @@ However, there is a complication: projects need a minimum amount of money to be
 likely to succeed.  I am studying how the rules and technologies that support
 such websites can be designed to create efficient donations and to encourage
 participation and donation. 
+
+{% for post in site.categories.papers %}
+{% if post.tags contains 'crowdfunding' %}
+{% capture pub %}
+{% include paper.md %}
+{% endcapture %}
+* {{ pub | strip_newlines }}
+{% endif %}
+{% endfor %}
+
 
 Influencing Mental Models of Security
 -------------------------------------
@@ -32,7 +40,17 @@ they dealwith those threats?  In addition, I am looking at how we can change
 people's understanding -- their mental models of security threats -- in a way that
 will lead to better security decisions. 
 
-Achieving Critical Mass in Social Media
+{% for post in site.categories.papers %}
+{% if post.tags contains 'securitymodels' %}
+{% capture pub %}
+{% include paper.md %}
+{% endcapture %}
+* {{ pub | strip_newlines }}
+{% endif %}
+{% endfor %}
+
+
+Mental Models, Expectations, and Critical Mass in Online Communities
 --------------------------------------------------------------
 
 Social media systems require user participation and user contribution in order
@@ -43,3 +61,12 @@ their expectations about the future of the social media system.  I am
 investigating how this process works, how we can "bootstrap" this process at the
 beginning of the life of a social media system, and how it eventually produces a
 "critical mass" of self-sustaining contributions.
+
+{% for post in site.categories.papers %}
+{% if post.tags contains 'onlinecommunities' %}
+{% capture pub %}
+{% include paper.md %}
+{% endcapture %}
+* {{ pub | strip_newlines }}
+{% endif %}
+{% endfor %}

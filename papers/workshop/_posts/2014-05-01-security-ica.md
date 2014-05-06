@@ -9,6 +9,7 @@ abstract: yes
 file: security-ica-2014.pdf
 type: workshop
 layout: workshop
+tags: securitymodels
 ---
 
 One of the largest preventable sources of computer compromise is old software
