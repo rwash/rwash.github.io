@@ -53,14 +53,14 @@ will lead to better security decisions.
 Mental Models, Expectations, and Critical Mass in Online Communities
 --------------------------------------------------------------
 
-Social media systems require user participation and user contribution in order
-to succeed.  However, users' participation decisions are not made in isolation;
-there is a strong feedback influence.  People only choose to participate in
-social media systems based on what contributions they see others making, and
-their expectations about the future of the social media system.  I am
-investigating how this process works, how we can "bootstrap" this process at the
-beginning of the life of a social media system, and how it eventually produces a
-"critical mass" of self-sustaining contributions.
+Online Communities and Crowd Systems require user participation and user
+contribution in order to succeed.  However, users' participation decisions are
+not made in isolation; there is a strong feedback influence.  People only
+choose to participate in social media systems based on what contributions they
+see others making, and their expectations about the future of the social media
+system.  I am investigating how this process works, how we can "bootstrap" this
+process at the beginning of the life of a social media system, and how it
+eventually produces a "critical mass" of self-sustaining contributions.
 
 {% for post in site.categories.papers %}
 {% if post.tags contains 'onlinecommunities' %}
