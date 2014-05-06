@@ -11,12 +11,31 @@ and technical aspects of information and communication technologies.  I teach cl
 Social Media, Information Security, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported
 Cooperative Work (CSCW).
 
-### Currently Teaching (Spring 2013)
+### Currently Teaching (Fall 2014)
 
-* **JRN 821**: *Social Media News and Information*   ([website](http://compjourn.cas.msu.edu))
-* **TC 985**: *Analysis for Media*      ([website](http://edhar.cas.msu.edu/tc985))
+* **TC 491 / JRN 492**. Building Online Communities
 
 ### Past Classes
+
+#### Building Online Communities
+
+*TC 491, JRN 492*
+
+Students will learn how to create an online community of people focused around
+a specific topic, including setting up the server technology, recruiting
+participants, motivating contributions, and dealing with unwanted content.  The
+class will form cross-disciplinary teams that will spend a semester creating
+and growing an online community.  This will represent a new type of education
+in journalism that will bring students into new, community-driven methods of
+doing journalism, based more on curating content and facilitating discussion
+than on original, unidirectional reporting.  Students in the class will be
+taught to apply social science and computer science research for real-world
+applications and how to work on collaborative, cross-disciplinary teams that
+include both technical and creative people as well as topic experts.
+
+*Schedule: Fall 2014*
+
+**Website:** <http://rickwash.com>
 
 #### Server Side Web Development
 
@@ -32,7 +51,7 @@ basic world wide web technologies such as HTML is required.
 
 **Website:** <http://webdev.cas.msu.edu>
 
-#### Large Scale Data and Exploratory Data Analysis
+#### Large Scale Data and Exploratory Data Analysis (Big Data)
 
 *CAS 992*
 
@@ -63,7 +82,7 @@ the field of journalism has (in the past) and can (in the future) use that techn
 discussion amongst the class about ways that we can use these technologies to improve our reporting. Both undergraduates
 and graduate students are welcome.
 
-*Schedule: Spring 2011, Spring 2013*
+*Schedule: Spring 2011, Spring 2013, Spring 2015*
 
 **Website:** <http://compjourn.cas.msu.edu>
 
@@ -80,7 +99,7 @@ that come up in research in our field, including linear regression, logistic reg
 models and random effects, causal interpretation, factor analysis, and structural equation modeling. Depending on time,
 we may also cover model comparison, sample size and power calculations, and ANOVA.
 
-*Schedule: Spring 2012, Spring 2013, Spring 2014*
+*Schedule: Spring 2012, Spring 2013, Spring 2014, Spring 2015*
 
 **Website:** <http://edhar.cas.msu.edu/tc985>
 
