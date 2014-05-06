@@ -10,6 +10,7 @@ abstract: true
 layout: conference
 file: donors-choose-icwsm.pdf
 type: conference
+link: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/view/6003
 ---
 
 Crowdfunding systems are social media websites that allow people to donate small amounts of money that add up to fund

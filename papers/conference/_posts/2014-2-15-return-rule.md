@@ -10,6 +10,8 @@ city: Baltimore, Maryland
 conference: Computer Supported Cooperative Work (CSCW)
 award: Honorable Mention
 type: conference
+acmdl: http://dl.acm.org/citation.cfm?id=2531602.2531678
+doi: 10.1145/2531602.2531678
 ---
 
 Crowdfunding websites like Kickstarter, Spot.Us and Donor's Choose seek to fund multiple projects simultaneously by
