@@ -7,7 +7,7 @@ Rick Wash
 =========
 
 ### Assistant Professor
-School of Journalism, and Department of Telecommunications, Information Studies, and Media  
+School of Journalism, and Department of Media and Information
 *Michigan State University*
 
 #### Office
@@ -28,7 +28,7 @@ Okemos, MI 48864
 
 * 2010-current: Assistant Professor, *Michigan State University*.
     * School of Journalism (51%)
-    * Department of Telecommunications, Information Studies, and Media (49%)
+    * Department of Media and Information (49%)  (formerly Telecommunication, Information Studies, and Media)
 * 2009-2010: Visiting Assistant Professor, *Michigan State University*.
     * Department of Telecommunications, Information Studies, and Media
 

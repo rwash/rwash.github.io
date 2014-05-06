@@ -4,7 +4,7 @@ title: Rick Wash
 ---
 
 I am an Assistant Professor at Michigan State University with a joint appointment in the School of Journalism and the
-Department of Telecommunications, Information Studies and Media. My research focuses on understanding how people think
+Department of Media and Information. My research focuses on understanding how people think
 about and reason about their use of technology, with particular focuses on information security, crowdsourcing, and
 online communities. I completed my PhD at the School of Information at the University of Michigan working under Jeff
 MacKie-Mason. 

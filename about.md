@@ -4,8 +4,7 @@ layout: master
 ---
 
 I am an Assistant Professor at Michgian State University. My time is split across two departments: the [School of
-Journalism](http://jrn.msu.edu) and the [Department of Telecommunications, Information Studies, and
-Media](http://tc.msu.edu).
+Journalism](http://jrn.msu.edu) and the [Department of Media and Information](http://tc.msu.edu).
 
 My research focuses on understanding how people think about and reason about their use of technology, with particular
 focuses on information security, crowdsourcing, and online communities.
