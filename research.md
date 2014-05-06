@@ -50,7 +50,7 @@ will lead to better security decisions.
 {% endfor %}
 
 
-Mental Models, Expectations, and Critical Mass in Online Communities
+Mental Models and Critical Mass in Online Communities
 --------------------------------------------------------------
 
 Online Communities and Crowd Systems require user participation and user
