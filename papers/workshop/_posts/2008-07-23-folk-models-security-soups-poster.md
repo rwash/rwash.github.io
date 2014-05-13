@@ -1,5 +1,5 @@
 ---
-titie: Mental Models of Home Computer Security
+title: Mental Models of Home Computer Security
 author: Rick Wash
 workshop: Symposium on Usable Privacy and Security (SOUPS), Poster Session
 papertype: Extended Abstract
