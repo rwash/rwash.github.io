@@ -9,6 +9,7 @@ file: source_orientation.pdf
 type: conference
 conference: Human Factors and Ergonomics Society Annual Meeting (HFES)
 city: Chicago, IL
+award: Nominated for Best Paper
 ---
 
 Interaction with internet-connected computing devices involves interaction with many distinct agents or sources
