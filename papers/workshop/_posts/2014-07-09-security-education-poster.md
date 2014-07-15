@@ -10,4 +10,5 @@ layout: workshop
 type: workshop
 tags: securitymodels
 file: katie-poster-soups.pdf
+award: Distinguished Poster Award
 ---
