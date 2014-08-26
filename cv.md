@@ -62,6 +62,7 @@ Okemos, MI 48864
 
 ### Awards and Fellowships
 
+* Nominated for Best Paper. Human Factors and Ergonomics Society Annual meeting, 2014
 * Distinguished Poster Award. Symposium on Usable Privacy and Security 2014
 * Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014 
 * National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
