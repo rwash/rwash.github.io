@@ -24,7 +24,7 @@ Facebook: [Rick Wash](http://facebook.com/rwash)
 ### Short Bio
 
 Rick Wash is an Assistant Professor at Michigan State University in the School of Journalism and the Department of
-Telecommunications, Information Studies, and Media. His work involves understanding how people think about their
+Media and Information. His work involves understanding how people think about their
 interactions with computers, and their interactions with other people through computers, with a particular focus on
 security and collaborative systems.  He completed his PhD at the School of Information at the University of Michigan.
 Prior to studying information, Rick completed his masters degree in Computer Science from the University of Michigan,
