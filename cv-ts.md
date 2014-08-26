@@ -42,14 +42,14 @@ Okemos, MI 48864
 
 * *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." IIS-1350253, **Rick Wash, PI**. 2014-2019 Budget $489,678.
     * REU Supplement 2014: $16,000
-* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194
+* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194  (50/50 collaboration)
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
     * REU Supplement 2014: $16,000
 * *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**. 2011-2014 Budget $399,511.
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
-* *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
+* *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** (Rick wrote most of the proposal; this standard grant was mostly his dissertation work.)
 
 <!--
 #### Proposal Under Review
@@ -63,9 +63,9 @@ Okemos, MI 48864
 ### Awards and Fellowships
 
 * Distinguished Poster Award. Symposium on Usable Privacy and Security 2014
-* Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014 
-* National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
+* Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014
 * *Gary M. Olson Outstanding PhD Student Award*. School of Information, University of Michigan. 2008
+* National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
 
 Publications
 ------------
@@ -76,7 +76,7 @@ Publications
     : Chair: Jeffrey K. MacKie-Mason
     : Committee: Judith Olson, Mark Ackerman, Brian Noble
 
-### Journal Papers
+### Journal Papers (all strictly peer-reviewed)
 
 {% for post in site.categories.journal %} {% capture pub %}
   {% include journal.md %}
@@ -84,7 +84,7 @@ Publications
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Conference Proceedings
+### Conference Proceedings (all strictly peer-reviewed)
 
 {% for post in site.categories.conference %} {% capture pub %} 
   {% include conference.md %}
@@ -92,21 +92,21 @@ Publications
 {% endcapture %} * {{ pub | strip_newlines | strip_html }}
 {% endfor %}
 
-### Book Chapters
+### Book Chapters (invited)
 
 {% for post in site.categories.bookchap %} {% capture pub %} 
   {% include bookchap.md %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Magazine Articles
+### Magazine Articles (invited)
 
 {% for post in site.categories.magazine %} {% capture pub %} 
   {% include magazine.md %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Workshop Papers
+### Workshop Papers (lightly peer reviewed)
 
 {% for post in site.categories.workshop %} {% capture pub %}
   {% include workshop.md %}
