@@ -205,7 +205,7 @@ Teaching Experience
 
 * Ruth Shillair. MSU MIS. 2014-Present
 * Tian Cai. MSU MIS. 2014-Present
-* Jan-Hendrik Boehmer. MSU MIS. 2013-Present
+* Jan-Hendrik Boehmer. MSU MIS. 2013-2014
 * Sang Yup Lee. MSU MIS. 2012-2014
 * Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
@@ -284,7 +284,7 @@ Conference Program Committees:
 * USec (Workshop on Usable Security): 2014
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
-I was an external reviewer (panelist) for the NSF in 2011, 2012, and 2014.
+I was an external reviewer (panelist) for the NSF in 2011, 2012, and 2014 (twice).
 
 Reviewer for:
 
