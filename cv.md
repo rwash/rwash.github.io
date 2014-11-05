@@ -275,7 +275,7 @@ Scholarly Service
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/)
@@ -291,13 +291,13 @@ Reviewer for:
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
-* CHI 2008, 2009, 2011, 2013, 2014
+* CHI 2008, 2009, 2011, 2013, 2014, 2015
 * iConference 2008
 * CSCW 2008, 2010,  2011, 2012, 2014
 * WWW 2008
 * ACM GROUP 2009.
 * ICWSM 2013, 2014
-* HCI Journal 2013
+* HCI Journal 2013, 2014
 * SOUPS 2014
 * IEEE Computer Security Foundations (CSF) 2014
 * Computers and Security 2014
