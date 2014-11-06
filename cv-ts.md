@@ -42,14 +42,14 @@ Okemos, MI 48864
 
 * *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." IIS-1350253, **Rick Wash, PI**. 2014-2019 Budget $489,678.
     * REU Supplement 2014: $16,000
-* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194  (50/50 collaboration)
+* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
     * REU Supplement 2014: $16,000
 * *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**. 2011-2014 Budget $399,511.
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
-* *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** (Rick wrote most of the proposal; this standard grant was mostly his dissertation work.)
+* *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
 <!--
 #### Proposal Under Review
@@ -64,9 +64,9 @@ Okemos, MI 48864
 
 * Nominated for Best Paper. Human Factors and Ergonomics Society Annual meeting, 2014
 * Distinguished Poster Award. Symposium on Usable Privacy and Security 2014
-* Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014
-* *Gary M. Olson Outstanding PhD Student Award*. School of Information, University of Michigan. 2008
+* Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014 
 * National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
+* *Gary M. Olson Outstanding PhD Student Award*. School of Information, University of Michigan. 2008
 
 Publications
 ------------
@@ -77,7 +77,7 @@ Publications
     : Chair: Jeffrey K. MacKie-Mason
     : Committee: Judith Olson, Mark Ackerman, Brian Noble
 
-### Journal Papers (all strictly peer-reviewed)
+### Journal Papers (all strictly peer reviewed)
 
 {% for post in site.categories.journal %} {% capture pub %}
   {% include journal.md %}
@@ -85,7 +85,7 @@ Publications
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Conference Proceedings (all strictly peer-reviewed)
+### Conference Proceedings (all strictly peer reviewed)
 
 {% for post in site.categories.conference %} {% capture pub %} 
   {% include conference.md %}
@@ -205,7 +205,7 @@ Teaching Experience
 
 * Ruth Shillair. MSU MIS. 2014-Present
 * Tian Cai. MSU MIS. 2014-Present
-* Jan-Hendrik Boehmer. MSU MIS. 2013-Present
+* Jan-Hendrik Boehmer. MSU MIS. 2013-2014
 * Sang Yup Lee. MSU MIS. 2012-2014
 * Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
@@ -275,7 +275,7 @@ Scholarly Service
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/)
@@ -284,20 +284,20 @@ Conference Program Committees:
 * USec (Workshop on Usable Security): 2014
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
-I was an external reviewer (panelist) for the NSF in 2011, 2012, and 2014.
+I was an external reviewer (panelist) for the NSF in 2011, 2012, and 2014 (twice).
 
 Reviewer for:
 
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
-* CHI 2008, 2009, 2011, 2013, 2014
+* CHI 2008, 2009, 2011, 2013, 2014, 2015
 * iConference 2008
 * CSCW 2008, 2010,  2011, 2012, 2014
 * WWW 2008
 * ACM GROUP 2009.
 * ICWSM 2013, 2014
-* HCI Journal 2013
+* HCI Journal 2013, 2014
 * SOUPS 2014
 * IEEE Computer Security Foundations (CSF) 2014
 * Computers and Security 2014
