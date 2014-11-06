@@ -8,5 +8,6 @@ year: 2014
 isbn: 9781118290743
 abstract: no
 type: bookchap
+file: recsys-encyclopedia.pdf
 ---
 
