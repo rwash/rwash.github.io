@@ -273,6 +273,8 @@ Scholarly Service
 
 ### Service to the Research Community
 
+Journal of CyberSecurity Area Editor, Anthropological and Cultural Studies.  Oxford University Press.
+
 Conference Program Committees:
 
 * SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015
