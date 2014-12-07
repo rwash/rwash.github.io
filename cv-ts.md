@@ -7,7 +7,7 @@ Rick Wash
 =========
 
 ### Assistant Professor
-School of Journalism, and Department of Media and Information
+School of Journalism, and Department of Media and Information  
 *Michigan State University*
 
 #### Office
@@ -51,14 +51,10 @@ Okemos, MI 48864
     * REU Supplement 2013: $16,000
 * *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
-<!--
-#### Proposal Under Review
-
 #### Declined Research Grant Proposals
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
 * *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499.735
--->
 
 ### Awards and Fellowships
 
@@ -82,7 +78,7 @@ Publications
 {% for post in site.categories.journal %} {% capture pub %}
   {% include journal.md %}
   {% if post.link %} <{{post.link}}>{% endif %}
-{% endcapture %} * {{ pub | strip_newlines }}
+{% endcapture %} * \*{{ pub | strip_newlines }}
 {% endfor %}
 
 ### Conference Proceedings (all strictly peer reviewed)
@@ -90,7 +86,7 @@ Publications
 {% for post in site.categories.conference %} {% capture pub %} 
   {% include conference.md %}
   {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} 
-{% endcapture %} * {{ pub | strip_newlines | strip_html }}
+{% endcapture %} * \*{{ pub | strip_newlines | strip_html }}
 {% endfor %}
 
 ### Book Chapters (invited)
@@ -272,6 +268,8 @@ Scholarly Service
 -----------------
 
 ### Service to the Research Community
+
+*Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present
 
 Conference Program Committees:
 
