@@ -7,7 +7,7 @@ Rick Wash
 =========
 
 ### Assistant Professor
-School of Journalism, and Department of Media and Information
+School of Journalism, and Department of Media and Information  
 *Michigan State University*
 
 #### Office
@@ -273,7 +273,7 @@ Scholarly Service
 
 ### Service to the Research Community
 
-Journal of CyberSecurity Area Editor, Anthropological and Cultural Studies.  Oxford University Press.
+*Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present
 
 Conference Program Committees:
 
