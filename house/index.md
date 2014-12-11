@@ -82,7 +82,7 @@ We cannot measure the top of the crack because it is behind a 2x4.
 #### East Wall Crack, Outside
 
 The crack in the east wall is all the way through the concrete, and can be seen on the outside of the house.  This crack
-is approximately 12'4" from the back side of the house:
+is approximately 12'3" from the back side of the house:
 
 <div class="image pair" markdown="1">
 [![Outside East Wall Crack](outside-east-wide.JPG)](outside-east-wide.JPG)
@@ -92,7 +92,7 @@ is approximately 12'4" from the back side of the house:
 
 #### West Wall Crack, Outside
 
-We found a matching sister crack on the west wall of the foundation.  It is exactly 6'4" from the back of the house:
+We found a matching sister crack on the west wall of the foundation.  It is exactly 6'3" from the back of the house:
 
 <div class="image pair" markdown="1">
 [![Outside West Wall Crack](outside-west-wide.JPG)](outside-west-wide.JPG)
@@ -109,7 +109,7 @@ The back of the west wall is 6' shorter than the back of the east wall:
 </div>
 
 This means that the crack in the east wall is in exactly the same place on the foundation west wall as the crack on the
-east wall:  6' + 6'4" = 12'4
+east wall:  6' + 6'3" = 12'3
 
 #### Main Floor Cracks in Drywall
 
