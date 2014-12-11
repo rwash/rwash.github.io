@@ -59,7 +59,7 @@ This was the first crack we discovered.  It was seeping water into the basement.
 inside of the house.
 
 <div class="image" markdown="1">
-[![Inside East Wall Crack](basement-crack-wet.JPG)](basement-crack-wet.JPG)
+[![Inside East Wall Crack](basement-crack-wet.jpg)](basement-crack-wet.jpg)
 <span class="caption">December 2, 2014.  Inside the East Wall.</span>
 </div>
 
