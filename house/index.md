@@ -59,21 +59,21 @@ This was the first crack we discovered.  It was seeping water into the basement.
 inside of the house.
 
 <div class="image" markdown="1">
-[![Inside East Wall Crack](basement-crack-wet.jpg)](basement-crack-wet.jpg)
+[![Inside East Wall Crack](basement-crack-wet.JPG)](basement-crack-wet.JPG)
 <span class="caption">December 2, 2014.  Inside the East Wall.</span>
 </div>
 
 This crack is diagonal. It is narrow at the bottom:
 
 <div class="image" markdown="1">
-[![Inside East Wall Crack](basement-crack-narrow.jpg)](basement-crack-narrow.jpg)
+[![Inside East Wall Crack](basement-crack-narrow.JPG)](basement-crack-narrow.JPG)
 <span class="caption">December 11, 2014.  Inside the East Wall.</span>
 </div>
 
 And wider as it goes up higher on the wall.  
 
 <div class="image" markdown="1">
-[![Inside East Wall Crack](basement-crack-wide.jpg)](basement-crack-wide.jpg)
+[![Inside East Wall Crack](basement-crack-wide.JPG)](basement-crack-wide.JPG)
 <span class="caption">December 11, 2014.  Inside the East Wall.</span>
 </div>
 
@@ -85,8 +85,8 @@ The crack in the east wall is all the way through the concrete, and can be seen 
 is approximately 12'4" from the back side of the house:
 
 <div class="image pair" markdown="1">
-[![Outside East Wall Crack](outside-east-wide.jpg)](outside-east-wide.jpg)
-[![Outside East Wall Crack](outside-east.jpg)](outside-east.jpg)
+[![Outside East Wall Crack](outside-east-wide.JPG)](outside-east-wide.JPG)
+[![Outside East Wall Crack](outside-east.JPG)](outside-east.JPG)
 <span class="caption">December 11, 2014.  Outside the East Wall.</span>
 </div>
 
@@ -95,16 +95,16 @@ is approximately 12'4" from the back side of the house:
 We found a matching sister crack on the west wall of the foundation.  It is exactly 6'4" from the back of the house:
 
 <div class="image pair" markdown="1">
-[![Outside West Wall Crack](outside-west-wide.jpg)](outside-west-wide.jpg)
-[![Outside West Wall Crack](outside-west.jpg)](outside-west.jpg)
+[![Outside West Wall Crack](outside-west-wide.JPG)](outside-west-wide.JPG)
+[![Outside West Wall Crack](outside-west.JPG)](outside-west.JPG)
 <span class="caption">December 11, 2014.  Outside the West Wall.</span>
 </div>
 
 The back of the west wall is 6' shorter than the back of the east wall:
 
 <div class="image pair" markdown="1">
-[![Outside House Extension](extension-wide.jpg)](extension-wide.jpg)
-[![Outside House Extension](extension.jpg)](extension.jpg)
+[![Outside House Extension](extension-wide.JPG)](extension-wide.JPG)
+[![Outside House Extension](extension.JPG)](extension.JPG)
 <span class="caption">December 11, 2014.  Outside the East Wall Extension.</span>
 </div>
 
@@ -118,16 +118,16 @@ sinking along the west wall of the house.  The drywall above the window along th
 separated:
 
 <div class="image pair" markdown="1">
-[![Inside House Drywall Crack](inside-crack-wide.jpg)](inside-crack-wide.jpg)
-[![Inside House Drywall Crack](inside-crack.jpg)](inside-crack.jpg)
+[![Inside House Drywall Crack](inside-crack-wide.JPG)](inside-crack-wide.JPG)
+[![Inside House Drywall Crack](inside-crack.JPG)](inside-crack.JPG)
 <span class="caption">December 11, 2014.  Inside the West Wall, main floor.</span>
 </div>
 
 That crack is about 1/16" big.  Additionally, we are seeing the frame of the window pull away from the wall.
 
 <div class="image pair" markdown="1">
-[![Inside House Drywall Crack](inside-crack-width.jpg)](inside-crack-width.jpg)
-[![Inside House Drywall Crack](inside-crack-frame.jpg)](inside-crack-frame.jpg)
+[![Inside House Drywall Crack](inside-crack-width.JPG)](inside-crack-width.JPG)
+[![Inside House Drywall Crack](inside-crack-frame.JPG)](inside-crack-frame.JPG)
 <span class="caption">December 11, 2014.  Inside the West Wall, main floor.</span>
 </div>
 
@@ -135,8 +135,8 @@ Additionally, in the middle of the house, there is another drywall separation oc
 in the paint yet.
 
 <div class="image pair" markdown="1">
-[![Inside House Drywall Crack](door-crack-wide.jpg)](door-crack-wide.jpg)
-[![Inside House Drywall Crack](door-crack.jpg)](door-crack.jpg)
+[![Inside House Drywall Crack](door-crack-wide.JPG)](door-crack-wide.JPG)
+[![Inside House Drywall Crack](door-crack.JPG)](door-crack.JPG)
 <span class="caption">December 11, 2014.  Inside. The center wall, main floor.</span>
 </div>
 
