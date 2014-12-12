@@ -31,7 +31,7 @@ Here we have collected information about a number of cracks and settling of the 
 ### Summary
 
 We believe that back of the house is sinking, and that the evidence points to a structural problem along the entire
-north (back) wall of our home.  There are matching "sister" cracks in the basement foundation: one on the east wall of
+north (back) wall of our home.  There are matching cracks in the basement foundation: one on the east wall of
 the basement foundation, and one at exactly the same place on the west wall of the basement foundation.  The crack in
 the east wall has already led to water seeping into the house.  This crack is narrower at the bottom and wider at the
 top, and is approximately the same width on both the inside and outside of the foundation wall.  There are cracks in the
@@ -92,7 +92,7 @@ is approximately 12'3" from the back side of the house:
 
 #### West Wall Crack, Outside
 
-We found a matching sister crack on the west wall of the foundation.  It is exactly 6'3" from the back of the house:
+We found a matching crack on the west wall of the foundation.  It is exactly 6'3" from the back of the house:
 
 <div class="image pair" markdown="1">
 [![Outside West Wall Crack](outside-west-wide.JPG)](outside-west-wide.JPG)
