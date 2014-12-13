@@ -35,8 +35,8 @@ Okemos, MI 48864
 ### Education
 
 * *PhD*, School of Information, *University of Michigan*. 2009
-* *Masters of Science*, Computer Science. *University of Michigan*. 2005
-* *Bachelors of Science*, Computer Science. *Case Western Reserve University*. 2002
+* *Master's of Science*, Computer Science. *University of Michigan*. 2005
+* *Bachelor's of Science*, Computer Science. *Case Western Reserve University*. 2002
 
 ### Research Grants
 
@@ -318,6 +318,7 @@ Previous Work Experience
 * *Cigital Labs*. Research Intern. Summer 2001. Developed a research prototype intrusion detection system. 
 * *Microsoft*. Software Development Engineer in Test Intern. Summer 1999 and Summer 2000. Developed automated tests for Microsoft Commerce Server. Developed an automated stress testing system.
 
+<!--
 In The News
 -----------
 
@@ -345,3 +346,4 @@ In The News
 * Metromode "Defending the Net." by Tanya Muzumdar. 3/6/2008 Article about my security research -- <http://www.metromodemedia.com/features/TheNet0058.aspx>
 * My security research was featured research in announcing the STIET (NSF IGERT) renewal grant. <http://www.umich.edu/~urecord/0708/Oct15_07/23.shtml> and <http://stiet.cms.si.umich.edu/sites/stiet.cms.si.umich.edu/files/DetroitFreePressonSTIET_Oct2007.pdf>
 * STIET Newsletter Fall 2008 -- Article about my dissertation research and the the NSF grant that supports it. <http://stiet.cms.si.umich.edu/sites/stiet.cms.si.umich.edu/files/STIETNewsFall08.pdf>
+-->
