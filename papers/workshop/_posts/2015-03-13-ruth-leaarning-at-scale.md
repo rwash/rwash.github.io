@@ -9,7 +9,6 @@ abstract: false
 layout: workshop
 type: workshop
 tags: onlinecommunities
+file: social-roles-las.pdf
 ---
-
-file: fill in
 
