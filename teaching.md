@@ -11,9 +11,10 @@ and technical aspects of information and communication technologies.  I teach cl
 Social Media, Information Security, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported
 Cooperative Work (CSCW).
 
-### Currently Teaching (Fall 2014)
+### Currently Teaching (Spring 2015)
 
-* **TC 491 / JRN 492**. Building Online Communities
+* **TC 985**: Analysis for Media
+* **JRN 821**: Social Media News and Information
 
 ### Past Classes
 
