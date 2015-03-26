@@ -236,6 +236,8 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Paul Rose, MSU. Fall 2014, Spring 2015.
+* Meghan Huynh, MSU.  Fall 2014, Spring 2015.
 * Brandon Beasley, MSU. Summer 2014
 * Stephanie Pena, MSU. Summer 2014 <!-- Michigan -->
 * Lezlie Espana, MSU. Summer 2014 <!-- Wisconsin Lutheran -->
