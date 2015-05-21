@@ -6,7 +6,7 @@ year: 2014
 volume: 12
 number: 1
 month: January/February
-pages: 49-42
+pages: 42-49
 doi: 10.1109/MSP.2014.4
 link: http://doi.ieeecomputersociety.org/10.1109/MSP.2014.4
 layout: magazine
