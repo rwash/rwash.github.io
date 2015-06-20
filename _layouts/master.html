@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'>
+    <title>{{ page.title }}</title>
+    <link href='/css/rwash.css' media='all' rel='stylesheet' type='text/css'>
+    <link href='/css/bootstrap.min.css' media='all' rel='stylesheet' type='text/css'>
+    <link href='/css/bootstrap-responsive.min.css' media='all' rel='stylesheet' type='text/css'>
+    <link href='/css/print.css' media='print' rel='stylesheet' type='text/css'>
+    <meta content='width=device-width' initial-scale='1.0' name='viewport'>
+    <meta content='Rick Wash' name='author'>
+    {% include google.html %}
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  </head>
+  <body>
+    <div class='navbar navbar-inverse navbar-fixed-top'>
+      <div class='navbar-inner'>
+        <div class='container'>
+          <ul class='nav' id='nav'>
+            <li>
+              <a href='/index.html'>Home</a>
+            </li>
+            <li>
+              <a href='/about.html'>About Me</a>
+            </li>
+            <li>
+              <a href='/pubs.html'>Papers</a>
+            </li>
+            <li class='hidden-phone'>
+              <a href='/research.html'>Research</a>
+            </li>
+            <li class='hidden-phone'>
+              <a href='/teaching.html'>Teaching</a>
+            </li>
+            <li class='hidden-phone'>
+              <a href='/cv.html'>C.V.</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class='container-fluid'>
+      <div class='row-fluid'>
+        <div class='span3' id='left'>
+          <div id='header'>
+            {% include header.html %}
+          </div>
+          <div id='contact'>
+            {% include contact.html %}
+          </div>
+        </div>
+        <div class='span8' id='main'>
+          <div id='content'>
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src='/js/bootstrap.min.js'></script>
+    <script src='/js/autoselect.js'></script>
+  </body>
+</html>
