@@ -3,7 +3,7 @@ title: Rick Wash
 layout: master
 ---
 
-I am an Assistant Professor at Michgian State University. My time is split across two departments: the [School of
+I am an Associate Professor at Michgian State University. My time is split across two departments: the [School of
 Journalism](http://jrn.msu.edu) and the [Department of Media and Information](http://tc.msu.edu).
 
 My research focuses on understanding how people think about and reason about their use of technology, with particular
@@ -23,7 +23,7 @@ Facebook: [Rick Wash](http://facebook.com/rwash)
 
 ### Short Bio
 
-Rick Wash is an Assistant Professor at Michigan State University in the School of Journalism and the Department of
+Rick Wash is an Associate Professor at Michigan State University in the School of Journalism and the Department of
 Media and Information. His work involves understanding how people think about their
 interactions with computers, and their interactions with other people through computers, with a particular focus on
 security and collaborative systems.  He completed his PhD at the School of Information at the University of Michigan.

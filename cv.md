@@ -6,7 +6,7 @@ layout: master
 Rick Wash
 =========
 
-### Assistant Professor
+### Associate Professor
 School of Journalism, and Department of Media and Information  
 *Michigan State University*
 
@@ -26,7 +26,10 @@ Okemos, MI 48864
 
 ### Appointments
 
-* 2010-current: Assistant Professor, *Michigan State University*.
+* 2015-current: Associate Professor (with tenure), *Michigan State University*.
+    * School of Journalism (51%)
+    * Department of Media and Information (49%)  
+* 2010-2015: Assistant Professor, *Michigan State University*.
     * School of Journalism (51%)
     * Department of Media and Information (49%)  (formerly Telecommunication, Information Studies, and Media)
 * 2009-2010: Visiting Assistant Professor, *Michigan State University*.
