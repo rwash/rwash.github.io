@@ -45,10 +45,12 @@ Okemos, MI 48864
 
 * *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." IIS-1350253, **Rick Wash, PI**. 2014-2019 Budget $489,678.
     * REU Supplement 2014: $16,000
+    * REU Supplement 2015: $16,000
 * *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
     * REU Supplement 2014: $16,000
+    * REU Supplement 2015: $8,000
 * *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**. 2011-2014 Budget $399,511.
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
@@ -60,7 +62,8 @@ Okemos, MI 48864
 #### Declined Research Grant Proposals
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
-* *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499.735
+* *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499,735
+* *National Science Foundation*, "TWC SBE: Small: Security Inferences: Learning from Interfaces." **RIck Wash, PI**. Budget $499,533
 -->
 
 ### Awards and Fellowships
