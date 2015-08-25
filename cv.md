@@ -197,14 +197,18 @@ Teaching Experience
 
 #### Postdoctoral Researchers
 
-* Kami Vaniea. 2012-2014
+* Kami Vaniea. 2012-2014  (Indiana University --> University of Edinborough)
+
+#### PhD Students graduated as advisor
+
+* Jacob Solomon.  MSU MIS.   2010-2015   (Postdoc at University of Michigan)
 
 #### PhD Advisor
 
+* Yuyang Liang. MSU MIS. 2015-Present
 * Chankyung Pak. MSU MIS.  2013-Present
-* Jacob Solomon.  MSU MIS.   2010-Present
-* Jan-Hendrik Boehmer. MSU MIS. 2011-2013
-* Laeeq Khan. MSU MIS. 2012-2013
+* Jan-Hendrik Boehmer. MSU MIS. 2011-2013 (graduated)
+* Laeeq Khan. MSU MIS. 2012-2013 (graduated)
 * Tor Bjornrud. MSU MIS. 2011-2012
 
 #### PhD Committee Member
@@ -212,13 +216,13 @@ Teaching Experience
 * Ruth Shillair. MSU MIS. 2014-Present
 * Tian Cai. MSU MIS. 2014-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014
-* Sang Yup Lee. MSU MIS. 2012-2014
+* Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
 * Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
 * Ryan Feywin-Bliss. MSU MIS. 2011-2012
-* Michael Friedman. MSU MIS. 2011-2013
+* Michael Friedman. MSU MIS. 2011-2013 (graduated)
 * Brandon Brooks. MSU MIS. 2011-Present
-* Jason Watson. UNC-Charlotte. 2011-2014
+* Jason Watson. UNC-Charlotte. 2011-2014 (graduated)
 * Tor Bjornrud. MSU MIS. 2010-2011; became chair in 2011
 
 #### MA Advisor
@@ -242,12 +246,17 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Ruthie Berman, MSU. Summer 2015. <!-- Macalester -->
+* Robert Plant Pinto Santos, MSU. Summer 2015. <!-- Miami (OH), Brazil -->
+* Sean McNeil, MSU. Summer 2015. <!-- Cornell -->
+* Ellen Light, MSU. Summer 2015. <!-- UW Madison -->
+* Annika De Souza, MSU. Summer 2015. 
 * Paul Rose, MSU. Fall 2014, Spring 2015.
-* Meghan Huynh, MSU.  Fall 2014, Spring 2015.
+* Meghan Huynh, MSU.  Fall 2014, Spring 2015, Fall 2015.
 * Brandon Beasley, MSU. Summer 2014
 * Stephanie Pena, MSU. Summer 2014 <!-- Michigan -->
 * Lezlie Espana, MSU. Summer 2014 <!-- Wisconsin Lutheran -->
-* Shiwani Bisth, MSU. Summer 2014 <!-- Cornell -->
+* Shiwani Bisht, MSU. Summer 2014 <!-- Cornell -->
 * Nathan Klein, MSU. Summer 2014 <!-- Oberlin -->
 * Kyle Kulesza, MSU. Spring 2014
 * Tim Hasselbeck, MSU. Spring 2014
