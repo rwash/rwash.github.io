@@ -59,6 +59,8 @@ Okemos, MI 48864
 <!--
 #### Proposal Under Review
 
+* *MSU Strategic Partnership Grant*, "Measuring and Understanding Cyberterror and Extremism Using Open Source Data." Tom Holt, PI.  Steven Chermak, **Rick Wash**, Johannes Bauer, and Richard Enbody, Co-PIs. 2015.  Budget: $179,956
+
 #### Declined Research Grant Proposals
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
