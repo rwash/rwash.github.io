@@ -5,7 +5,6 @@ journal: Journal of Cyber Security
 year: In Press
 abstract: yes
 layout: journal
-file: topic_model_paper_revised.pdf
 type: journal
 tags: securitymodels
 ---
