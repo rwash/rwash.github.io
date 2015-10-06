@@ -296,7 +296,7 @@ Scholarly Service
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/)
@@ -326,14 +326,15 @@ Reviewer for:
 ### University Service
 
 * MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
-* MSU MIS PhD Spring Research Symposium.  Organizer and MC, Spring 2012, Spring 2013, Spring 2014
-* MSU Journalism Research Committee 2010-2014
+* MSU MIS PhD Spring Research Symposium.  Organizer and MC, Spring 2012, Spring 2013, Spring 2014, Fall 2015
+* MSU Journalism Research Committee 2010-2016
 * MSU TISM PhD Committee 2010-2011
 * MSU TISM PhD Committee Chair 2011-2014
 * MSU MIS PhD Program Steering Committee. 2011-2014
 * MSU TISM Search Committee -- ICT4D. 2011-2012
 * MSU JRN Search Committee -- Innovative Journalism. 2011-2012
 * MSU TISM Search Committee -- Socio-Technical Researcher. 2012-2013
+* MSU JRN Search Committee -- Innovative Journalism and Tech / Media Management and Econ. 2015-2016
 
 Previous Work Experience
 ------------------------
