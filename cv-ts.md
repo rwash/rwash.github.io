@@ -159,6 +159,9 @@ Teaching Experience
 ### Classes Taught
 
 #### Instructor of Record
+* **Spring 2016**. MSU TC 985: *Analysis for Media*
+* **Spring 2016**. MSU JRN 821: *Social Media News and Information*
+* **Fall 2015**. MSU TC 491 / JRN 492: *Building Online Communities*
 * **Spring 2015**. MSU TC 985: *Analysis for Media*
 * **Spring 2015**. MSU JRN 821: *Social Media News and Information*
 * **Fall 2014**. MSU TC 491 / JRN 492: *Building Online Communities*
