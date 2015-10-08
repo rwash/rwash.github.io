@@ -6,7 +6,7 @@ layout: master
 Rick Wash
 =========
 
-### Assistant Professor
+### Associate Professor
 School of Journalism, and Department of Media and Information  
 *Michigan State University*
 
@@ -26,7 +26,10 @@ Okemos, MI 48864
 
 ### Appointments
 
-* 2010-current: Assistant Professor, *Michigan State University*.
+* 2015-current: Associate Professor (with tenure), *Michigan State University*.
+    * School of Journalism (51%)
+    * Department of Media and Information (49%)  
+* 2010-2015: Assistant Professor, *Michigan State University*.
     * School of Journalism (51%)
     * Department of Media and Information (49%)  (formerly Telecommunication, Information Studies, and Media)
 * 2009-2010: Visiting Assistant Professor, *Michigan State University*.
@@ -35,26 +38,35 @@ Okemos, MI 48864
 ### Education
 
 * *PhD*, School of Information, *University of Michigan*. 2009
-* *Master's of Science*, Computer Science. *University of Michigan*. 2005
-* *Bachelor's of Science*, Computer Science. *Case Western Reserve University*. 2002
+* *Masters of Science*, Computer Science. *University of Michigan*. 2005
+* *Bachelors of Science*, Computer Science. *Case Western Reserve University*. 2002
 
 ### Research Grants
 
 * *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." IIS-1350253, **Rick Wash, PI**. 2014-2019 Budget $489,678.
     * REU Supplement 2014: $16,000
+    * REU Supplement 2015: $16,000
 * *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
     * REU Supplement 2014: $16,000
+    * REU Supplement 2015: $8,000
 * *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**. 2011-2014 Budget $399,511.
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
 * *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
+<!--
+#### Proposal Under Review
+
+* *MSU Strategic Partnership Grant*, "Measuring and Understanding Cyberterror and Extremism Using Open Source Data." Tom Holt, PI.  Steven Chermak, **Rick Wash**, Johannes Bauer, and Richard Enbody, Co-PIs. 2015.  Budget: $179,956
+
 #### Declined Research Grant Proposals
 
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
-* *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499.735
+* *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499,735
+* *National Science Foundation*, "TWC SBE: Small: Security Inferences: Learning from Interfaces." **RIck Wash, PI**. Budget $499,533
+-->
 
 ### Awards and Fellowships
 
@@ -78,7 +90,7 @@ Publications
 {% for post in site.categories.journal %} {% capture pub %}
   {% include journal.md %}
   {% if post.link %} <{{post.link}}>{% endif %}
-{% endcapture %} * \*{{ pub | strip_newlines }}
+{% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
 ### Conference Proceedings (all strictly peer reviewed)
@@ -86,7 +98,7 @@ Publications
 {% for post in site.categories.conference %} {% capture pub %} 
   {% include conference.md %}
   {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} 
-{% endcapture %} * \*{{ pub | strip_newlines | strip_html }}
+{% endcapture %} * {{ pub | strip_newlines | strip_html }}
 {% endfor %}
 
 ### Book Chapters (invited)
@@ -187,14 +199,18 @@ Teaching Experience
 
 #### Postdoctoral Researchers
 
-* Kami Vaniea. 2012-2014
+* Kami Vaniea. 2012-2014  (Indiana University --> University of Edinborough)
+
+#### PhD Students graduated as advisor
+
+* Jacob Solomon.  MSU MIS.   2010-2015   (Postdoc at University of Michigan)
 
 #### PhD Advisor
 
+* Yuyang Liang. MSU MIS. 2015-Present
 * Chankyung Pak. MSU MIS.  2013-Present
-* Jacob Solomon.  MSU MIS.   2010-Present
-* Jan-Hendrik Boehmer. MSU MIS. 2011-2013
-* Laeeq Khan. MSU MIS. 2012-2013
+* Jan-Hendrik Boehmer. MSU MIS. 2011-2013 (graduated)
+* Laeeq Khan. MSU MIS. 2012-2013 (graduated)
 * Tor Bjornrud. MSU MIS. 2011-2012
 
 #### PhD Committee Member
@@ -202,13 +218,13 @@ Teaching Experience
 * Ruth Shillair. MSU MIS. 2014-Present
 * Tian Cai. MSU MIS. 2014-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014
-* Sang Yup Lee. MSU MIS. 2012-2014
+* Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
 * Wenjuan Ma. MSU MIS. 2012-Present
 * Sonya Yan Song. MSU MIS. 2012-Present
 * Ryan Feywin-Bliss. MSU MIS. 2011-2012
-* Michael Friedman. MSU MIS. 2011-2013
+* Michael Friedman. MSU MIS. 2011-2013 (graduated)
 * Brandon Brooks. MSU MIS. 2011-Present
-* Jason Watson. UNC-Charlotte. 2011-2014
+* Jason Watson. UNC-Charlotte. 2011-2014 (graduated)
 * Tor Bjornrud. MSU MIS. 2010-2011; became chair in 2011
 
 #### MA Advisor
@@ -232,10 +248,17 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Ruthie Berman, MSU. Summer 2015. <!-- Macalester -->
+* Robert Plant Pinto Santos, MSU. Summer 2015. <!-- Miami (OH), Brazil -->
+* Sean McNeil, MSU. Summer 2015. <!-- Cornell -->
+* Ellen Light, MSU. Summer 2015. <!-- UW Madison -->
+* Annika De Souza, MSU. Summer 2015. 
+* Paul Rose, MSU. Fall 2014, Spring 2015.
+* Meghan Huynh, MSU.  Fall 2014, Spring 2015, Fall 2015.
 * Brandon Beasley, MSU. Summer 2014
 * Stephanie Pena, MSU. Summer 2014 <!-- Michigan -->
 * Lezlie Espana, MSU. Summer 2014 <!-- Wisconsin Lutheran -->
-* Shiwani Bisth, MSU. Summer 2014 <!-- Cornell -->
+* Shiwani Bisht, MSU. Summer 2014 <!-- Cornell -->
 * Nathan Klein, MSU. Summer 2014 <!-- Oberlin -->
 * Kyle Kulesza, MSU. Spring 2014
 * Tim Hasselbeck, MSU. Spring 2014
@@ -273,16 +296,16 @@ Scholarly Service
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
-* STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/)
+* STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/)
 * CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015
 * WikiSym: 2013 (track on open collaboration)
-* USec (Workshop on Usable Security): 2014
+* USec (Workshop on Usable Security): 2014, 2016
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
-I was an external reviewer (panelist) for the NSF in 2011, 2012, and 2014 (twice).
+I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), and 2015.
 
 Reviewer for:
 
@@ -303,14 +326,15 @@ Reviewer for:
 ### University Service
 
 * MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
-* MSU MIS PhD Spring Research Symposium.  Organizer and MC, Spring 2012, Spring 2013, Spring 2014
-* MSU Journalism Research Committee 2010-2014
+* MSU MIS PhD Spring Research Symposium.  Organizer and MC, Spring 2012, Spring 2013, Spring 2014, Fall 2015
+* MSU Journalism Research Committee 2010-2016
 * MSU TISM PhD Committee 2010-2011
 * MSU TISM PhD Committee Chair 2011-2014
 * MSU MIS PhD Program Steering Committee. 2011-2014
 * MSU TISM Search Committee -- ICT4D. 2011-2012
 * MSU JRN Search Committee -- Innovative Journalism. 2011-2012
 * MSU TISM Search Committee -- Socio-Technical Researcher. 2012-2013
+* MSU JRN Search Committee -- Innovative Journalism and Tech / Media Management and Econ. 2015-2016
 
 Previous Work Experience
 ------------------------
@@ -318,7 +342,6 @@ Previous Work Experience
 * *Cigital Labs*. Research Intern. Summer 2001. Developed a research prototype intrusion detection system. 
 * *Microsoft*. Software Development Engineer in Test Intern. Summer 1999 and Summer 2000. Developed automated tests for Microsoft Commerce Server. Developed an automated stress testing system.
 
-<!--
 In The News
 -----------
 
@@ -346,4 +369,3 @@ In The News
 * Metromode "Defending the Net." by Tanya Muzumdar. 3/6/2008 Article about my security research -- <http://www.metromodemedia.com/features/TheNet0058.aspx>
 * My security research was featured research in announcing the STIET (NSF IGERT) renewal grant. <http://www.umich.edu/~urecord/0708/Oct15_07/23.shtml> and <http://stiet.cms.si.umich.edu/sites/stiet.cms.si.umich.edu/files/DetroitFreePressonSTIET_Oct2007.pdf>
 * STIET Newsletter Fall 2008 -- Article about my dissertation research and the the NSF grant that supports it. <http://stiet.cms.si.umich.edu/sites/stiet.cms.si.umich.edu/files/STIETNewsFall08.pdf>
--->
