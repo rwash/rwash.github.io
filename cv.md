@@ -246,11 +246,13 @@ Teaching Experience
 
 #### Masters-level Research Assistants
 
+* Andrew Osentoski. Fall 2015
 * Benoit Bonnet-Madin. Fall 2011 
 * Craig Tucker. Fall 2011 
 
 #### Undergraduate Research Assistants
 
+* Zac Wellmer, MSU. Fall 2015.
 * Ruthie Berman, MSU. Summer 2015. <!-- Macalester -->
 * Robert Plant Pinto Santos, MSU. Summer 2015. <!-- Miami (OH), Brazil -->
 * Sean McNeil, MSU. Summer 2015. <!-- Cornell -->

@@ -85,7 +85,8 @@ Publications
     : Chair: Jeffrey K. MacKie-Mason
     : Committee: Judith Olson, Mark Ackerman, Brian Noble
 
-### Journal Papers (all strictly peer reviewed)
+### Journal Papers 
+(strictly peer reviewed)
 
 {% for post in site.categories.journal %} {% capture pub %}
   {% include journal.md %}
@@ -93,7 +94,8 @@ Publications
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Conference Proceedings (all strictly peer reviewed)
+### Conference Proceedings
+(strictly peer reviewed)
 
 {% for post in site.categories.conference %} {% capture pub %} 
   {% include conference.md %}
@@ -101,21 +103,24 @@ Publications
 {% endcapture %} * {{ pub | strip_newlines | strip_html }}
 {% endfor %}
 
-### Book Chapters (invited)
+### Book Chapters
+(invited)
 
 {% for post in site.categories.bookchap %} {% capture pub %} 
   {% include bookchap.md %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Magazine Articles (invited)
+### Magazine Articles
+(invited)
 
 {% for post in site.categories.magazine %} {% capture pub %} 
   {% include magazine.md %}
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Workshop Papers (lightly peer reviewed)
+### Workshop Papers
+(lightly peer reviewed)
 
 {% for post in site.categories.workshop %} {% capture pub %}
   {% include workshop.md %}
@@ -246,11 +251,13 @@ Teaching Experience
 
 #### Masters-level Research Assistants
 
+* Andrew Osentoski. Fall 2015
 * Benoit Bonnet-Madin. Fall 2011 
 * Craig Tucker. Fall 2011 
 
 #### Undergraduate Research Assistants
 
+* Zac Wellmer, MSU. Fall 2015.
 * Ruthie Berman, MSU. Summer 2015. <!-- Macalester -->
 * Robert Plant Pinto Santos, MSU. Summer 2015. <!-- Miami (OH), Brazil -->
 * Sean McNeil, MSU. Summer 2015. <!-- Cornell -->
