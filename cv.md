@@ -218,8 +218,10 @@ Teaching Experience
 
 #### PhD Committee Member
 
+* Eunsin Joo. MSU MIS. 2015-Present
+* Yumi Jung. MSU MIS. 2014-Present
 * Ruth Shillair. MSU MIS. 2014-Present
-* Tian Cai. MSU MIS. 2014-Present
+* Tian Cai. MSU MIS. 2014
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014
 * Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
 * Wenjuan Ma. MSU MIS. 2012-Present
@@ -310,16 +312,16 @@ Conference Program Committees:
 * USec (Workshop on Usable Security): 2014, 2016
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
-I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), and 2015.
+I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), 2015, and 2016.
 
 Reviewer for:
 
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
-* CHI 2008, 2009, 2011, 2013, 2014, 2015
+* CHI 2008, 2009, 2011, 2013, 2014, 2015, 2016
 * iConference 2008
-* CSCW 2008, 2010,  2011, 2012, 2014
+* CSCW 2008, 2010,  2011, 2012, 2014, 2016
 * WWW 2008
 * ACM GROUP 2009.
 * ICWSM 2013, 2014
@@ -330,6 +332,7 @@ Reviewer for:
 
 ### University Service
 
+* MSU MI Academic Program Review committee, 2015-2016
 * MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
 * MSU MIS PhD Spring Research Symposium.  Organizer and MC, Spring 2012, Spring 2013, Spring 2014, Fall 2015
 * MSU Journalism Research Committee 2010-2016
