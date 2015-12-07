@@ -310,6 +310,7 @@ Conference Program Committees:
 * CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015
 * WikiSym: 2013 (track on open collaboration)
 * USec (Workshop on Usable Security): 2014, 2016
+* EuroUSec (European Workshop on Usable Security): 2016
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), 2015, and 2016.
