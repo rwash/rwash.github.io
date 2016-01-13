@@ -9,6 +9,7 @@ city: San Jose, CA
 conference: Proceedings of the ACM Conference on Human Factors in Computing (CHI)
 type: conference
 tags: crowdfunding
+file: spillover.pdf
 ---
 
 Donors on crowdfunding sites must coordinate their actions to identify and
