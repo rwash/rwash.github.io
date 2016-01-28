@@ -221,7 +221,7 @@ Teaching Experience
 * Eunsin Joo. MSU MIS. 2015-Present
 * Yumi Jung. MSU MIS. 2014-Present
 * Ruth Shillair. MSU MIS. 2014-Present
-* Tian Cai. MSU MIS. 2014
+* Tian Cai. MSU MIS. 2014-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014
 * Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
 * Wenjuan Ma. MSU MIS. 2012-Present
