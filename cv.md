@@ -206,7 +206,7 @@ Teaching Experience
 
 #### PhD Students graduated as advisor
 
-* Jacob Solomon.  MSU MIS.   2010-2015   (Postdoc at University of Michigan)
+* Jacob Solomon.  MSU MIS.   2010-2015   (Currently: Postdoc at University of Michigan)
 
 #### PhD Advisor
 
@@ -222,13 +222,13 @@ Teaching Experience
 * Yumi Jung. MSU MIS. 2014-Present
 * Ruth Shillair. MSU MIS. 2014-Present
 * Tian Cai. MSU MIS. 2014-Present
-* Jan-Hendrik Boehmer. MSU MIS. 2013-2014
+* Jan-Hendrik Boehmer. MSU MIS. 2013-2014 (graduated)
 * Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
 * Wenjuan Ma. MSU MIS. 2012-Present
-* Sonya Yan Song. MSU MIS. 2012-Present
+* Sonya Yan Song. MSU MIS. 2012-2015 (graduated)
 * Ryan Feywin-Bliss. MSU MIS. 2011-2012
 * Michael Friedman. MSU MIS. 2011-2013 (graduated)
-* Brandon Brooks. MSU MIS. 2011-Present
+* Brandon Brooks. MSU MIS. 2011-2015 (graduated)
 * Jason Watson. UNC-Charlotte. 2011-2014 (graduated)
 * Tor Bjornrud. MSU MIS. 2010-2011; became chair in 2011
 
