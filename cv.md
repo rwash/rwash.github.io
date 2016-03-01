@@ -300,6 +300,7 @@ Scholarly Service
 ### Service to the Research Community
 
 *Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present
+*IEEE Internet Computing* Guess Editor, Special Issues on Usable Privacy and Security.  IEEE Computing Society. 2016.
 
 Conference Program Committees:
 
