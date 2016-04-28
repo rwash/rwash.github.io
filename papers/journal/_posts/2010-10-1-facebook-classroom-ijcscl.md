@@ -1,5 +1,5 @@
 ---
-title: "Sensemaking in the Classroom: Social and psychological predictors of students' use of Facebook to reduce equivocality"
+title: "Student use of Facebook for organizing collaborative classroom activities"
 author: Cliff Lampe, Nicole Ellison, Jessica Vitak, Yvette Wohn, and Rick Wash
 journal: International Journal of Computer-Supported Cooperative Learning
 year: 2011
