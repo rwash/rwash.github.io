@@ -346,6 +346,10 @@ Reviewer for:
 * MSU TISM Search Committee -- Socio-Technical Researcher. 2012-2013
 * MSU JRN Search Committee -- Innovative Journalism and Tech / Media Management and Econ. 2015-2016
 
+### Outreach
+
+* Peer review committee for the CitizenLab Security Planner tool.
+
 Previous Work Experience
 ------------------------
 
