@@ -8,6 +8,7 @@ city: Denver, Colorado
 abstract: true
 layout: conference
 file: security-passwords-field-study.pdf
+slides: https://www.usenix.org/conference/soups2016/technical-sessions/presentation/wash
 type: conference
 tags: securitymodels
 ---

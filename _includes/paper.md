@@ -12,7 +12,8 @@
     [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
     {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
     {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.acmdl %},{% endif %}
-    {% if post.acmdl %} [ACM DL]({{post.acmdl}}){% endif %}{% if post.appendix %},{% endif %}
+    {% if post.acmdl %} [ACM DL]({{post.acmdl}}){% endif %}{% if post.appendix or post.slides %},{% endif %}
+    {% if post.slides %} [Slides]({{post.slides}}){% endif %}{% if post.appendix %},{% endif %}
     {% if post.appendix %} [Appendix](/papers/{{ post.appendix }}) {% endif %}
       {% comment %}  {% if post.doi %} DOI [{{ post.doi }}](http://dx.doi.org/{{ post.doi }}) {% endif %} {% endcomment %}
     )
