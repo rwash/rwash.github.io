@@ -210,7 +210,8 @@ Teaching Experience
 
 #### PhD Advisor
 
-* Yuyang Liang. MSU MIS. 2015-Present
+* Chris Fennell. MSU IM. 2016-Present
+* Yuyang Liang. MSU MIS. 2015-2016
 * Chankyung Pak. MSU MIS.  2013-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2011-2013 (graduated)
 * Laeeq Khan. MSU MIS. 2012-2013 (graduated)
@@ -218,10 +219,13 @@ Teaching Experience
 
 #### PhD Committee Member
 
+* Shaheen Kanthawala. MSU MIS. 2016-Present
+* Travis Kadylak. MSU MIS. 2016-Present
+* Julia DeCook. MSU MIS. 2015-2016
 * Eunsin Joo. MSU MIS. 2015-Present
 * Yumi Jung. MSU MIS. 2014-Present
 * Ruth Shillair. MSU MIS. 2014-Present
-* Tian Cai. MSU MIS. 2014-Present
+* Tian Cai. MSU MIS. 2014-2016
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014 (graduated)
 * Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
 * Wenjuan Ma. MSU MIS. 2012-Present
@@ -254,6 +258,7 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Nina Capuzzi, MSU. Spring 2016, Fall 2016.
 * Zac Wellmer, MSU. Fall 2015.
 * Ruthie Berman, MSU. Summer 2015. <!-- Macalester -->
 * Robert Plant Pinto Santos, MSU. Summer 2015. <!-- Miami (OH), Brazil -->
