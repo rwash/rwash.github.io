@@ -3,8 +3,7 @@ title: Rick Wash
 layout: master
 ---
 
-I am an Associate Professor at Michgian State University. My time is split across two departments: the [School of
-Journalism](http://jrn.msu.edu) and the [Department of Media and Information](http://tc.msu.edu).
+I am an Associate Professor at Michgian State University in the [Department of Media and Information](http://tc.msu.edu).
 
 My research focuses on understanding how people think about and reason about their use of technology, with particular
 focuses on information security, crowdsourcing, and online communities.
@@ -12,7 +11,8 @@ focuses on information security, crowdsourcing, and online communities.
 ### Contact Info
 
 *Rick Wash*  
-342 Communication Arts and Sciences  
+402 Communication Arts and Sciences  
+404 Wilson Rd, #402
 Michigan State Univesity  
 East Lansing, MI 48824  
 
