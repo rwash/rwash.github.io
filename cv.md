@@ -26,7 +26,9 @@ Okemos, MI 48864
 
 ### Appointments
 
-* 2015-current: Associate Professor (with tenure), *Michigan State University*.
+* 2016-Present: Associate Professor (with tenure), *Michigan State University*.
+    * Department of Media and Information
+* 2015-2016: Associate Professor (with tenure), *Michigan State University*.
     * School of Journalism (51%)
     * Department of Media and Information (49%)  
 * 2010-2015: Assistant Professor, *Michigan State University*.
