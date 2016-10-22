@@ -260,6 +260,9 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Nicholas Gilreath, MSU. Fall 2016
+* Robert Novak, MSU. Fall 2016
+* Jimmy Mkude, MSU. Fall 2016
 * Nina Capuzzi, MSU. Spring 2016, Fall 2016.
 * Zac Wellmer, MSU. Fall 2015.
 * Ruthie Berman, MSU. Summer 2015. <!-- Macalester -->
