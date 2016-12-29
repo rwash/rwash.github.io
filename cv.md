@@ -321,10 +321,10 @@ Conference Program Committees:
 * CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015
 * WikiSym: 2013 (track on open collaboration)
 * USec (Workshop on Usable Security): 2014, 2016, 2017
-* EuroUSec (European Workshop on Usable Security): 2016
+* EuroUSec (European Workshop on Usable Security): 2016, 2017
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
-I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), 2015, and 2016.
+I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), 2015, 2016, and 2017.
 
 Reviewer for:
 
@@ -355,6 +355,7 @@ Reviewer for:
 * MSU JRN Search Committee -- Innovative Journalism. 2011-2012
 * MSU TISM Search Committee -- Socio-Technical Researcher. 2012-2013
 * MSU JRN Search Committee -- Innovative Journalism and Tech / Media Management and Econ. 2015-2016
+* MSU MI Search Committee Chair -- Human-Centered Technology. 2016-2017
 
 ### Outreach
 
