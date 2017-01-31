@@ -229,13 +229,14 @@ Teaching Experience
 * Shaheen Kanthawala. MSU MIS. 2016-Present
 * Travis Kadylak. MSU MIS. 2016-Present
 * Julia DeCook. MSU MIS. 2015-2016
+* Kendall Koning. MSU MIS. 2014-Present
 * Eunsin Joo. MSU MIS. 2015-Present
 * Yumi Jung. MSU MIS. 2014-Present
 * Ruth Shillair. MSU MIS. 2014-Present
 * Tian Cai. MSU MIS. 2014-2016
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014 (graduated)
 * Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
-* Wenjuan Ma. MSU MIS. 2012-Present
+* Wenjuan Ma. MSU MIS. 2012-2017 (graduated)
 * Sonya Yan Song. MSU MIS. 2012-2015 (graduated)
 * Ryan Feywin-Bliss. MSU MIS. 2011-2012
 * Michael Friedman. MSU MIS. 2011-2013 (graduated)
