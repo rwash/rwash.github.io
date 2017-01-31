@@ -134,6 +134,8 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash. "Understanding Everyday Decision Making." At *Indiana University, School of Informatics*. (2016)
+* Rick Wash. "Understanding Everyday Decision Making." At *Syracuse University, School of Information Studies*. (2016)
 * Rick Wash and Emilee Rader. "Influencing Mental Models of Security." At Lansing Torch Club, East Lansing, MI. (2014)
 * Rick Wash. "Folk Security." At *Indiana University, School of Informatics*. (2013)
 * Rick Wash. "Thinking and Talking About Security." At *Indiana University, School of Informatics*. (2012)
