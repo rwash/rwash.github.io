@@ -11,10 +11,9 @@ and technical aspects of information and communication technologies.  I teach cl
 Social Media, Information Security, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported
 Cooperative Work (CSCW).
 
-### Currently Teaching (Spring 2015)
+### Currently Teaching (Spring 2017)
 
-* **TC 985**: Analysis for Media
-* **JRN 821**: Social Media News and Information
+* **MI 985**: Analysis for Media
 
 ### Past Classes
 
@@ -34,9 +33,9 @@ taught to apply social science and computer science research for real-world
 applications and how to work on collaborative, cross-disciplinary teams that
 include both technical and creative people as well as topic experts.
 
-*Schedule: Fall 2014*
+*Schedule: Fall 2014, Fall 2015, Fall 2016*
 
-**Website:** <http://rickwash.com>
+**Website:** <http://communities.cas.msu.edu>
 
 #### Server Side Web Development
 
@@ -83,13 +82,13 @@ the field of journalism has (in the past) and can (in the future) use that techn
 discussion amongst the class about ways that we can use these technologies to improve our reporting. Both undergraduates
 and graduate students are welcome.
 
-*Schedule: Spring 2011, Spring 2013, Spring 2015*
+*Schedule: Spring 2011, Spring 2013, Spring 2015, Spring 2016*
 
 **Website:** <http://compjourn.cas.msu.edu>
 
 #### Analysis for Media
 
-*TC 985*
+*TC 985* renamed to *MI 985*
 
 This class is a doctoral level methods class where we learn a number of statistical techniques for analyzing
 quantitative data that arises in doing research on media and information. The majority of this class will focus on
@@ -102,7 +101,7 @@ we may also cover model comparison, sample size and power calculations, and ANOV
 
 *Schedule: Spring 2012, Spring 2013, Spring 2014, Spring 2015*
 
-**Website:** <http://edhar.cas.msu.edu/tc985>
+**Website:** <http://edhar.cas.msu.edu/>
 
 #### Information Networks and Technology
 
@@ -116,3 +115,16 @@ impact telecommunications businesses and all kinds of business decisions.
 *Schedule: Fall 2010*
 
 **Website:** <http://webdev.cas.msu.edu/tc861/>
+
+#### Methods for Understanding Users
+
+*MI 220*
+
+This undergraduate class introduces students to the basics of understanding users of technology systems, with the
+eventual goal of creating new design ideas.  We cover a number of formative HCI methods including contextual inquiry,
+affinity diagrams, field observations, surveys, and diary studies.  This class also introduces students to careers in
+HCI.
+
+*Schedule: Fall 2016*
+
+
