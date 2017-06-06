@@ -7,12 +7,12 @@ Rick Wash
 =========
 
 ### Associate Professor
-School of Journalism, and Department of Media and Information  
+Department of Media and Information  
 *Michigan State University*
 
 #### Office
-404 Wilson Rd #342  
-342 Communication Arts and Sciences  
+404 Wilson Rd #402  
+402 Communication Arts and Sciences  
 Michigan State University  
 East Lansing, MI 48824  
 (517) 355-2381  
@@ -165,7 +165,7 @@ Teaching Experience
 #### Instructor of Record
 * **Spring 2017**. MSU MI 985: *Analysis for Media*
 * **Fall 2016**. MSU MI 220: *Methods for Understanding Users*
-* **Fall 2016**. MSU MI 491 / JRN 492: *Building ONline Communities*
+* **Fall 2016**. MSU MI 491 / JRN 492: *Building Online Communities*
 * **Spring 2016**. MSU MI 985: *Analysis for Media*
 * **Spring 2016**. MSU JRN 821: *Social Media News and Information*
 * **Fall 2015**. MSU TC 491 / JRN 492: *Building Online Communities*
@@ -266,10 +266,12 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
-* Nicholas Gilreath, MSU. Fall 2016
-* Robert Novak, MSU. Fall 2016
+* Julie Gerstley, MSU.  Summer 2017. <!-- Tulane -->
+* Dottie Blyth, MSU. Summer 2017. <!-- North Carolina -->
+* Nicholas Gilreath, MSU. Fall 2016, Spring 2017.
+* Robert Novak, MSU. Fall 2016, Spring 2017.
 * Jimmy Mkude, MSU. Fall 2016
-* Nina Capuzzi, MSU. Spring 2016, Fall 2016.
+* Nina Capuzzi, MSU. Spring 2016, Fall 2016, Spring 2017.
 * Zac Wellmer, MSU. Fall 2015.
 * Ruthie Berman, MSU. Summer 2015. <!-- Macalester -->
 * Robert Plant Pinto Santos, MSU. Summer 2015. <!-- Miami (OH), Brazil -->
@@ -316,7 +318,7 @@ Scholarly Service
 ### Service to the Research Community
 
 *Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present
-*IEEE Internet Computing* Guess Editor, Special Issues on Usable Privacy and Security.  IEEE Computing Society. 2016.
+*IEEE Internet Computing* Guess Editor, Special Issues on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.
 
 Conference Program Committees:
 
