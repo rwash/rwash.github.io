@@ -1,5 +1,5 @@
 ---
-title: "Usable Security: Guest Editors' Introduction""
+title: "Usable Security: Guest Editors' Introduction"
 author: Rick Wash and Mary Ellen Zurko
 magazine: IEEE Internet Computing
 year: 2017
