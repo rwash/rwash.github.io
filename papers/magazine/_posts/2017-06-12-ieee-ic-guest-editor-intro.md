@@ -13,3 +13,9 @@ layout: magazine
 type: magazine
 tags: securitymodels
 ---
+
+Protecting computing systems involves the efforts of a large number of people.
+However, the connection between people and computers is often the biggest
+vulnerability in the system. This issue includes seven papers that describe how
+people protect computing systems, and the challenges and opportunities they
+provide.
