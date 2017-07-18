@@ -62,10 +62,12 @@ Okemos, MI 48864
 <!--
 #### Proposal Under Review
 
-* *MSU Strategic Partnership Grant*, "Measuring and Understanding Cyberterror and Extremism Using Open Source Data." Tom Holt, PI.  Steven Chermak, **Rick Wash**, Johannes Bauer, and Richard Enbody, Co-PIs. 2015.  Budget: $179,956
+* *National Science Foundation*, "SaTC: CORE: Small: Using Stories to Improve Computer Security Decision Making". **Rick Wash, PI**. 2017-2020. Budget $515,987
+* *National Science Foundation*, "Workshop on Trustworthy Algorithmic Decision-Making". Emilee Rader, PI.  **Rick Wash, Co-PI**. 2017-2018. Budget $93,909
 
 #### Declined Research Grant Proposals
 
+* *MSU Strategic Partnership Grant*, "Measuring and Understanding Cyberterror and Extremism Using Open Source Data." Tom Holt, PI.  Steven Chermak, **Rick Wash**, Johannes Bauer, and Richard Enbody, Co-PIs. 2015.  Budget: $179,956
 * *National Science Foundation*, "Personalizing Incentives to Support Social Media Contribution." Gary Hsieh, PI.  **Rick Wash, Co-PI**.  Budget $638,792
 * *National Science Foundation*, "CAREER: Building Critical Mass in Online Communities." **Rick Wash, PI**. Budget $499,735
 * *National Science Foundation*, "TWC SBE: Small: Security Inferences: Learning from Interfaces." **RIck Wash, PI**. Budget $499,533
@@ -73,6 +75,7 @@ Okemos, MI 48864
 
 ### Awards and Fellowships
 
+* Finalist for Impact Award. Symposium on Usable Security and Privacy (SOUPS) 2017
 * Nominated for Best Paper. Human Factors and Ergonomics Society Annual meeting, 2014
 * Distinguished Poster Award. Symposium on Usable Privacy and Security 2014
 * Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014 
@@ -164,6 +167,8 @@ Teaching Experience
 ### Classes Taught
 
 #### Instructor of Record
+* **Spring 2018**. MSU MI 985: *Analysis for Media*
+* **Fall 2017**. MSU MI 220: *Methods for Understanding Users*
 * **Spring 2017**. MSU MI 985: *Analysis for Media*
 * **Fall 2016**. MSU MI 220: *Methods for Understanding Users*
 * **Fall 2016**. MSU MI 491 / JRN 492: *Building Online Communities*
@@ -231,9 +236,9 @@ Teaching Experience
 * Travis Kadylak. MSU MIS. 2016-Present
 * Julia DeCook. MSU MIS. 2015-2016
 * Kendall Koning. MSU MIS. 2014-Present
-* Eunsin Joo. MSU MIS. 2015-Present
+* Eunsin Joo. MSU MIS. 2015-2017
 * Yumi Jung. MSU MIS. 2014-Present
-* Ruth Shillair. MSU MIS. 2014-Present
+* Ruth Shillair. MSU MIS. 2014-2017
 * Tian Cai. MSU MIS. 2014-2016
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014 (graduated)
 * Sang Yup Lee. MSU MIS. 2012-2014 (graduated)
@@ -318,8 +323,9 @@ Scholarly Service
 
 ### Service to the Research Community
 
-*Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present
-*IEEE Internet Computing* Guess Editor, Special Issues on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.
+*Symposium on Usable Security and Privacy (SOUPS)* Steering Committee. 2017-2020.  
+*Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present  
+*IEEE Internet Computing* Guess Editor, Special Issues on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
 
 Conference Program Committees:
 
@@ -353,7 +359,6 @@ Reviewer for:
 
 ### University Service
 
-* MSU MI Academic Program Review committee, 2015-2016
 * MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
 * MSU MIS PhD Spring Research Symposium.  Organizer and MC, Spring 2012, Spring 2013, Spring 2014, Fall 2015
 * MSU Journalism Research Committee 2010-2016
@@ -364,7 +369,10 @@ Reviewer for:
 * MSU JRN Search Committee -- Innovative Journalism. 2011-2012
 * MSU TISM Search Committee -- Socio-Technical Researcher. 2012-2013
 * MSU JRN Search Committee -- Innovative Journalism and Tech / Media Management and Econ. 2015-2016
+* MSU MI Academic Program Review committee, 2015-2016
 * MSU MI Search Committee Chair -- Human-Centered Technology. 2016-2017
+* MSU IM PhD Program Review Committee - 2017
+
 
 ### Outreach
 
