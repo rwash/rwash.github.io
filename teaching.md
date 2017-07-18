@@ -11,11 +11,43 @@ and technical aspects of information and communication technologies.  I teach cl
 Social Media, Information Security, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported
 Cooperative Work (CSCW).
 
-### Currently Teaching (Spring 2017)
+### Currently Teaching (2017--2018)
 
+* **MI 220**: Methods for Understanding Users
 * **MI 985**: Analysis for Media
 
 ### Past Classes
+
+#### Analysis for Media
+
+*TC 985* renamed to *MI 985*
+
+The [replication crisis](http://science.sciencemag.org/content/349/6251/aac4716) in psychology has caused many people to
+question much of the research in the social sciences.  While there are many reasons for this crisis, a number of people
+are pointing at inadequate and poorly conducted statistical analysis -- and particularly the emphasis on Null Hypothesis
+Testing -- as one of the major problems.  This course teaches students the foundations of many common statistical
+techniques in the social sciences.  It emphasizes statistical and analytical techniques that hold up under scrutiny and
+promote high quality social scientific inquiry.
+
+While most of the time in the course is spent conducting and interpreting common statistics like t-tests and
+regressions, this class focuses attention not on *which* statistic is being used, but instead on how the statistics
+provide insight into the world and can be used to make strong arguments about social scientific concepts. I emphasize
+concepts like thinking about how good your measurements are, understanding the units of your variables, thinking about
+effect sizes instead of statistical significance, using statistics to answer "how much?" questions instead of "yes/no"
+questions, how statistical models provide control, and how to ensure that your analysis and results can be reproduced
+and replicated. In doing so, I will discuss a variety of statistical tools that are used in the social sciences,
+including t-tests, chi-squared tests, anova, OLS regression, logistic regression, multi-level models, statistics to make
+causal claims, and structural equation modeling.
+
+After completing this course, students will have a strong foundation in statistics that will allow them to conduct
+high-quality statistical analyses of social scientific research.  This foundation should provide them with an
+understanding of what statistical analysis in the social sciences will be like in their careers in the future. This
+foundation will also prepare them to learn more advanced analytical techniques, such as big data analysis, structural
+equation modeling, causal analysis, time series analysis, bayesian statistics, machine learning, and econometrics.
+
+*Schedule: Every Spring, 2012-2018*
+
+**Website:** <http://edhar.cas.msu.edu/>
 
 #### Building Online Communities
 
@@ -36,6 +68,19 @@ include both technical and creative people as well as topic experts.
 *Schedule: Fall 2014, Fall 2015, Fall 2016*
 
 **Website:** <http://communities.cas.msu.edu>
+
+
+#### Methods for Understanding Users
+
+*MI 220*
+
+This undergraduate class introduces students to the basics of understanding users of technology systems, with the
+eventual goal of creating new design ideas.  We cover a number of formative HCI methods including contextual inquiry,
+affinity diagrams, field observations, surveys, and diary studies.  This class also introduces students to careers in
+HCI.
+
+*Schedule: Fall 2016, Fall 2017*
+
 
 #### Server Side Web Development
 
@@ -86,22 +131,6 @@ and graduate students are welcome.
 
 **Website:** <http://compjourn.cas.msu.edu>
 
-#### Analysis for Media
-
-*TC 985* renamed to *MI 985*
-
-This class is a doctoral level methods class where we learn a number of statistical techniques for analyzing
-quantitative data that arises in doing research on media and information. The majority of this class will focus on
-interpretation of statistical results: given data with certain properties, how do you interpret the results of
-statistical calculations to understand what you can learn from various types of analysis. We will also focus on using
-statistics to answer how much questions rather than just simply yes/no questions. We will cover a variety of analyses
-that come up in research in our field, including linear regression, logistic regression, poisson regression, multi-level
-models and random effects, causal interpretation, factor analysis, and structural equation modeling. Depending on time,
-we may also cover model comparison, sample size and power calculations, and ANOVA.
-
-*Schedule: Spring 2012, Spring 2013, Spring 2014, Spring 2015*
-
-**Website:** <http://edhar.cas.msu.edu/>
 
 #### Information Networks and Technology
 
@@ -115,16 +144,5 @@ impact telecommunications businesses and all kinds of business decisions.
 *Schedule: Fall 2010*
 
 **Website:** <http://webdev.cas.msu.edu/tc861/>
-
-#### Methods for Understanding Users
-
-*MI 220*
-
-This undergraduate class introduces students to the basics of understanding users of technology systems, with the
-eventual goal of creating new design ideas.  We cover a number of formative HCI methods including contextual inquiry,
-affinity diagrams, field observations, surveys, and diary studies.  This class also introduces students to careers in
-HCI.
-
-*Schedule: Fall 2016*
 
 
