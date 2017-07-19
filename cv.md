@@ -45,6 +45,7 @@ Okemos, MI 48864
 
 ### Research Grants
 
+* *National Science Foundation*, "SaTC: CORE: Small: Using Stories to Improve Computer Security Decision Making". CNS-1714126, **Rick Wash, PI**. 2017-2020. Budget $515,987
 * *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." IIS-1350253, **Rick Wash, PI**. 2014-2019 Budget $489,678.
     * REU Supplement 2014: $16,000
     * REU Supplement 2015: $16,000
@@ -62,7 +63,6 @@ Okemos, MI 48864
 <!--
 #### Proposal Under Review
 
-* *National Science Foundation*, "SaTC: CORE: Small: Using Stories to Improve Computer Security Decision Making". **Rick Wash, PI**. 2017-2020. Budget $515,987
 * *National Science Foundation*, "Workshop on Trustworthy Algorithmic Decision-Making". Emilee Rader, PI.  **Rick Wash, Co-PI**. 2017-2018. Budget $93,909
 
 #### Declined Research Grant Proposals
