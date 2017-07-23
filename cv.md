@@ -332,7 +332,7 @@ Conference Program Committees:
 * SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016, 2017
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee)
-* STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/)
+* STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/), 2017
 * CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015
 * WikiSym: 2013 (track on open collaboration)
 * USec (Workshop on Usable Security): 2014, 2016, 2017
