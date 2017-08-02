@@ -43,23 +43,23 @@ Okemos, MI 48864
 * *Masters of Science*, Computer Science. *University of Michigan*. 2005
 * *Bachelors of Science*, Computer Science. *Case Western Reserve University*. 2002
 
-### Research Grants
+### Awarded Research Grants
 
-* *National Science Foundation*, "Workshop on Trustworthy Algorithmic Decision-Making". Emilee Rader, PI.  **Rick Wash, Co-PI**. 2017-2018. Budget $93,909
-* *National Science Foundation*, "SaTC: CORE: Small: Using Stories to Improve Computer Security Decision Making". CNS-1714126, **Rick Wash, PI**. 2017-2020. Budget $515,987
-* *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." IIS-1350253, **Rick Wash, PI**. 2014-2019 Budget $489,678.
+* *National Science Foundation*, "Workshop on Trustworthy Algorithmic Decision-Making". [CNS-1748381](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748381), Emilee Rader, PI.  **Rick Wash, Co-PI**. 2017-2018. Budget $93,909
+* *National Science Foundation*, "SaTC: CORE: Small: Using Stories to Improve Computer Security Decision Making". [CNS-1714126](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1714126), **Rick Wash, PI**. 2017-2020. Budget $515,987
+* *National Science Foundation*, "CAREER: Mental Models and Critical Mass: Shaping the Success of Online Communities." [IIS-1350253](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1350253), **Rick Wash, PI**. 2014-2019 Budget $489,678.
     * REU Supplement 2014: $16,000
     * REU Supplement 2015: $16,000
     * REU Supplement 2017: $16,000
-* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." CNS-1116544, **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194
+* *National Science Foundation*, "TC:Collaborative Research:Small:Influencing Mental Models of Security." [CNS-1116544](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1116544), **Rick Wash, PI MSU**.  Emilee Rader, PI Northwestern. 2011-2014 Total Budget: $499,781; MSU Budget: $258,194
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
     * REU Supplement 2014: $16,000
     * REU Supplement 2015: $8,000
-* *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." CCF-1101266, **Rick Wash, PI**. 2011-2014 Budget $399,511.
+* *National Science Foundation*, "Socio-technical Design of Crowdfunding Websites." [CCF-1101266](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1101266), **Rick Wash, PI**. 2011-2014 Budget $399,511.
     * REU Supplement 2012: $16,000
     * REU Supplement 2013: $16,000
-* *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." CNS 0716196, Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
+* *National Science Foundation*, "CT-ER: Incentive Centered Technology Design for Home User Security." [CNS 0716196](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0716196), Jeffrey MacKie-Mason PI. 2007-2009. Budget: $200,000. **Rick Wash, Unofficial co-PI** 
 
 <!--
 #### Proposal Under Review
