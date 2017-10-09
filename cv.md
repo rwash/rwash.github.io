@@ -335,7 +335,7 @@ Conference Program Committees:
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/), 2017
 * CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015
 * WikiSym: 2013 (track on open collaboration)
-* USec (Workshop on Usable Security): 2014, 2016, 2017
+* USec (Workshop on Usable Security): 2014, 2016, 2017, 2018
 * EuroUSec (European Workshop on Usable Security): 2016, 2017
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
