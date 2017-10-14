@@ -11,6 +11,7 @@ file: security-passwords-field-study.pdf
 slides: https://www.usenix.org/conference/soups2016/technical-sessions/presentation/wash
 type: conference
 tags: securitymodels
+osf: https://osf.io/r2mha/
 ---
 
 

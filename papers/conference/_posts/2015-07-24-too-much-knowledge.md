@@ -10,6 +10,7 @@ layout: conference
 file: security-survey.pdf
 type: conference
 tags: securitymodels
+osf: https://osf.io/efmgz/
 ---
 
 

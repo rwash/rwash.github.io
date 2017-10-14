@@ -12,6 +12,7 @@ city: Denver, CO
 abstract: false
 file: security-self-report.pdf
 doi: 10.1145/3025453.3025911
+osf: https://osf.io/nkwdq/
 ---
 
 <!-- 
