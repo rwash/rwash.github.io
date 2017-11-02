@@ -371,7 +371,8 @@ Reviewer for:
 * MSU JRN Search Committee -- Innovative Journalism and Tech / Media Management and Econ. 2015-2016
 * MSU MI Academic Program Review committee, 2015-2016
 * MSU MI Search Committee Chair -- Human-Centered Technology. 2016-2017
-* MSU IM PhD Program Review Committee - 2017
+* MSU IM PhD Program Review Committee -- 2017
+* MSU Faculty Greivance Jurisdiction Appeal Panel -- 2017
 
 
 ### Outreach
