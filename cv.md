@@ -326,6 +326,7 @@ Scholarly Service
 *Symposium on Usable Security and Privacy (SOUPS)* Steering Committee. 2017-2020.  
 *Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present  
 *IEEE Internet Computing* Guess Editor, Special Issues on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
+*Workshop on Trustworthy Algorithmic Decision-Making* 2017.  Co-organizer.
 
 Conference Program Committees:
 
@@ -340,6 +341,12 @@ Conference Program Committees:
 
 I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), 2015, 2016, and 2017.
+
+I am an external expert consultant for:
+
+* [CitizenLab Security Planner](https://securityplanner.org/)
+* [Cyber Security Body of Knowledge](http://www.cybok.org) (Human Factors Knowledge Area reviewer) 
+
 
 Reviewer for:
 
