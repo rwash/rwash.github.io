@@ -1,7 +1,7 @@
 ---
 layout: news
 title: SOUPS Steering Committee
-short: <span class="label label-primary">New</span> I have joined the Steering Committee for the SOUPS conference.
+short: I have joined the Steering Committee for the SOUPS conference.
 link: true
 ---
 

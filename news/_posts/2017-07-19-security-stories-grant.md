@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Security Stories grant
-short: <span class="label label-primary">New</span> I have been awarded a $500,000 grant from the NSF to examine how stories can be used for security!
+short: I have been awarded a $500,000 grant from the NSF to examine how stories can be used for security!
 link: true
 ---
 

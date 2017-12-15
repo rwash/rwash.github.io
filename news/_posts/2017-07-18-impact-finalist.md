@@ -1,7 +1,7 @@
 ---
 layout: news
 title: SOUPS Impact award finalist
-short: <span class="label label-primary">New</span> My "Folk Models of Home Computer Security" paper was selected as a finalist for the SOUPS Impact Award!
+short: My "Folk Models of Home Computer Security" paper was selected as a finalist for the SOUPS Impact Award!
 link: true
 ---
 
