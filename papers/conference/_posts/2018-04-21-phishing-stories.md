@@ -3,7 +3,7 @@ layout: conference
 type: conference
 category: conference
 tags: securitystories
-title: "Who Provides Phishing Training? Facts, Stories, and People Like Me""
+title: "Who Provides Phishing Training? Facts, Stories, and People Like Me"
 author: Rick Wash and Molly Cooper
 year: 2018
 conference: Proceedings of the ACM Conference on Human Factors in Computing (CHI)
