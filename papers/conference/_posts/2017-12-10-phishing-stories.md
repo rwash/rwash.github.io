@@ -11,6 +11,8 @@ month: April
 city: Montreal, Canada
 abstract: true
 file: phishing-stories.pdf
+doi: 10.1145/3173574.3174066
+osf: https://osf.io/snh7e/
 ---
 
 <!-- 
