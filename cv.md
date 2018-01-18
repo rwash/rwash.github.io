@@ -382,6 +382,7 @@ Reviewer for:
 * MSU MI Search Committee Chair -- Human-Centered Technology. 2016-2017
 * MSU IM PhD Program Review Committee -- 2017
 * MSU Faculty Greivance Jurisdiction Appeal Panel -- 2017
+* MSU MI Department PhD program re-vision committee -- 2017-2018
 
 
 ### Outreach
