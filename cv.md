@@ -236,7 +236,7 @@ Teaching Experience
 * Shaheen Kanthawala. MSU MIS. 2016-Present
 * Travis Kadylak. MSU MIS. 2016-Present
 * Julia DeCook. MSU MIS. 2015-2016
-* Kendall Koning. MSU MIS. 2014-Present
+* Kendall Koning. MSU MIS. 2014-2017
 * Eunsin Joo. MSU MIS. 2015-2017
 * Yumi Jung. MSU MIS. 2014-Present
 * Ruth Shillair. MSU MIS. 2014-2017
@@ -381,7 +381,7 @@ Reviewer for:
 * MSU MI Academic Program Review committee, 2015-2016
 * MSU MI Search Committee Chair -- Human-Centered Technology. 2016-2017
 * MSU IM PhD Program Review Committee -- 2017
-* MSU Faculty Greivance Jurisdiction Appeal Panel -- 2017
+* MSU Faculty Grievance Jurisdiction Appeal Panel -- 2017
 * MSU MI Department PhD program re-vision committee -- 2017-2018
 
 
