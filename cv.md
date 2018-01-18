@@ -354,9 +354,9 @@ Reviewer for:
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
-* CHI 2008, 2009, 2011, 2013, 2014, 2015, 2016
+* CHI 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018
 * iConference 2008
-* CSCW 2008, 2010,  2011, 2012, 2014, 2016
+* CSCW 2008, 2010,  2011, 2012, 2014, 2016, 2017 (online first), 2018
 * WWW 2008
 * ACM GROUP 2009.
 * ICWSM 2013, 2014
@@ -364,6 +364,7 @@ Reviewer for:
 * SOUPS 2014
 * IEEE Computer Security Foundations (CSF) 2014
 * Computers and Security 2014
+* ACM Transactions on Privacy and Security 2017
 
 ### University Service
 
