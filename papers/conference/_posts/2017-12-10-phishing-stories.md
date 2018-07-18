@@ -12,8 +12,9 @@ city: Montreal, Canada
 abstract: true
 file: phishing-stories.pdf
 doi: 10.1145/3173574.3174066
-osf: https://osf.io/snh7e/
+osf: "https://osf.io/snh7e/"
 award: Honorable Mention Award
+acmdl: "https://dl.acm.org/citation.cfm?id=3174066"
 ---
 
 <!-- 
