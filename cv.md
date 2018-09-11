@@ -273,6 +273,7 @@ Teaching Experience
 
 #### Masters-level Research Assistants
 
+* Janghee Cho. Spring 2018
 * Andrew Osentoski. Fall 2015
 * Benoit Bonnet-Madin. Fall 2011 
 * Craig Tucker. Fall 2011 
