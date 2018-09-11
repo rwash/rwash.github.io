@@ -170,6 +170,8 @@ Teaching Experience
 ### Classes Taught
 
 #### Instructor of Record
+* **Spring 2019**. MSU MI 985: *Analysis for Media*
+* **Fall 2018**. MSU MI 220: *Methods for Understanding Users*
 * **Spring 2018**. MSU MI 985: *Analysis for Media*
 * **Fall 2017**. MSU MI 220: *Methods for Understanding Users*
 * **Spring 2017**. MSU MI 985: *Analysis for Media*
@@ -222,25 +224,27 @@ Teaching Experience
 
 #### PhD Students graduated as advisor
 
-* Jacob Solomon.  MSU MIS.   2010-2015   (Currently: Postdoc at University of Michigan)
+* Jacob Solomon.  MSU MIS.   2010-2015   (Postdoc at University of Michigan; now Athena Health)
+* Chankyung Pak. MSU MIS.  2013-2018 (Postdoc at University of Amsterdam))
 
 #### PhD Advisor
 
+* Megan Knittel. MSU IM. 2018-Present
 * Chris Fennell. MSU IM. 2016-Present
 * Yuyang Liang. MSU MIS. 2015-2016
-* Chankyung Pak. MSU MIS.  2013-Present
 * Jan-Hendrik Boehmer. MSU MIS. 2011-2013 (graduated)
 * Laeeq Khan. MSU MIS. 2012-2013 (graduated)
 * Tor Bjornrud. MSU MIS. 2011-2012
 
 #### PhD Committee Member
 
+* Dominik Neumann. MSU IM. 2017-2018
 * Shaheen Kanthawala. MSU MIS. 2016-Present
 * Travis Kadylak. MSU MIS. 2016-Present
 * Julia DeCook. MSU MIS. 2015-2016
-* Kendall Koning. MSU MIS. 2014-2017
+* Kendall Koning. MSU MIS. 2014-2018 (graduated)
 * Eunsin Joo. MSU MIS. 2015-2017
-* Yumi Jung. MSU MIS. 2014-Present
+* Yumi Jung. MSU MIS. 2014-2017 (graduated)
 * Ruth Shillair. MSU MIS. 2014-2017
 * Tian Cai. MSU MIS. 2014-2016
 * Jan-Hendrik Boehmer. MSU MIS. 2013-2014 (graduated)
@@ -275,10 +279,13 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Connor O'Rourke, MSU. Fall 2018. <!-- professoral assistant -->
+* Daniel Khairallah, MSU. Summer 2018.
+* Caitlyn Myers, MSU. Spring, Summer, Fall 2018.
 * Julie Gerstley, MSU.  Summer 2017. <!-- Tulane -->
 * Dottie Blyth, MSU. Summer 2017. <!-- North Carolina -->
-* Nicholas Gilreath, MSU. Fall 2016, Spring 2017.
-* Robert Novak, MSU. Fall 2016, Spring 2017.
+* Nicholas Gilreath, MSU. Fall 2016, Spring 2017, Fall 2017, Spring 2018, Fall 2018.
+* Robert Novak, MSU. Fall 2016, Spring 2017, Fall 2017, Spring 2018. 
 * Jimmy Mkude, MSU. Fall 2016
 * Nina Capuzzi, MSU. Spring 2016, Fall 2016, Spring 2017.
 * Zac Wellmer, MSU. Fall 2015.
@@ -366,7 +373,7 @@ Reviewer for:
 * SOUPS 2014
 * IEEE Computer Security Foundations (CSF) 2014
 * Computers and Security 2014
-* ACM Transactions on Privacy and Security 2017
+* ACM Transactions on Privacy and Security 2017, 2018
 * American Economic Journal: Economic Policy 2018
 
 ### University Service
@@ -386,6 +393,7 @@ Reviewer for:
 * MSU IM PhD Program Review Committee -- 2017
 * MSU Faculty Grievance Jurisdiction Appeal Panel -- 2017
 * MSU MI Department PhD program re-vision committee -- 2017-2018
+* MSU MI Search Committee. 2018-2019
 
 
 ### Outreach
