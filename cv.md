@@ -341,7 +341,7 @@ Scholarly Service
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016, 2017, 2018
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee), 2019 (Security, Privacy and Visualization subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/), 2017
@@ -357,7 +357,6 @@ I am an external expert consultant for:
 
 * [CitizenLab Security Planner](https://securityplanner.org/)
 * [Cyber Security Body of Knowledge](http://www.cybok.org) (Human Factors Knowledge Area reviewer) 
-
 
 Reviewer for:
 
@@ -400,6 +399,7 @@ Reviewer for:
 ### Outreach
 
 * Peer review committee for the CitizenLab Security Planner tool.
+* Expert at the US Federal Trade Commission's Hearings on Competition and Consumer Protection in the 21st Century: <https://www.ftc.gov/news-events/events-calendar/ftc-hearing-competition-consumer-protection-21st-century-december-2018>
 
 Previous Work Experience
 ------------------------
