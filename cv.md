@@ -375,6 +375,7 @@ Reviewer for:
 * Computers and Security 2014
 * ACM Transactions on Privacy and Security 2017, 2018
 * American Economic Journal: Economic Policy 2018
+* ACM Computing Surveys 2018
 
 ### University Service
 
