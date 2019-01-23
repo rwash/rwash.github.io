@@ -239,7 +239,7 @@ Teaching Experience
 #### PhD Committee Member
 
 * Dominik Neumann. MSU IM. 2017-2018
-* Shaheen Kanthawala. MSU MIS. 2016-Present
+* Shaheen Kanthawala. MSU MIS. 2016-2018
 * Travis Kadylak. MSU MIS. 2016-Present
 * Julia DeCook. MSU MIS. 2015-2016
 * Kendall Koning. MSU MIS. 2014-2018 (graduated)
