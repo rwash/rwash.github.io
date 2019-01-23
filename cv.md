@@ -138,6 +138,7 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash, "Cybersecurity Gossip: Using Stories to Improve Security Decisions." At "Univeristy of Pittsburg, School of Computing and Information". (2018) 
 * Rick Wash, "Cybersecurity Gossip: Using Stories to Improve Security Decisions." At "Univeristy of Maryland, iSchool". (2018) 
 * Rick Wash, "The Role of Human Decisions in Computer Security Systems." At *Penn State University, College of Information Sciences and Technology". (2018)
 * Rick Wash, "Cybersecurity Gossip: Using Stories to Improve Security Decisions." At the *U.S. Federal Trade Commission*. (2017)
