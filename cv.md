@@ -75,6 +75,8 @@ Okemos, MI 48864
 
 ### Awards and Fellowships
 
+* Google [Security and Privacy Research Award](https://www.blog.google/technology/safety-security/working-security-researchers-make-web-safer-everyone/) 2018
+* Honorable Mention Award. ACM Conference on Human Factors in Computing (CHI) 2018:
 * Finalist for Impact Award. Symposium on Usable Security and Privacy (SOUPS) 2017
 * Nominated for Best Paper. Human Factors and Ergonomics Society Annual meeting, 2014
 * Distinguished Poster Award. Symposium on Usable Privacy and Security 2014
