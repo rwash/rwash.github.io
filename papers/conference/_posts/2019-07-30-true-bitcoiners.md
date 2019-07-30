@@ -6,7 +6,7 @@ tags: onlinecommunities
 title: '"The Most Trustworty Coin": How Ideological Tensions Drive Trust in Bitcoin'
 author: Megan Knittel, Shelby Pitts, and Rick Wash 
 year: 2019
-conference: Proceedings of the ACM: Human-Computer Interation (CSCW)
+conference: "Proceedings of the ACM: Human-Computer Interation (CSCW)"
 month: November
 city: Austin, TX
 abstract: false
