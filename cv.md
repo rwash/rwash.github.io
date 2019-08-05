@@ -339,7 +339,7 @@ Scholarly Service
 
 *Symposium on Usable Security and Privacy (SOUPS)* Steering Committee. 2017-2020.  
 *Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present  
-*IEEE Internet Computing* Guess Editor, Special Issue on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
+*IEEE Internet Computing* Guest Editor, Special Issue on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
 *Workshop on Trustworthy Algorithmic Decision-Making* 2017.  Co-organizer.
 
 Conference Program Committees:
@@ -348,7 +348,7 @@ Conference Program Committees:
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee), 2019 (Security, Privacy and Visualization subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/), 2017
-* CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015
+* CSCW (ACM Conference on Computer-Supported Cooperative Work) Associate Chair: 2013, 2015, 2020
 * WikiSym: 2013 (track on open collaboration)
 * USec (Workshop on Usable Security): 2014, 2016, 2017, 2018
 * EuroUSec (European Workshop on Usable Security): 2016, 2017
@@ -368,7 +368,7 @@ Reviewer for:
 * ACM E-Commerce 2007 & 2008
 * CHI 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018
 * iConference 2008
-* CSCW 2008, 2010,  2011, 2012, 2014, 2016, 2017 (online first), 2018
+* CSCW 2008, 2010,  2011, 2012, 2014, 2016, 2017 (online first), 2018, 2019
 * WWW 2008
 * ACM GROUP 2009.
 * ICWSM 2013, 2014
@@ -378,7 +378,7 @@ Reviewer for:
 * Computers and Security 2014
 * ACM Transactions on Privacy and Security 2017, 2018
 * American Economic Journal: Economic Policy 2018
-* ACM Computing Surveys 2018
+* ACM Computing Surveys 2018, 2019
 
 ### University Service
 
