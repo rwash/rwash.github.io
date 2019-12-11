@@ -225,11 +225,12 @@ Teaching Experience
 #### Postdoctoral Researchers
 
 * Kami Vaniea. 2012-2014  (Indiana University --> University of Edinborough)
+* Norbert Nthala.  2019-20201
 
 #### PhD Students graduated as advisor
 
 * Jacob Solomon.  MSU MIS.   2010-2015   (Postdoc at University of Michigan; now Athena Health)
-* Chankyung Pak. MSU MIS.  2013-2018 (Postdoc at University of Amsterdam))
+* Chankyung Pak. MSU MIS.  2013-2018 (Postdoc at University of Amsterdam; now BNU-HKBU United International College in China)
 
 #### PhD Advisor
 
@@ -284,6 +285,8 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Abrielle Mason, MSU. Fall 2019
+* Faye Kollig, MSU. Fall 2019.
 * Connor O'Rourke, MSU. Fall 2018. <!-- professoral assistant -->
 * Daniel Khairallah, MSU. Summer 2018.
 * Caitlyn Myers, MSU. Spring, Summer, Fall 2018.
@@ -342,10 +345,11 @@ Scholarly Service
 *Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present  
 *IEEE Internet Computing* Guest Editor, Special Issue on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
 *Workshop on Trustworthy Algorithmic Decision-Making* 2017.  Co-organizer.
+*Symposium on Usable Privacy and Security* 2020 Karat student research award chair.
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee), 2019 (Security, Privacy and Visualization subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/), 2017
@@ -367,7 +371,7 @@ Reviewer for:
 * Journal of Electronic Commerce
 * ICIS 2006, 2011
 * ACM E-Commerce 2007 & 2008
-* CHI 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018
+* CHI 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
 * iConference 2008
 * CSCW 2008, 2010,  2011, 2012, 2014, 2016, 2017 (online first), 2018, 2019
 * WWW 2008
@@ -399,6 +403,7 @@ Reviewer for:
 * MSU Faculty Grievance Jurisdiction Appeal Panel -- 2017
 * MSU MI Department PhD program re-vision committee -- 2017-2018
 * MSU MI Search Committee. 2018-2019
+* MSU MI PhD Committee chair and representative to IM PhD Executive Committee, 2020
 
 
 ### Outreach
