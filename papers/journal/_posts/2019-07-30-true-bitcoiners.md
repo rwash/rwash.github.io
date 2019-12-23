@@ -15,6 +15,7 @@ abstract: true
 acmdl: https://dl.acm.org/citation.cfm?id=3359138
 doi: 10.1145/3359138
 file: bitcoin-ideology.pdf
+url: https://dl.acm.org/citation.cfm?id=3359138
 ---
 
 <!-- 
