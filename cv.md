@@ -174,6 +174,9 @@ Teaching Experience
 ### Classes Taught
 
 #### Instructor of Record
+* **Spring  2020**. MSU MI 250: Introduction to Applied Programming
+* **Fall 2019**. MSU MI 250: Introduction to Applied Programming
+* **Fall 2019**. MSU MI 220: *Methods for Understanding Users*
 * **Spring 2019**. MSU MI 985: *Analysis for Media*
 * **Fall 2018**. MSU MI 220: *Methods for Understanding Users*
 * **Spring 2018**. MSU MI 985: *Analysis for Media*
@@ -404,6 +407,7 @@ Reviewer for:
 * MSU MI Department PhD program re-vision committee -- 2017-2018
 * MSU MI Search Committee. 2018-2019
 * MSU MI PhD Committee chair and representative to IM PhD Executive Committee, 2020
+* MSU MI Director of Doctoral Studies, 2020-2021
 
 
 ### Outreach
