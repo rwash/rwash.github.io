@@ -347,7 +347,7 @@ Scholarly Service
 *Symposium on Usable Security and Privacy (SOUPS)* Steering Committee. 2017-2020.  
 *Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present  
 *IEEE Internet Computing* Guest Editor, Special Issue on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
-*Workshop on Trustworthy Algorithmic Decision-Making* 2017.  Co-organizer.
+*Workshop on Trustworthy Algorithmic Decision-Making* 2017.  Co-organizer.  
 *Symposium on Usable Privacy and Security* 2020 Karat student research award chair.
 
 Conference Program Committees:
