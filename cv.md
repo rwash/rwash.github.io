@@ -228,7 +228,7 @@ Teaching Experience
 #### Postdoctoral Researchers
 
 * Kami Vaniea. 2012-2014  (Indiana University --> University of Edinborough)
-* Norbert Nthala.  2019-20201
+* Norbert Nthala.  2019-2021
 
 #### PhD Students graduated as advisor
 
@@ -288,9 +288,9 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
-* Abrielle Mason, MSU. Fall 2019
-* Faye Kollig, MSU. Fall 2019.
-* Connor O'Rourke, MSU. Fall 2018. <!-- professoral assistant -->
+* Abrielle Mason, MSU. Fall 2019, Spring 2020
+* Faye Kollig, MSU. Fall 2019, Spring 2020 <!-- professorial assistant -->
+* Connor O'Rourke, MSU. Fall 2018. <!-- professorial assistant -->
 * Daniel Khairallah, MSU. Summer 2018.
 * Caitlyn Myers, MSU. Spring, Summer, Fall 2018.
 * Julie Gerstley, MSU.  Summer 2017. <!-- Tulane -->
@@ -406,7 +406,6 @@ Reviewer for:
 * MSU Faculty Grievance Jurisdiction Appeal Panel -- 2017
 * MSU MI Department PhD program re-vision committee -- 2017-2018
 * MSU MI Search Committee. 2018-2019
-* MSU MI PhD Committee chair and representative to IM PhD Executive Committee, 2020
 * MSU MI Director of Doctoral Studies, 2020-2021
 
 
