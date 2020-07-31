@@ -78,12 +78,14 @@ Okemos, MI 48864
 
 * SOUPS Impact Award. Symposium on Usable Security and Privacy (SOUPS) 2020 (for significant impact on usable security and privacy research and practice)
 * Google [Security and Privacy Research Award](https://www.blog.google/technology/safety-security/working-security-researchers-make-web-safer-everyone/) 2018
+* *Gary M. Olson Outstanding PhD Student Award*. School of Information, University of Michigan. 2008
+* National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
+
+#### Best Paper type awards
 * Honorable Mention Award. ACM Conference on Human Factors in Computing (CHI) 2018:
 * Nominated for Best Paper. Human Factors and Ergonomics Society Annual meeting, 2014
 * Distinguished Poster Award. Symposium on Usable Privacy and Security 2014
 * Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014 
-* National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
-* *Gary M. Olson Outstanding PhD Student Award*. School of Information, University of Michigan. 2008
 
 Publications
 ------------
