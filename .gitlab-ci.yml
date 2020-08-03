@@ -1,7 +1,9 @@
 build:
     script:
         - jekyll build
-    artifact: "_site"
+    artifacts: 
+        paths:
+            - "_site"
 
 deploy:
     script:
