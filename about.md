@@ -23,20 +23,14 @@ Facebook: [Rick Wash](http://facebook.com/rwash)
 
 ### Short Bio
 
-Rick Wash is an Associate Professor at Michigan State University in the
-Department of Media and Information. His work involves understanding how people
-think about their interactions with computers, and their interactions with
-other people through computers, with a particular focus on cyber-security and
-collaborative systems.  His research has won numerous awards, including the
-Impact award at SOUPS for significant long-term impact on the usable security,
-privacy research and practice and a Google Security and Privacy Research award,
-and an NSF CAREER award. His work is supported by over $2 million from the US
-National Science Foundation. He completed his PhD at the School of Information
-at the University of Michigan.  Prior to studying information, Rick completed
-his masters degree in Computer Science from the University of Michigan, and his
-bachelors degree in Computer Science from Case Western Reserve University.
+Rick Wash is an Associate Professor at Michigan State University in the Department of Media and Information. His work
+involves understanding how people think about their interactions with computers, and their interactions with other
+people through computers, with a particular focus on cyber-security and collaborative systems.  His research is
+supported by multiple grants from the US National Science Foundation including an NSF CAREER award.  He completed his
+PhD at the School of Information at the University of Michigan.  Prior to studying information, Rick completed his
+masters degree in Computer Science from the University of Michigan, and his bachelors degree in Computer Science from
+Case Western Reserve University.
 
-<!--
 ### Longer Life Story
 
 At one time in my past, I wanted to be a programmer.   Actually, for most of my teenage years and through college, I
@@ -67,4 +61,3 @@ and what features will discourage it?  This is a hard question and requires both
 understanding of technology.  This is where my work comes in.  I am trying to identify incentive mechanisms: technology
 features or design patterns that have predictable behavorial consequences in these complex strategic environments.
 These design patterns will allow us to build the next generation of social computing systems.
--->
