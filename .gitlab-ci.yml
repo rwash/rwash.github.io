@@ -1,6 +1,6 @@
 build:
     script:
-        - jekyll build
+        - /home/rwash/.rbenv/versions/2.7.1/bin/jekyll build
     artifacts: 
         paths:
             - "_site"
