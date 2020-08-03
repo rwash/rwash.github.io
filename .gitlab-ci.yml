@@ -1,5 +1,3 @@
-stage: deploy
-
 build:
     script:
         - jekyll build
