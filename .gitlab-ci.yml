@@ -13,3 +13,4 @@ deploy:
     script:
         - rm -rf /var/www/rocinante
         - mv _site /var/www/rocinante
+        - restorecon -R -v /var/www/rocinante
