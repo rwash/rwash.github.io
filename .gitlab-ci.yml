@@ -1,0 +1,11 @@
+stage: deploy
+
+build:
+    script:
+        - jekyll build
+    artifact: "_site"
+
+deploy:
+    script:
+        - rm -rf /var/www/rocinante
+        - mv _site /var/www/rocinante
