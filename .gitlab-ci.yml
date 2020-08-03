@@ -6,6 +6,8 @@ build:
             - "_site"
 
 deploy:
+    dependencies:
+        - build
     script:
         - rm -rf /var/www/rocinante
         - mv _site /var/www/rocinante
