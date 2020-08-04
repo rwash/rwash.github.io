@@ -11,12 +11,30 @@ and technical aspects of information and communication technologies.  I teach cl
 Social Media, Information Security, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported
 Cooperative Work (CSCW).
 
-### Currently Teaching (2017--2018)
+### Currently Teaching (2020-2021)
 
-* **MI 220**: Methods for Understanding Users
-* **MI 985**: Analysis for Media
+* **MI 250**: Introduction to Applied Programming
 
 ### Past Classes
+
+#### Introduction to Applied Programming
+*MI 250*
+
+This course is a first introduction to computer programming, designed for
+students who will not become professional programmers but who will need to use
+technical skills or interact with programmers. That is, the course helps
+students understand how to think about programming computers, and builds some
+basic skills at getting computers to do what they want them to do, without an
+expectation that they go on to take large numbers of future programming courses
+or work professionally doing programming.
+
+Everyone can learn to program. Everyone. And understanding more about how
+computers work, how programmers work, and what is easy vs hard for computers
+are extremely useful skills. Those skills are valuable for people doing
+analytics, graphic design work, creating user experiences, building games, and
+almost anyone who works with computers as part of their job. This course tries
+to help students build computer programming skills that they can immediately
+apply to interesting problems and use in their other endeavors.
 
 #### Analysis for Media
 
@@ -79,7 +97,7 @@ eventual goal of creating new design ideas.  We cover a number of formative HCI 
 affinity diagrams, field observations, surveys, and diary studies.  This class also introduces students to careers in
 HCI.
 
-*Schedule: Fall 2016, Fall 2017*
+*Schedule: Fall 2016, Fall 2017, Fall 2018, Fall 2019*
 
 
 #### Server Side Web Development
