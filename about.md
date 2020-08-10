@@ -28,13 +28,13 @@ Department of Media and Information. His work involves understanding how people
 think about their interactions with computers, and their interactions with
 other people through computers, with a particular focus on cyber-security and
 collaborative systems.  His research has won numerous awards, including the
-Impact award at SOUPS for significant long-term impact on the usable security,
-privacy research and practice and a Google Security and Privacy Research award,
+Impact award at SOUPS for significant long-term impact on the usable security and 
+privacy research and practice, a Google Security and Privacy Research award,
 and an NSF CAREER award. His work is supported by over $2 million from the US
 National Science Foundation. He completed his PhD at the School of Information
-at the University of Michigan.  Prior to studying information, Rick completed
+at the University of Michigan.  <!-- Prior to studying information, Rick completed
 his masters degree in Computer Science from the University of Michigan, and his
-bachelors degree in Computer Science from Case Western Reserve University.
+bachelors degree in Computer Science from Case Western Reserve University. -->
 
 <!--
 ### Longer Life Story

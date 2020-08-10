@@ -76,7 +76,7 @@ Okemos, MI 48864
 
 ### Awards and Fellowships
 
-* SOUPS Impact Award. Symposium on Usable Security and Privacy (SOUPS) 2020 (for significant impact on usable security and privacy research and practice)
+* SOUPS Impact Award. Symposium on Usable Security and Privacy (SOUPS) 2020 (for significant impact on usable security and privacy research and practice) for paper "Folk Models of Home Computer Security"
 * Google [Security and Privacy Research Award](https://www.blog.google/technology/safety-security/working-security-researchers-make-web-safer-everyone/) 2018
 * *Gary M. Olson Outstanding PhD Student Award*. School of Information, University of Michigan. 2008
 * National Science Foundation IGERT Fellowship. University of Michigan STIET program. 2002-2004
