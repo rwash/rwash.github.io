@@ -3,8 +3,9 @@
     {% include journal.md %}
     (
     [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
-    {% if post.link %} [Journal Page]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
-    {% if post.file %} [Cached Copy](/papers/{{ post.file }}) {% endif %}
+    {% if post.link %} [Journal Page]({{post.link}}){% endif %}{% if post.link and (post.file or post.talk) %},{% endif %}
+    {% if post.file %} [Cached Copy](/papers/{{ post.file }}) {% endif %}{% if post.file and post.talk %},{% endif %}
+    {% if post.talk %} [Video[(/papers/{{ post.talk }}) {% endif %}
     )
   {% when 'conference' %}
     {% include conference.md %}
