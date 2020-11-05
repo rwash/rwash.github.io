@@ -14,6 +14,8 @@ abstract: true
 file: V4cscw160-washA.pdf
 doi: 10.1145/3415231
 talk: paper-7477-Wash-Rick.mp4
+acmdl: https://dl.acm.org/doi/10.1145/3415231
+link: https://dl.acm.org/doi/10.1145/3415231
 ---
 
 <!-- 
