@@ -9,26 +9,6 @@ about and make decisions about using technology, and then how we can better
 design those technologies to work with those reasoning processes to create
 valuable socio-technical systems.
 
-Socio-Technical Design of Crowdfunding Websites
------------------------------------------------
-Crowdfunding websites like Kickstarter.com and Spot.us allow anyone to post
-project ideas and solicit donations. These systems create a two-sided matching
-market: interested donors need to be matched with interesting projects.
-However, there is a complication: projects need a minimum amount of money to be
-likely to succeed.  I am studying how the rules and technologies that support
-such websites can be designed to create efficient donations and to encourage
-participation and donation. 
-
-{% for post in site.categories.papers %}
-{% if post.tags contains 'crowdfunding' %}
-{% capture pub %}
-{% include paper.md %}
-{% endcapture %}
-* {{ pub | strip_newlines }}
-{% endif %}
-{% endfor %}
-
-
 Influencing Mental Models of Security
 -------------------------------------
 Many people have computers in their homes. But unlike computers located in
@@ -70,3 +50,26 @@ eventually produces a "critical mass" of self-sustaining contributions.
 * {{ pub | strip_newlines }}
 {% endif %}
 {% endfor %}
+
+
+
+Socio-Technical Design of Crowdfunding Websites
+-----------------------------------------------
+Crowdfunding websites like Kickstarter.com and Spot.us allow anyone to post
+project ideas and solicit donations. These systems create a two-sided matching
+market: interested donors need to be matched with interesting projects.
+However, there is a complication: projects need a minimum amount of money to be
+likely to succeed.  I am studying how the rules and technologies that support
+such websites can be designed to create efficient donations and to encourage
+participation and donation. 
+
+{% for post in site.categories.papers %}
+{% if post.tags contains 'crowdfunding' %}
+{% capture pub %}
+{% include paper.md %}
+{% endcapture %}
+* {{ pub | strip_newlines }}
+{% endif %}
+{% endfor %}
+
+
