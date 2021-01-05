@@ -10,7 +10,7 @@ journal: "Proceedings of the ACM: Human-Computer Interation (CSCW)"
 volume: X
 issue: CSCW
 month: November
-abstract: true
+abstract: false
 ---
 
 <!-- 
