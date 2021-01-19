@@ -1,16 +1,7 @@
-build:
-    stage: build
-    script:
-        - /home/rwash/.rbenv/versions/2.7.1/bin/jekyll build
-    artifacts: 
-        paths:
-            - "_site"
-
 deploy:
     stage: deploy
-    dependencies:
-        - build
     script:
+        - /home/rwash/.rbenv/versions/2.7.1/bin/jekyll build
         - rm -rf /var/www/rickwash.com
         - mv _site /var/www/rickwash.com
         - restorecon -R -v /var/www/rickwash.com
