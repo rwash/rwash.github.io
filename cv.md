@@ -241,17 +241,17 @@ Teaching Experience
 
 * Megan Knittel. MSU IM. 2018-2020
 * Chris Fennell. MSU IM. 2016-2020
-* Yuyang Liang. MSU MIS. 2015-2016
+* Yuyang Liang. MSU MIS. 2015-2016 (graduated)
 * Jan-Hendrik Boehmer. MSU MIS. 2011-2013 (graduated)
 * Laeeq Khan. MSU MIS. 2012-2013 (graduated)
 * Tor Bjornrud. MSU MIS. 2011-2012
 
 #### PhD Committee Member
 
-* Dominik Neumann. MSU IM. 2017-2018
-* Shaheen Kanthawala. MSU MIS. 2016-2018
-* Travis Kadylak. MSU MIS. 2016-2019
-* Julia DeCook. MSU MIS. 2015-2016
+* Dominik Neumann. MSU IM. 2017-2018 (graduated)
+* Shaheen Kanthawala. MSU MIS. 2016-2018 (graduated)
+* Travis Kadylak. MSU MIS. 2016-2019 (graduated)
+* Julia DeCook. MSU MIS. 2015-2016 (graduated)
 * Kendall Koning. MSU MIS. 2014-2018 (graduated)
 * Eunsin Joo. MSU MIS. 2015-2017
 * Yumi Jung. MSU MIS. 2014-2017 (graduated)
