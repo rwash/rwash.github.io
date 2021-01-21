@@ -363,7 +363,10 @@ Conference Program Committees:
 * USec (Workshop on Usable Security): 2014, 2016, 2017, 2018
 * EuroUSec (European Workshop on Usable Security): 2016, 2017
 
-I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
+Other Committee Roles:
+* I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
+* Member, Karat Outstanding PhD student award committee, SOUPS 2021
+
 I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), 2015, 2016, 2017, 2019, and 2020.
 
 I am an external expert consultant for:
