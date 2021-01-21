@@ -239,8 +239,8 @@ Teaching Experience
 
 #### PhD Advisor
 
-* Megan Knittel. MSU IM. 2018-Present
-* Chris Fennell. MSU IM. 2016-Present
+* Megan Knittel. MSU IM. 2018-2020
+* Chris Fennell. MSU IM. 2016-2020
 * Yuyang Liang. MSU MIS. 2015-2016
 * Jan-Hendrik Boehmer. MSU MIS. 2011-2013 (graduated)
 * Laeeq Khan. MSU MIS. 2012-2013 (graduated)
@@ -250,7 +250,7 @@ Teaching Experience
 
 * Dominik Neumann. MSU IM. 2017-2018
 * Shaheen Kanthawala. MSU MIS. 2016-2018
-* Travis Kadylak. MSU MIS. 2016-Present
+* Travis Kadylak. MSU MIS. 2016-2019
 * Julia DeCook. MSU MIS. 2015-2016
 * Kendall Koning. MSU MIS. 2014-2018 (graduated)
 * Eunsin Joo. MSU MIS. 2015-2017
