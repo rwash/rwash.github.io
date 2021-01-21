@@ -291,7 +291,7 @@ Teaching Experience
 #### Undergraduate Research Assistants
 
 * Abrielle Mason, MSU. Fall 2019, Spring 2020
-* Faye Kollig, MSU. Fall 2019, Spring 2020 <!-- professorial assistant -->
+* Faye Kollig, MSU. Fall 2019, Spring 2020, <!-- professorial assistant --> Summer 2020, Fall 2020, Spring 2021
 * Connor O'Rourke, MSU. Fall 2018. <!-- professorial assistant -->
 * Daniel Khairallah, MSU. Summer 2018.
 * Caitlyn Myers, MSU. Spring, Summer, Fall 2018.
