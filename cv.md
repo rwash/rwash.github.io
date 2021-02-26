@@ -290,6 +290,7 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Sophie Lamphier, MSU. Spring 2021
 * Abrielle Mason, MSU. Fall 2019, Spring 2020
 * Faye Kollig, MSU. Fall 2019, Spring 2020, <!-- professorial assistant --> Summer 2020, Fall 2020, Spring 2021
 * Connor O'Rourke, MSU. Fall 2018. <!-- professorial assistant -->
@@ -412,6 +413,7 @@ Reviewer for:
 * MSU MI Department PhD program re-vision committee -- 2017-2018
 * MSU MI Search Committee. 2018-2019
 * MSU MI Director of Doctoral Studies, 2020-2021
+* MSU ComArtSci Research Advisory Board, 2021-
 
 
 ### Outreach
