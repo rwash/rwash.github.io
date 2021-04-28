@@ -8,6 +8,7 @@ author: Rick Wash and Emilee Rader
 year: 2021
 journal: Journal of CyberSecurity
 month: To Appear
+doi: 10.1093/cybsec/tyab012
 abstract: true
 ---
 
