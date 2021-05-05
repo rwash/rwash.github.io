@@ -4,8 +4,9 @@
     (
     [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
     {% if post.link %} [Journal Page]({{post.link}}){% endif %}{% if post.link and (post.file or post.talk) %},{% endif %}
-    {% if post.file %} [Cached Copy](/papers/{{ post.file }}) {% endif %}{% if post.file and post.talk %},{% endif %}
+    {% if post.file %} [Cached Copy](/papers/{{ post.file }}) {% endif %}{% if post.file and (post.talk or post.osf) %},{% endif %}
     {% if post.talk %} [Video](/papers/{{ post.talk }}) {% endif %}
+    {% if post.osf %} [Data]({{ post.osf }}) {% endif %}
     )
   {% when 'conference' %}
     {% include conference.md %}
