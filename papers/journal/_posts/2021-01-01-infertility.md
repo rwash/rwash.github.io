@@ -11,7 +11,9 @@ volume: 4
 issue: CSCW1
 month: November
 abstract: false
-doi: 10.1145/3449153
+doi: https://doi.org/10.1145/3449153
+file: infertility.pdf
+acmdl: https://dl.acm.org/doi/10.1145/3449153
 ---
 
 <!-- 
