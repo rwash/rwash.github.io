@@ -8,12 +8,12 @@ author: Megan Knittel, Faye Kollig, Abrielle Mason, and Rick Wash
 year: 2021
 journal: "Proceedings of the ACM: Human-Computer Interation (CSCW)"
 volume: 4
-issue: CSCW1
 month: November
-abstract: false
 doi: https://doi.org/10.1145/3449153
 file: infertility.pdf
 acmdl: https://dl.acm.org/doi/10.1145/3449153
+abstract: false
+number: CSCW1
 ---
 
 <!-- 
