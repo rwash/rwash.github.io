@@ -390,9 +390,10 @@ Reviewer for:
 * SOUPS 2014
 * IEEE Computer Security Foundations (CSF) 2014
 * Computers and Security 2014
-* ACM Transactions on Privacy and Security 2017, 2018
+* ACM Transactions on Privacy and Security (TOPS) 2017, 2018
 * American Economic Journal: Economic Policy 2018
 * ACM Computing Surveys 2018, 2019
+* ACM Transactions on Computer Human Interaction (TOCHI) 2021
 
 ### University Service
 
