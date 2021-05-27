@@ -230,7 +230,7 @@ Teaching Experience
 #### Postdoctoral Researchers
 
 * Kami Vaniea. 2012-2014  (Indiana University --> University of Edinborough)
-* Norbert Nthala.  2019-2021
+* Norbert Nthala.  2019-2021 (Google)
 
 #### PhD Students graduated as advisor
 
