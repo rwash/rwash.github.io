@@ -11,6 +11,7 @@ month: July
 city: Virtual
 abstract: false
 osf: https://osf.io/82sd9/
+file: phishing-stories.pdf
 ---
 
 <!-- 
