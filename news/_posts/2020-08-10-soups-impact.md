@@ -1,7 +1,7 @@
 ---
 layout: news
 title: SOUPS Impact Award
-short: <span class="label label-primary">New</span> <a href="https://www.usenix.org/conference/soups2020">SOUPS</a> awarded its <a href="https://www.usenix.org/conference/soups2020/impact-award">Impact Award</a> to my 2010 paper "Folk Models of Home Computer Security"
+short: <a href="https://www.usenix.org/conference/soups2020">SOUPS</a> awarded its <a href="https://www.usenix.org/conference/soups2020/impact-award">Impact Award</a> to my 2010 paper "Folk Models of Home Computer Security"
 link: true
 ---
 
