@@ -351,11 +351,12 @@ Scholarly Service
 *Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present  
 *IEEE Internet Computing* Guest Editor, Special Issue on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
 *Workshop on Trustworthy Algorithmic Decision-Making* 2017.  Co-organizer.  
-*Symposium on Usable Privacy and Security* 2020 Karat student research award chair.
+*Symposium on Usable Privacy and Security* Program Committee Co-Chair 2022, 2023
+
 
 Conference Program Committees:
 
-* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+* SOUPS (Symposium on Usable Privacy and Security): 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022 (PC Co-chair), 2023 (PC Co-Chair)
 * WEIS (Workshop on Economics and Information Security): 2012, 2013
 * CHI (ACM Conference on Computer-Human Interaction) Associate Chair: 2010 (Interaction Beyond the Individual subcommittee), 2019 (Security, Privacy and Visualization subcommittee)
 * STAST (Workshop on Socio-Technical Aspects in Security and Trust): [2012](http://www.stast2012.uni.lu/), [2014](http://stast2014.uni.lu/), [2015](http://www.stast2015.uni.lu/), 2017
@@ -365,6 +366,7 @@ Conference Program Committees:
 * EuroUSec (European Workshop on Usable Security): 2016, 2017
 
 Other Committee Roles:
+* *Symposium on Usable Privacy and Security* 2020 Karat student research award chair.
 * I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 * Member, Karat Outstanding PhD student award committee, SOUPS 2021
 
