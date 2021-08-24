@@ -2,7 +2,7 @@
 layout: journal
 type: journal
 category: journal
-tags: career
+tags: onlinecommunities
 title: '"Anyone else have this experience?" Sharing the Emotional Labor of Tracking Data About Me'
 author: Megan Knittel, Faye Kollig, Abrielle Mason, and Rick Wash 
 year: 2021
