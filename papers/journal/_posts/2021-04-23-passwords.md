@@ -12,6 +12,7 @@ doi: 10.1093/cybsec/tyab012
 abstract: true
 file: password_usability.pdf
 osf: https://osf.io/a28q9/
+link: https://doi.org/10.1093/cybsec/tyab012
 ---
 
 <!-- 
