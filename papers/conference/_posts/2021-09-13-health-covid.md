@@ -10,6 +10,7 @@ conference: Hawai’i International Conference on System Sciences (HICSS)
 month: January
 city: Maui, Hawaii
 abstract: false
+file: infertility-covid-hicss.pdf
 ---
 
 <!-- 
