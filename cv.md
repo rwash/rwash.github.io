@@ -143,6 +143,10 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash, "Thinking about Phishing." Talk for MSU IT Cybersecurity Awareness Month (2021)
+* Rick Wash, "Detecting Phishing Messages." At Sonoma State University CS Colloquium (2021)
+* Rick Wash, "Detecting Phishing." At MSU Extension All-Staff Meeting (2021)
+* Rick Wash, "Detecting Phishing and Social Engineering." At MSU IT Security Forum (2021)
 * Rick Wash, "Cybersecurity Gossip: Using Stories to Improve Security Decisions." At "Univeristy of Pittsburg, School of Computing and Information". (2018) 
 * Rick Wash, "Cybersecurity Gossip: Using Stories to Improve Security Decisions." At "Univeristy of Maryland, iSchool". (2018) 
 * Rick Wash, "The Role of Human Decisions in Computer Security Systems." At *Penn State University, College of Information Sciences and Technology". (2018)
