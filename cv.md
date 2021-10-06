@@ -143,7 +143,7 @@ Publications
 
 ### Invited Talks
 
-* Rick Wash, "Thinking about Phishing." Talk for MSU IT Cybersecurity Awareness Month (2021)
+* Rick Wash, "How to Catch a Phish." Talk for MSU IT Cybersecurity Awareness Month (2021)
 * Rick Wash, "Detecting Phishing Messages." At Sonoma State University CS Colloquium (2021)
 * Rick Wash, "Detecting Phishing." At MSU Extension All-Staff Meeting (2021)
 * Rick Wash, "Detecting Phishing and Social Engineering." At MSU IT Security Forum (2021)
