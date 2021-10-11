@@ -143,7 +143,7 @@ Publications
 
 ### Invited Talks
 
-* Rick Wash, "How to Catch a Phish." Talk for MSU IT Cybersecurity Awareness Month (2021)
+* Rick Wash, "How to Catch a Phish." Talk for [MSU IT Cybersecurity Awareness Month](https://tech.msu.edu/news/2021/10/national-cybersecurity-awareness-month/) (2021)
 * Rick Wash, "Detecting Phishing Messages." At Sonoma State University CS Colloquium (2021)
 * Rick Wash, "Detecting Phishing." At MSU Extension All-Staff Meeting (2021)
 * Rick Wash, "Detecting Phishing and Social Engineering." At MSU IT Security Forum (2021)
@@ -252,6 +252,7 @@ Teaching Experience
 
 #### PhD Committee Member
 
+* Adam Jenkins, University of Edinburgh. External Examiner (2021-2022)
 * Dominik Neumann. MSU IM. 2017-2018 (graduated)
 * Shaheen Kanthawala. MSU MIS. 2016-2018 (graduated)
 * Travis Kadylak. MSU MIS. 2016-2019 (graduated)
