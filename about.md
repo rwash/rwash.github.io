@@ -23,16 +23,19 @@ Facebook: [Rick Wash](http://facebook.com/rwash)
 
 ### Short Bio
 
-Rick Wash is an Associate Professor at Michigan State University in the
-Department of Media and Information. His work involves understanding how people
-think about their interactions with computers, and their interactions with
-other people through computers, with a particular focus on cyber-security and
-collaborative systems.  His research has won numerous awards, including the
-Impact award at SOUPS for significant long-term impact on the usable security and 
-privacy research and practice, a Google Security and Privacy Research award,
-and an NSF CAREER award. His work is supported by over $2 million from the US
-National Science Foundation. He completed his PhD at the School of Information
-at the University of Michigan.  <!-- Prior to studying information, Rick completed
+Rick Wash is an expert on the human aspects of cybersecurity.  He is an
+Associate Professor at Michigan State University in the Department of Media and
+Information. He studies how people think about their interactions with modern
+technology, with an emphasis on the work people do to protect themselves from
+malicious actors on the Internet.  His research has won the Impact award at
+SOUPS for significant long-term impact on the usable security and privacy
+research and practice, a Google Security and Privacy Research award, and an NSF
+CAREER award. His work is supported by over $2 million from the US National
+Science Foundation. He completed his PhD at the School of Information at the
+University of Michigan. 
+
+
+ <!-- Prior to studying information, Rick completed
 his masters degree in Computer Science from the University of Michigan, and his
 bachelors degree in Computer Science from Case Western Reserve University. -->
 
