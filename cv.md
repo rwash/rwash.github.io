@@ -143,6 +143,7 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash, "[How People Detect Phishing Messages](https://blogs.mtu.edu/icc/2021/11/dr-rick-wash-msu-to-present-keynote-lecture-november-11/)". Talk at Michigan Technical University (November 2021)
 * Rick Wash, "How to Catch a Phish." Talk for [MSU IT Cybersecurity Awareness Month](https://tech.msu.edu/news/2021/10/national-cybersecurity-awareness-month/) (2021)
 * Rick Wash, "Detecting Phishing Messages." At Sonoma State University CS Colloquium (2021)
 * Rick Wash, "Detecting Phishing." At MSU Extension All-Staff Meeting (2021)
