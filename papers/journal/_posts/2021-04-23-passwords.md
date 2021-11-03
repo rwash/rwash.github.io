@@ -7,7 +7,7 @@ title: "Prioritizing Security Over Usability: Strategies for How People Choose P
 author: Rick Wash and Emilee Rader
 year: 2021
 journal: Journal of CyberSecurity
-month: To Appear
+month: June
 volume: 7
 issue: 1
 doi: 10.1093/cybsec/tyab012
