@@ -41,7 +41,7 @@
   {% when 'magazine' %}
     {% include magazine.md %}
     (
-    [Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}
+    {% if post.abstract %}[Abstract]({{post.url}}){% if post.link or post.file %},{% endif %}{% endif %}
     {% if post.link %} [Link]({{post.link}}){% endif %}{% if post.link and post.file %},{% endif %}
     {% if post.file %} [PDF](/papers/{{ post.file }}){% endif %}{% if post.acmdl %},{% endif %}
     {% if post.acmdl %} [ACM DL]({{post.acmdl}}){% endif %}{% if post.appendix %},{% endif %}
