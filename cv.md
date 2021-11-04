@@ -119,7 +119,7 @@ Publications
 {% endcapture %} * {{ pub | strip_newlines }}
 {% endfor %}
 
-### Magazine Articles
+### Articles for Non-Academic Audiences
 
 {% for post in site.categories.magazine %} {% capture pub %} 
   {% include magazine.md %}
