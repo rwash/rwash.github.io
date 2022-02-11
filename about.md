@@ -28,7 +28,7 @@ Rick Wash is an expert on the human aspects of cybersecurity.
 He is an Associate Professor at Michigan State University in the Department of
 Media and Information. He studies how people think about their interactions
 with modern technology, with an emphasis on the work people do to protect
-themselves from malicious actors on the Internet.  
+themselves from risks associated with using information technologiy and the Internet.  
 
 His research has won the Impact award at SOUPS for significant long-term impact
 on the usable security and privacy research and practice, a Google Security and
