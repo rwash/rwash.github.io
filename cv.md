@@ -370,6 +370,7 @@ Conference Program Committees:
 * WikiSym: 2013 (track on open collaboration)
 * USec (Workshop on Usable Security): 2014, 2016, 2017, 2018
 * EuroUSec (European Workshop on Usable Security): 2016, 2017
+* USENIX Security: 2022/2023
 
 Other Committee Roles:
 * *Symposium on Usable Privacy and Security* 2020 Karat student research award chair.
