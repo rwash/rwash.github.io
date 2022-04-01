@@ -442,6 +442,8 @@ Previous Work Experience
 In The News
 -----------
 
+* On April 1, 2022, I was a guest on the nationally syndicated ratio show/podcast "Let's Go There w/ Shira & Ryan", where I talked about my Bitcoin research.
+<!-- a listenership of more than 100k; broadcasts in over 35+ markets including Las Vegas, LA, New York, San Francisco, Chicago, Washington D.C., Dallas, Seattle, Philadelphia, Boston, New Orleans, and Miami.; https://www.audacy.com/podcasts/lets-go-there-with-shira-ryan-22293 -->
 * On March 30, 2021, I was a guest speaker at the MSU IT Security forum: <https://web.microsoftstream.com/video/57daba68-5db7-4bb5-9cbc-434b410a8a7b>
 * On March 14, 2021, I was a guest on Insider Threat: The #misec podcast: <https://podcast.insiderthreatpodcast.com/episode-14-if-you-give-a-man-a-phish>
 * My paper about informal sources of security learning with Emilee Rader was highlighted on Bruce Schneier's blog: December 10, 2015: <https://www.schneier.com/blog/archives/2015/12/how_people_lear.html>
