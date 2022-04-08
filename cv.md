@@ -424,6 +424,7 @@ Reviewer for:
 * MSU MI Search Committee. 2018-2019
 * MSU MI Director of Doctoral Studies, 2020-2021
 * MSU ComArtSci Research Advisory Board, 2021-
+* MSU MI Annual Performance Reivew Committee 2022-
 
 
 ### Outreach
