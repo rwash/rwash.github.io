@@ -143,6 +143,7 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash, "How People Detect Phishing Messages". Invited Talk at Bank of America (May 2022)
 * Rick Wash, "[How People Detect Phishing Messages](https://blogs.mtu.edu/icc/2021/11/dr-rick-wash-msu-to-present-keynote-lecture-november-11/)". Talk at Michigan Technical University (November 2021)
 * Rick Wash, "How to Catch a Phish." Talk for [MSU IT Cybersecurity Awareness Month](https://tech.msu.edu/news/2021/10/national-cybersecurity-awareness-month/) (2021)
 * Rick Wash, "Detecting Phishing Messages." At Sonoma State University CS Colloquium (2021)
@@ -443,6 +444,7 @@ Previous Work Experience
 In The News
 -----------
 
+* On May 11, I was interviewed by a WSJ reporter for an article about passwords
 * On April 1, 2022, I was a guest on the nationally syndicated ratio show/podcast "Let's Go There w/ Shira & Ryan", where I talked about my Bitcoin research.
 <!-- a listenership of more than 100k; broadcasts in over 35+ markets including Las Vegas, LA, New York, San Francisco, Chicago, Washington D.C., Dallas, Seattle, Philadelphia, Boston, New Orleans, and Miami.; https://www.audacy.com/podcasts/lets-go-there-with-shira-ryan-22293 -->
 * On March 30, 2021, I was a guest speaker at the MSU IT Security forum: <https://web.microsoftstream.com/video/57daba68-5db7-4bb5-9cbc-434b410a8a7b>
