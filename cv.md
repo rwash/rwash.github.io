@@ -378,7 +378,8 @@ Other Committee Roles:
 * I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 * Member, Karat Outstanding PhD student award committee, SOUPS 2021
 
-I was an external reviewer (panelist) for the NSF in 2011, 2012, 2014 (twice), 2015, 2016, 2017, 2019, 2020, and 2022.
+I was a panelist for the NSF in 2011, 2012, 2014 (twice), 2015, 2016, 2017, 2019, 2020, and 2022.
+I was an external reviewer for NSERC (Canada) in 2020, 2021 and 2022.
 
 I am an external expert consultant for:
 
