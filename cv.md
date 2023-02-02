@@ -143,6 +143,7 @@ Publications
 
 ### Invited Talks
 
+<!-- * Rick Wash, "Detecting Phishing: Using Email in the Presence of Adversaries". Talk at Univeristy of Wisconsin, Madison iSchool (Feb 2023) -->
 * Rick Wash, "How People Detect Phishing Messages". Invited Talk at Bank of America (May 2022)
 * Rick Wash, "[How People Detect Phishing Messages](https://blogs.mtu.edu/icc/2021/11/dr-rick-wash-msu-to-present-keynote-lecture-november-11/)". Talk at Michigan Technical University (November 2021)
 * Rick Wash, "How to Catch a Phish." Talk for [MSU IT Cybersecurity Awareness Month](https://tech.msu.edu/news/2021/10/national-cybersecurity-awareness-month/) (2021)
@@ -378,7 +379,7 @@ Other Committee Roles:
 * I was Student Volunteer Coordinator for ACM E-Commerce 2006.  
 * Member, Karat Outstanding PhD student award committee, SOUPS 2021
 
-I was a panelist for the NSF in 2011, 2012, 2014 (twice), 2015, 2016, 2017, 2019, 2020, 2022, and 2023.
+I was a panelist for the NSF in 2011, 2012, 2014 (twice), 2015, 2016, 2017, 2019, 2020, 2022, and 2023.  
 I was an external reviewer for NSERC (Canada) in 2020, 2021 and 2022.
 
 I am an external expert consultant for:
