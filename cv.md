@@ -143,7 +143,7 @@ Publications
 
 ### Invited Talks
 
-<!-- * Rick Wash, "Detecting Phishing: Using Email in the Presence of Adversaries". Talk at Univeristy of Wisconsin, Madison iSchool (Feb 2023) -->
+* Rick Wash, "Detecting Phishing: Using Email in the Presence of Adversaries". Talk at Univeristy of Wisconsin, Madison iSchool (Feb 2023) 
 * Rick Wash, "How People Detect Phishing Messages". Invited Talk at Bank of America (May 2022)
 * Rick Wash, "[How People Detect Phishing Messages](https://blogs.mtu.edu/icc/2021/11/dr-rick-wash-msu-to-present-keynote-lecture-november-11/)". Talk at Michigan Technical University (November 2021)
 * Rick Wash, "How to Catch a Phish." Talk for [MSU IT Cybersecurity Awareness Month](https://tech.msu.edu/news/2021/10/national-cybersecurity-awareness-month/) (2021)
