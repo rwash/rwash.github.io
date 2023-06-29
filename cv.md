@@ -7,7 +7,7 @@ Rick Wash
 =========
 
 ### Associate Professor
-The Information School
+The Information School  
 *University of Wisconsin, Madison*
 
 #### Office
