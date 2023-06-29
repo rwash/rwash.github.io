@@ -7,16 +7,14 @@ Rick Wash
 =========
 
 ### Associate Professor
-Department of Media and Information  
-*Michigan State University*
+The Information School
+*University of Wisconsin, Madison*
 
 #### Office
-404 Wilson Rd #402  
-402 Communication Arts and Sciences  
-Michigan State University  
-East Lansing, MI 48824  
-(517) 355-2381  
-<wash@msu.edu>
+TBD  
+Helen C. White building  
+University of Wisconsin, Madison  
+<rwash@wisc.edu>
 
 #### Home
 2712 Kittanset Dr  
@@ -26,7 +24,8 @@ Okemos, MI 48864
 
 ### Appointments
 
-* 2016-Present: Associate Professor (with tenure), *Michigan State University*.
+* 2023-Present: Associate Professor (with tenure), *University of Wisconsin, Madison*
+* 2016-2023: Associate Professor (with tenure), *Michigan State University*.
     * Department of Media and Information
 * 2015-2016: Associate Professor (with tenure), *Michigan State University*.
     * School of Journalism (51%)

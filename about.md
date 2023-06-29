@@ -3,7 +3,7 @@ title: Rick Wash
 layout: master
 ---
 
-I am an Associate Professor at Michgian State University in the [Department of Media and Information](http://tc.msu.edu).
+I am an Associate Professor at the University of Wisconsin, Madison in the [Information School](https://ischool.wisc.edu).
 
 My research focuses on understanding how people think about and reason about their use of technology, with particular
 focuses on information security, crowdsourcing, and online communities.
@@ -11,13 +11,13 @@ focuses on information security, crowdsourcing, and online communities.
 ### Contact Info
 
 *Rick Wash*  
-402 Communication Arts and Sciences  
-404 Wilson Rd, #402
-Michigan State Univesity  
-East Lansing, MI 48824  
+TBD  
+Helen C. White building  
+University of Wisconsin, Madison  
+Madison, WI  
 
-Email (preferred): [wash@msu.edu](mailto:wash@msu.edu)  
-Phone: (517) 355-2381 (office)   
+Email (preferred): [rwash@wisc.edu](mailto:rwash@wisc.edu)  
+Phone: TBD (office)   
 Twitter: [@rickwash](http://twitter.com/rickwash)  
 Facebook: [Rick Wash](http://facebook.com/rwash)
 
@@ -25,16 +25,14 @@ Facebook: [Rick Wash](http://facebook.com/rwash)
 
 Rick Wash is an expert on the human aspects of cybersecurity.  
 
-He is an Associate Professor at Michigan State University in the Department of
-Media and Information. He studies how people think about their interactions
-with modern technology, with an emphasis on the work people do to protect
-themselves from risks associated with using information technologiy and the Internet.  
+He is an Associate Professor in the Information School at the University of Wisconsin, Madison. He studies how people
+think about their interactions with modern technology, with an emphasis on the work people do to protect themselves from
+risks associated with using information technologiy and the Internet.  
 
-His research has won the Impact award at SOUPS for significant long-term impact
-on the usable security and privacy research and practice, a Google Security and
-Privacy Research award, and an NSF CAREER award. His work is supported by over
-$2 million from the US National Science Foundation. He completed his PhD at the
-School of Information at the University of Michigan. 
+His research has won the Impact award at SOUPS for significant long-term impact on the usable security and privacy
+research and practice, a Google Security and Privacy Research award, and an NSF CAREER award. His work is supported by
+over $2 million from the US National Science Foundation. He was previously a professor at Michigan State University, and
+ge completed his PhD at the School of Information at the University of Michigan. 
 
 
  <!-- Prior to studying information, Rick completed
