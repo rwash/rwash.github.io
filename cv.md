@@ -86,6 +86,9 @@ Okemos, MI 48864
 * Distinguished Poster Award. Symposium on Usable Privacy and Security 2014
 * Best Paper Honorable Mention (Top 5%), ACM Computer Supported Cooperative Work conference 2014 
 
+#### Other awards
+* Distinguished Reviewer award for USENIX Security 2023
+
 Publications
 ------------
 
@@ -371,7 +374,7 @@ Conference Program Committees:
 * WikiSym: 2013 (track on open collaboration)
 * USec (Workshop on Usable Security): 2014, 2016, 2017, 2018
 * EuroUSec (European Workshop on Usable Security): 2016, 2017
-* USENIX Security: 2022/2023
+* USENIX Security: 2022/2023 (distinguished reviewer award)
 
 Other Committee Roles:
 * *Symposium on Usable Privacy and Security* 2020 Karat student research award chair.
