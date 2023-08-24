@@ -14,6 +14,7 @@ The Information School
 4251 Helen C. White building  
 600 N. Park st  
 University of Wisconsin, Madison  
+Madison, WI 53706  
 <rwash@wisc.edu>
 
 #### Home
