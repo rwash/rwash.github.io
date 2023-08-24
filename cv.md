@@ -11,14 +11,14 @@ The Information School
 *University of Wisconsin, Madison*
 
 #### Office
-4251 Helen C. White building
-600 N. Park st
+4251 Helen C. White building  
+600 N. Park st  
 University of Wisconsin, Madison  
 <rwash@wisc.edu>
 
 #### Home
-1215 Middleton St
-Middleton, WI 53562
+1215 Middleton St  
+Middleton, WI 53562  
 (734) 730-1188  
 <rick.wash@gmail.com>
 
