@@ -11,13 +11,13 @@ focuses on information security, crowdsourcing, and online communities.
 ### Contact Info
 
 *Rick Wash*  
-TBD  
-Helen C. White building  
+4251 Helen C. White building  
+600 N. Park st  
 University of Wisconsin, Madison  
 Madison, WI  
 
 Email (preferred): [rwash@wisc.edu](mailto:rwash@wisc.edu)  
-Phone: TBD (office)   
+Phone: 734-730-1188 (cell)   
 Twitter: [@rickwash](http://twitter.com/rickwash)  
 Facebook: [Rick Wash](http://facebook.com/rwash)
 
