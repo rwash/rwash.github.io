@@ -11,13 +11,13 @@ focuses on information security, crowdsourcing, and online communities.
 ### Contact Info
 
 *Rick Wash*  
-TBD  
-Helen C. White building  
+4251 Helen C. White building  
+600 N. Park st  
 University of Wisconsin, Madison  
 Madison, WI  
 
 Email (preferred): [rwash@wisc.edu](mailto:rwash@wisc.edu)  
-Phone: TBD (office)   
+Phone: 734-730-1188 (cell)   
 Twitter: [@rickwash](http://twitter.com/rickwash)  
 Facebook: [Rick Wash](http://facebook.com/rwash)
 
@@ -32,7 +32,7 @@ risks associated with using information technologiy and the Internet.
 His research has won the Impact award at SOUPS for significant long-term impact on the usable security and privacy
 research and practice, a Google Security and Privacy Research award, and an NSF CAREER award. His work is supported by
 over $2 million from the US National Science Foundation. He was previously a professor at Michigan State University, and
-ge completed his PhD at the School of Information at the University of Michigan. 
+he completed his PhD at the School of Information at the University of Michigan. 
 
 
  <!-- Prior to studying information, Rick completed
