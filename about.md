@@ -27,7 +27,7 @@ Rick Wash is an expert on the human aspects of cybersecurity.
 
 He is an Associate Professor in the Information School at the University of Wisconsin, Madison. He studies how people
 think about their interactions with modern technology, with an emphasis on the work people do to protect themselves from
-risks associated with using information technologiy and the Internet.  
+risks associated with using information technology and the Internet.  
 
 His research has won the Impact award at SOUPS for significant long-term impact on the usable security and privacy
 research and practice, a Google Security and Privacy Research award, and an NSF CAREER award. His work is supported by
