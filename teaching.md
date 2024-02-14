@@ -6,6 +6,8 @@ layout: master
 Rick's Classes
 --------------
 
+*Note: This information is out of date*
+
 I teach a number of classes at the undergraduate, masters, and PhD levels.  In general, I am interested in the social
 and technical aspects of information and communication technologies.  I teach classes in the areas of Social Computing,
 Social Media, Information Security, Technology and Journalism, Human-Computer Interaction (HCI), and Computer Supported
