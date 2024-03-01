@@ -450,6 +450,7 @@ Previous Work Experience
 In The News
 -----------
 
+* On Feb 29, 2024, I was an expert about the UnitedHealth hack on the FOX6 evening news broadcast in Milwaukee.
 * On May 11, I was interviewed by a WSJ reporter for an article about passwords
 * On April 1, 2022, I was a guest on the nationally syndicated ratio show/podcast "Let's Go There w/ Shira & Ryan", where I talked about my Bitcoin research.
 <!-- a listenership of more than 100k; broadcasts in over 35+ markets including Las Vegas, LA, New York, San Francisco, Chicago, Washington D.C., Dallas, Seattle, Philadelphia, Boston, New Orleans, and Miami.; https://www.audacy.com/podcasts/lets-go-there-with-shira-ryan-22293 -->
