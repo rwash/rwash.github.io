@@ -25,7 +25,11 @@ Middleton, WI 53562
 
 ### Appointments
 
+Information School at the University of Wisconsin, Madison  
+* 2024-Present: Associate Director of Research, Information School
 * 2023-Present: Associate Professor (with tenure), *University of Wisconsin, Madison*
+
+Michigan State University  
 * 2016-2023: Associate Professor (with tenure), *Michigan State University*.
     * Department of Media and Information
 * 2015-2016: Associate Professor (with tenure), *Michigan State University*.
@@ -359,7 +363,7 @@ Scholarly Service
 ### Service to the Research Community
 
 *Symposium on Usable Security and Privacy (SOUPS)* Steering Committee. 2017-2023.  
-*Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-present  
+*Journal of CyberSecurity* Area Editor, Anthropological and Cultural Studies.  Oxford University Press. 2015-2024  
 *IEEE Internet Computing* Guest Editor, Special Issue on Usable Privacy and Security.  IEEE Computing Society. 2016-2017.  
 *Workshop on Trustworthy Algorithmic Decision-Making* 2017.  Co-organizer.  
 *Symposium on Usable Privacy and Security* Program Committee Co-Chair 2022, 2023
