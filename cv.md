@@ -150,7 +150,7 @@ Publications
 
 ### Invited Talks
 
-* Rick Wash, "Rethink or Sink: Unraveling the Human Side of Phishing". Talk at IMPACT 2024. [video](https://www.youtube.com/watch?v=oEFN9Dlf6jI)
+* Rick Wash, "Rethink or Sink: Unraveling the Human Side of Phishing". Talk at IMPACT 2024. ( [video](https://www.youtube.com/watch?v=oEFN9Dlf6jI), [report](https://www.cybsafe.com/whitepapers/impact-2024-the-findings/))
 * Rick Wash, "Detecting Phishing: Using Email in the Presence of Adversaries". Talk at University of Wisconsin, Madison - iSchool (Feb 2023)
 * Rick Wash, "How People Detect Phishing Messages". Invited Talk at Bank of America (May 2022)
 * Rick Wash, "[How People Detect Phishing Messages](https://blogs.mtu.edu/icc/2021/11/dr-rick-wash-msu-to-present-keynote-lecture-november-11/)". Talk at Michigan Technical University (November 2021)
