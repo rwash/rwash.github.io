@@ -455,6 +455,7 @@ Previous Work Experience
 In The News
 -----------
 
+* On Aug 15, 2024, I was an expert about the NationalPublicData breach on CBS58 evening news in MIlwaukee.
 * On Feb 29, 2024, I was an expert about the UnitedHealth hack on the FOX6 evening news broadcast in Milwaukee.
 * On May 11, I was interviewed by a WSJ reporter for an article about passwords
 * On April 1, 2022, I was a guest on the nationally syndicated ratio show/podcast "Let's Go There w/ Shira & Ryan", where I talked about my Bitcoin research.
