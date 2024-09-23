@@ -415,6 +415,12 @@ Reviewer for:
 * ACM Computing Surveys 2018, 2019
 * ACM Transactions on Computer Human Interaction (TOCHI) 2021
 
+<!--
+I conducted external tenure/promotion reviews for faculty in
+* 2017
+* 2024
+-->
+
 ### University Service
 
 * MSU Social Media Seminar Series.  Organizer, Fall 2010, Fall 2011, Fall 2012
@@ -434,9 +440,17 @@ Reviewer for:
 * MSU MI Department PhD program re-vision committee -- 2017-2018
 * MSU MI Search Committee. 2018-2019
 * MSU MI Director of Doctoral Studies, 2020-2021
-* MSU ComArtSci Research Advisory Board, 2021-
-* MSU MI Annual Performance Reivew Committee 2022-
-* MSU MI Ad-hoc Committee on Evaluating Creative Works
+* MSU ComArtSci Research Advisory Board, 2021-2023
+* MSU MI Annual Performance Reivew Committee 2022-2023
+* MSU MI Ad-hoc Committee on Evaluating Creative Works 2022-2023
+* UW-Madison iSchool Executive Committee, 2023-Present
+* UW-Madison iSchool Curriculum Committee, Fall 2023 <!-- split into 3 in SPring 2024 -->
+* UW-Madison iSchool Undergraduate Curriculum Committee, Spring 2024-Present
+* UW-Madison iSchool MS-Info Curriculum Committee, Spring 2024-Present
+* UW-Madison College of L&S -- 10-year review of Computer Science undergrad program, committee member 2023-2024
+* UW-Madison iSchool PhD Committee, Fall 2024-Present
+* UW-Madison iSchool Mentoring Committee, Fall 2024-Present
+* UW-Madison iSchool Associate Director for Research, Fall 2024-Present <!-- also helped create the role -->
 
 
 ### Outreach
