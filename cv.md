@@ -469,6 +469,7 @@ Previous Work Experience
 In The News
 -----------
 
+* On Oct 18, 2024, I was quoted as an expert by [Wisconsin Law Journal](https://wislawjournal.com/2024/10/18/wisconsins-legal-community-top-target-for-cyberattacks/) in an article about phishing attacks against the legal community.
 * On Aug 15, 2024, I was an expert about the NationalPublicData breach on CBS58 evening news in MIlwaukee.
 * On Feb 29, 2024, I was an expert about the UnitedHealth hack on the FOX6 evening news broadcast in Milwaukee.
 * On May 11, I was interviewed by a WSJ reporter for an article about passwords
