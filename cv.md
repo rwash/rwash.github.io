@@ -254,6 +254,7 @@ Teaching Experience
 
 #### PhD Advisor
 
+* Zach Schults. UW-Madison iSchool. 2024-Present
 * Megan Knittel. MSU IM. 2018-2020
 * Chris Fennell. MSU IM. 2016-2020
 * Yuyang Liang. MSU MIS. 2015-2016 (graduated)
@@ -306,6 +307,7 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Tara Thomsen, UW-Madison.  Fall 2024-Present
 * Sophie Lamphier, MSU. Spring 2021
 * Abrielle Mason, MSU. Fall 2019, Spring 2020
 * Faye Kollig, MSU. Fall 2019, Spring 2020, <!-- professorial assistant --> Summer 2020, Fall 2020, Spring 2021
@@ -418,7 +420,7 @@ Reviewer for:
 <!--
 I conducted external tenure/promotion reviews for faculty in
 * 2017
-* 2024
+* 2024 x2
 -->
 
 ### University Service
@@ -451,6 +453,7 @@ I conducted external tenure/promotion reviews for faculty in
 * UW-Madison iSchool PhD Committee, Fall 2024-Present
 * UW-Madison iSchool Mentoring Committee, Fall 2024-Present
 * UW-Madison iSchool Associate Director for Research, Fall 2024-Present <!-- also helped create the role -->
+* UW-Madison CDIS -- Visioning Committee for a new college, Fall 2024-Present
 
 
 ### Outreach
