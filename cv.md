@@ -254,7 +254,7 @@ Teaching Experience
 
 #### PhD Advisor
 
-* Zach Schults. UW-Madison iSchool. 2024-Present
+* Zach Schultz. UW-Madison iSchool. 2024-Present
 * Megan Knittel. MSU IM. 2018-2020
 * Chris Fennell. MSU IM. 2016-2020
 * Yuyang Liang. MSU MIS. 2015-2016 (graduated)
