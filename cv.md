@@ -307,6 +307,7 @@ Teaching Experience
 
 #### Undergraduate Research Assistants
 
+* Jennifer Salemy, UW-Madison.  Spring 2025-Present
 * Tara Thomsen, UW-Madison.  Fall 2024-Present
 * Sophie Lamphier, MSU. Spring 2021
 * Abrielle Mason, MSU. Fall 2019, Spring 2020
