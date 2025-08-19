@@ -6,7 +6,7 @@ layout: master
 Rick Wash
 =========
 
-### Associate Professor
+### Professor
 The Information School  
 *University of Wisconsin, Madison*
 
@@ -26,8 +26,9 @@ Middleton, WI 53562
 ### Appointments
 
 Information School at the University of Wisconsin, Madison  
+* 2025-Present: Professor (with tenure), *University of Wisconsin--Madison*, Information School
 * 2024-Present: Associate Director of Research, Information School
-* 2023-Present: Associate Professor (with tenure), *University of Wisconsin, Madison*
+* 2023-2025: Associate Professor (with tenure), *University of Wisconsin--Madison*, Information School
 
 Michigan State University  
 * 2016-2023: Associate Professor (with tenure), *Michigan State University*.
@@ -254,6 +255,7 @@ Teaching Experience
 
 #### PhD Advisor
 
+* Katherine Rackliffe, UW-Madison iSchool. 2025-Present
 * Zach Schultz. UW-Madison iSchool. 2024-Present
 * Megan Knittel. MSU IM. 2018-2020
 * Chris Fennell. MSU IM. 2016-2020
@@ -448,11 +450,11 @@ I conducted external tenure/promotion reviews for faculty in
 * MSU MI Ad-hoc Committee on Evaluating Creative Works 2022-2023
 * UW-Madison iSchool Executive Committee, 2023-Present
 * UW-Madison iSchool Curriculum Committee, Fall 2023 <!-- split into 3 in SPring 2024 -->
-* UW-Madison iSchool Undergraduate Curriculum Committee, Spring 2024-Present
+* UW-Madison iSchool Undergraduate Curriculum Committee, Spring 2024-Spring 2025
 * UW-Madison iSchool MS-Info Curriculum Committee, Spring 2024-Present
 * UW-Madison College of L&S -- 10-year review of Computer Science undergrad program, committee member 2023-2024
 * UW-Madison iSchool PhD Committee, Fall 2024-Present
-* UW-Madison iSchool Mentoring Committee, Fall 2024-Present
+* UW-Madison iSchool Mentoring Committee, Fall 2024-Spring 2025
 * UW-Madison iSchool Associate Director for Research, Fall 2024-Present <!-- also helped create the role -->
 * UW-Madison CDIS -- Visioning Committee for a new college, Fall 2024-Present
 
