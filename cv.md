@@ -151,6 +151,7 @@ Publications
 
 ### Invited Talks
 
+* Rick Wash, "How People Detect Phishing Messages: Using Email in the Presence of Adversaries".  Talk at the Freedom of the Press Foundation. Sept 26, 2025.
 * Rick Wash, "Rethink or Sink: Unraveling the Human Side of Phishing". Talk at IMPACT 2024. ( [video](https://www.youtube.com/watch?v=oEFN9Dlf6jI), [report](https://www.cybsafe.com/whitepapers/impact-2024-the-findings/))
 * Rick Wash, "Detecting Phishing: Using Email in the Presence of Adversaries". Talk at University of Wisconsin, Madison - iSchool (Feb 2023)
 * Rick Wash, "How People Detect Phishing Messages". Invited Talk at Bank of America (May 2022)
@@ -189,6 +190,7 @@ Publications
 Teaching Experience
 -------------------
 
+<!--
 ### Classes Taught
 
 #### Instructor of Record
@@ -230,9 +232,11 @@ Teaching Experience
 * Graduate Student Instructor: EECS 381 *Advanced Object Oriented Programming*, Electrical Engineering and Computer Science, University of Michigan. Fall 2004. 
 * Teaching Assistant: ECES 381 *Intro to Operating Systems*, Computer Engineering and Science, Case Western Reserve University. Spring 2001. 
 * Teaching Assistant: ENGR 101 *Intro to Computer Science*, College of Engineering, Case Western Reserve University. Fall 1999.
+-->
 
 #### Independent Study Projects Supervised
 
+* Tara Thomsen (UG): Fall 2025
 * Ruth Shillair (PhD): Fall 2014
 * Michael Friedman (PhD): Spring 2012
 * Andrew Rockwell (UG): Spring 2012
@@ -451,13 +455,13 @@ I conducted external tenure/promotion reviews for faculty in
 * MSU MI Ad-hoc Committee on Evaluating Creative Works 2022-2023
 * UW-Madison iSchool Executive Committee, 2023-Present
 * UW-Madison iSchool Curriculum Committee, Fall 2023 <!-- split into 3 in SPring 2024 -->
-* UW-Madison iSchool Undergraduate Curriculum Committee, Spring 2024-Spring 2025
-* UW-Madison iSchool MS-Info Curriculum Committee, Spring 2024-Present
+* UW-Madison iSchool Undergraduate Curriculum Committee, Spring 2024-Present
+* UW-Madison iSchool MS-Info Curriculum Committee, Spring 2024-Spring 2025
 * UW-Madison College of L&S -- 10-year review of Computer Science undergrad program, committee member 2023-2024
 * UW-Madison iSchool PhD Committee, Fall 2024-Present
 * UW-Madison iSchool Mentoring Committee, Fall 2024-Spring 2025
 * UW-Madison iSchool Associate Director for Research, Fall 2024-Present <!-- also helped create the role -->
-* UW-Madison CDIS -- Visioning Committee for a new college, Fall 2024-Present
+* UW-Madison CDIS -- Visioning Committee for a new college, Fall 2024-Spring 2025
 
 
 ### Outreach
