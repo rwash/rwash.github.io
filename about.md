@@ -25,7 +25,7 @@ Facebook: [Rick Wash](http://facebook.com/rwash)
 
 Rick Wash is an expert on the human aspects of cybersecurity.  
 
-He is an Associate Professor in the Information School at the University of Wisconsin, Madison. He studies how people
+He is a Professor in the Information School at the University of Wisconsin, Madison. He studies how people
 think about their interactions with modern technology, with an emphasis on the work people do to protect themselves from
 risks associated with using information technology and the Internet.  
 
