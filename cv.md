@@ -151,7 +151,7 @@ Publications
 
 ### Invited Talks
 
-* Rick Wash. "What is cybersecurity protection? The Role of human agency in positive cybersecurity." Talk at Cybergreen / IU Ostrom Workshop seminar.  Feb 26, 2026
+* Rick Wash. "[What is cybersecurity protection? The Role of human agency in positive cybersecurity.](https://www.youtube.com/watch?v=eum-OhE3RVA)" Talk at Cybergreen / IU Ostrom Workshop seminar.  Feb 26, 2026
 * Rick Wash, "How People Detect Phishing Messages: Using Email in the Presence of Adversaries".  Talk at the Freedom of the Press Foundation. Sept 26, 2025.
 * Rick Wash, "Rethink or Sink: Unraveling the Human Side of Phishing". Talk at IMPACT 2024. ( [video](https://www.youtube.com/watch?v=oEFN9Dlf6jI), [report](https://www.cybsafe.com/whitepapers/impact-2024-the-findings/))
 * Rick Wash, "Detecting Phishing: Using Email in the Presence of Adversaries". Talk at University of Wisconsin, Madison - iSchool (Feb 2023)
