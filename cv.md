@@ -481,6 +481,8 @@ Previous Work Experience
 In The News
 -----------
 
+* On May 8, 2026 I was interviewed by Channel 15 news in Madison (NBC affiliate) about the [Canvas cyberattack](https://www.wmtv15news.com/2026/05/08/canvas-outage-disrupts-finals-week-uw-madison-leaving-students-professors-waiting-answers/).
+* On Jan 20, I was quoted by CNBC in an article about [online cryptocurrenty fraud](https://www.cnbc.com/2026/01/20/how-my-coinbase-account-was-almost-stolen.html)
 * On Oct 18, 2024, I was quoted as an expert by [Wisconsin Law Journal](https://wislawjournal.com/2024/10/18/wisconsins-legal-community-top-target-for-cyberattacks/) in an article about phishing attacks against the legal community.
 * On Aug 15, 2024, I was an expert about the NationalPublicData breach on CBS58 evening news in MIlwaukee.
 * On Feb 29, 2024, I was an expert about the UnitedHealth hack on the FOX6 evening news broadcast in Milwaukee.
