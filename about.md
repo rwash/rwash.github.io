@@ -11,8 +11,8 @@ focuses on information security, crowdsourcing, and online communities.
 ### Contact Info
 
 *Rick Wash*  
-4251 Helen C. White building  
-600 N. Park st  
+4657 Morgridge Hall
+1205 University Ave
 University of Wisconsin, Madison  
 Madison, WI  
 
