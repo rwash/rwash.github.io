@@ -3,7 +3,7 @@ title: Rick Wash
 layout: master
 ---
 
-I am an Associate Professor at the University of Wisconsin, Madison in the [Information School](https://ischool.wisc.edu).
+I am a (full) Professor at the University of Wisconsin, Madison in the [Information School](https://ischool.wisc.edu).
 
 My research focuses on understanding how people think about and reason about their use of technology, with particular
 focuses on information security, crowdsourcing, and online communities.
