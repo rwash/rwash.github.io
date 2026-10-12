@@ -12,7 +12,7 @@ issue:
 doi: 10.1016/j.chb.2026.109211
 abstract: false
 file: 
-osf: 
+osf: https://osf.io/ena23/overview?view_only=26856c476efa4c9e83e3228e57f37f10
 link: https://doi.org/10.1016/j.chb.2026.109211
 ---
 
