@@ -10,7 +10,7 @@ month: October
 volume: 
 issue: 
 doi: 10.1016/j.chb.2026.109211
-abstract: false
+abstract: true
 file: 
 osf: https://osf.io/ena23/overview?view_only=26856c476efa4c9e83e3228e57f37f10
 link: https://doi.org/10.1016/j.chb.2026.109211
@@ -25,17 +25,15 @@ file:
 link:
  -->
 
-Passwords are one of the most common security technologies that people use ev-
-eryday. Choosing a new password is a security decision that can have important
-consequences for end users. Passwords can be long and complex, which
-prioritizes the security-focused aspects of a password. They can also be simple
-— easy to create, remember and use — which prioritizes the usability aspects of
-the password. The trade-off between password security versus usability
-represents competing constraints that shape password creation and use. We
-examined an ecologically valid dataset of 853 passwords entered a total of 2533
-times by 134 users into 1010 websites, to test hypotheses about the impact of
-these constraints. We found evidence that choices about password complexity
-reflect an emphasis on security needs, but little support for the hypothesis
-that users take day-to-day ease of use of the password into account when
-creating it. There was also little evidence that password creation policies
-drive password choices.
+Highlights
+* Combines Dual Process Theory, Wash’s Theory of Suspicion Formation, and Protection Motivation Theory
+* Develops a new model of how individuals detect and respond to email-based fraud
+* Tests this model using a survey, and finds much support for the model
+* Refines the model based on these tests
+* Illustrates how this model can be used both by researchers and practitioners
+
+In recent years, there has been a significant increase in both the prevalence and complexity of online fraud, with fraudsters often relying on social engineering techniques to convince individuals to voluntarily disclose sensitive information or transfer their money. This study aims to advance our understanding of the psychological dimensions of fraud by integrating three complementary theories grounded in psychology and human behaviour: Dual Process Theory (DPT; System 1 and 2), Wash's Model of Suspicion Formation (MSF), and Protection Motivation Theory (PMT).
+
+We propose a holistic model of decision-making in the context of fraud detection and response. This model accounts for the initial sense-making and suspicion formation a user experiences when receiving fraud content (MSF), explores a user's cognitive shift from an intuitive response of System 1 to the more deliberative response of System 2 (DPT) and, describes how, once shifted to System 2, people respond more systematically to an instance of fraud (PMT).
+
+We derived and tested ten hypotheses through a survey of over 500 U.S. respondents, who were presented with a simulated phishing email modeled on actual bank fraud scenarios. The findings largely support the hypotheses, though a subset were either partially supported or refuted. These findings lead to a refined version of our proposed model. This study provides a theoretical framework for understanding fraud-related decision-making and offers a foundation for future research and the development of more realistic fraud education and awareness initiatives, grounded in human behaviour and psychology.
